@@ -1,43 +1,19 @@
 {
- "genere": "2026-11-04T12:21:11+00:00",
- "jour": "2026-11-04",
+ "genere": "2026-11-05T06:35:49+00:00",
+ "jour": "2026-11-05",
  "api_ok": true,
  "total": 296,
  "par_tarif": {
-  "gratuit": 174,
+  "gratuit": 173,
   "gratuit_sous_condition": 13,
-  "payant": 109,
+  "payant": 110,
   "inconnu": 0
  },
- "nouvelles": [],
+ "nouvelles": [
+  "qfap-127061"
+ ],
  "avec_affluence": 51,
  "expositions": [
-  {
-   "id": "qfap-126358",
-   "titre": "MOIRE : une performance gratuite par Souffle Collectif à la Galerie du 19M",
-   "resume": "Dans le cadre de l'exposition « Métamorphoses, les chapeaux de Maison Michel », la Galerie du 19M s’associe à Souffle Collectif et propose MOIRE, une performance inédite avec l’artiste panaméenne Ana Elena Tejera et le violoniste Sylvain Rabourdin, accompagnés de musiciens invités.",
-   "debut": "2026-11-04",
-   "fin": "2026-11-04",
-   "horaires": "Le mercredi 04 novembre 2026 de 19h30 à 22h00",
-   "lieu": "le19M",
-   "adresse": "2, place de Skanderbeg, 75019 Paris",
-   "lat": 48.9013260085607,
-   "lon": 2.37174600473222,
-   "thematiques": [
-    "Autres"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0,
-    "reservation": true,
-    "billetterie": "https://www.le19m.com/fr/agenda/moire-avec-ana-elena-tejera-et-sylvain-rabourdin"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/21/huge-461b534384a309f987dca92cd867532a.jpg",
-   "lien": "https://www.paris.fr/evenements/moire-une-performance-gratuite-par-souffle-collectif-a-la-galerie-du-19m-126358",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
   {
    "id": "qfap-126403",
    "titre": "\"Ce que le béton retient\", une exposition de Thomas Busuttil",
@@ -6794,6 +6770,33 @@
     "score": 5.089,
     "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
    }
+  },
+  {
+   "id": "qfap-127061",
+   "titre": "Alive with Shadows de Mika Ninagawa au Grand Palais",
+   "resume": "Le Grand Palais présente cet hiver une exposition inédite en Europe de Mika Ninagawa, figure majeure des arts visuels japonais. À travers photographies, vidéos et installations, son univers se déploie à grande échelle, invitant le regard à franchir les seuils d’un monde intensément sensible.",
+   "debut": "2026-12-16",
+   "fin": "2027-03-20",
+   "horaires": "Du mercredi 16 décembre 2026 au dimanche 21 mars 2027 : vendredi de 10h00 à 22h00 mardi, mercredi, jeudi, samedi de 10h00 à 19h30 Fermé le vendredi 25 décembre 2026",
+   "lieu": "Grand Palais",
+   "adresse": "Avenue Winston Churchill, 75008 Paris",
+   "lat": 48.8659118578112,
+   "lon": 2.31382085611823,
+   "thematiques": [
+    "Photographie",
+    "Art contemporain",
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "payant",
+    "reservation": true,
+    "billetterie": "https://www.grandpalais.fr/fr/programme/mika-ninagawa-eim-alive-shadows"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/04/huge-036941b46ba8ba5c12c104f26f7aa4b9.png",
+   "lien": "https://www.paris.fr/evenements/alive-with-shadows-de-mika-ninagawa-au-grand-palais-127061",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-05"
   },
   {
    "id": "qfap-120535",
