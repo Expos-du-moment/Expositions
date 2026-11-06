@@ -1,78 +1,25 @@
 {
- "genere": "2026-11-05T06:35:49+00:00",
- "jour": "2026-11-05",
+ "genere": "2026-11-06T06:36:51+00:00",
+ "jour": "2026-11-06",
  "api_ok": true,
- "total": 296,
+ "total": 299,
  "par_tarif": {
-  "gratuit": 173,
+  "gratuit": 176,
   "gratuit_sous_condition": 13,
   "payant": 110,
   "inconnu": 0
  },
  "nouvelles": [
-  "qfap-127061"
+  "qfap-127135",
+  "qfap-127133",
+  "qfap-127131",
+  "qfap-127173",
+  "qfap-127128",
+  "qfap-127126",
+  "qfap-126427"
  ],
- "avec_affluence": 51,
+ "avec_affluence": 50,
  "expositions": [
-  {
-   "id": "qfap-126403",
-   "titre": "\"Ce que le béton retient\", une exposition de Thomas Busuttil",
-   "resume": "Du 15 septembre au 5 novembre, Thomas Busuttil et la Ville de Paris proposent aux Parisiennes et aux Parisiens une introspection dans l'univers du skate et son appropriation du domaine public, à travers une exposition présentée sur le Quai Solférino.",
-   "debut": "2026-09-15",
-   "fin": "2026-11-05",
-   "horaires": "Du mardi 15 septembre 2026 au jeudi 05 novembre 2026 :",
-   "lieu": "Port Solférino",
-   "adresse": "Promenade Edouard Glissant, 75007 Paris",
-   "lat": 48.8606843528291,
-   "lon": 2.32640551551781,
-   "thematiques": [
-    "Photographie",
-    "Architecture & ville"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/22/huge-e792dab5175bd10b1ae099ebc114b5a4.png",
-   "lien": "https://www.paris.fr/evenements/ce-que-le-beton-retient-une-exposition-de-thomas-busuttil-126403",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-126325",
-   "titre": "La Contre-Soirée du musée national de la Marine",
-   "resume": "Pour sa nouvelle Contre-soirée, le musée national de la Marine vous invite à découvrir gratuitement les collections et l'exposition «L'appel des profondeurs» et vous propose des activités inédites. Une nocturne spécialement pensée pour les jeunes adultes !",
-   "debut": "2026-11-05",
-   "fin": "2026-11-05",
-   "horaires": "Le jeudi 05 novembre 2026 de 19h00 à 23h00",
-   "lieu": "Musée national de la Marine",
-   "adresse": "17 place du Trocadéro et du 11 novembre, 75116 Paris",
-   "lat": 48.8622257989252,
-   "lon": 2.28737963186304,
-   "thematiques": [
-    "Art contemporain"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "L'entrée est gratuite, mais la réservation est fortement conseillée",
-    "prix_min": 0,
-    "reservation": true
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-69d24d817f2f539b452b92f74e6596c6.jpg",
-   "lien": "https://www.paris.fr/evenements/la-contre-soiree-du-musee-national-de-la-marine-126325",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03",
-   "affluence": {
-    "visiteurs": 292355,
-    "annee": 2018,
-    "lieu": "musée national de la marine",
-    "niveau": 1,
-    "score": 5.466,
-    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
-   }
-  },
   {
    "id": "qfap-123635",
    "titre": "Exposition \"Mosaïque d'atelier\"",
@@ -1131,7 +1078,7 @@
    "resume": "Marc RIBOUD - \" La géométrie devient poésie, vie, émotion \" - Photographies du 4 au 16 novembre 2026 . Vernissage le jeudi 5 novembre.",
    "debut": "2026-11-04",
    "fin": "2026-11-16",
-   "horaires": "Le jeudi 05 novembre 2026 de 18h00 à 21h00 Du mercredi 04 novembre 2026 au lundi 16 novembre 2026 :",
+   "horaires": "Du mercredi 04 novembre 2026 au lundi 16 novembre 2026 :",
    "lieu": "Galerie Arcturus",
    "adresse": "5 rue Jacques Callot, 75006 Paris",
    "lat": 48.856578,
@@ -1918,6 +1865,31 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127135",
+   "titre": "Park Chan-wook : Quand l’horloger immobilise le temps",
+   "resume": "Pour le public international, Park Chan-wook évoque une virtuosité cinématographique flamboyante et des récits baroques traversés par une violence stylisée. Pourtant, la photographie révèle une autre facette de son génie créatif : un espace de liberté où le cinéaste s’affranchit des contraintes du scénario et du tournage.",
+   "debut": "2026-10-30",
+   "fin": "2026-11-28",
+   "horaires": "Du vendredi 30 octobre 2026 au samedi 28 novembre 2026 : mardi, mercredi, jeudi, vendredi, samedi de 11h00 à 18h00",
+   "lieu": "Galerie VU’",
+   "adresse": "60, avenue de Saxe, 75015 Paris",
+   "lat": 48.8463320065505,
+   "lon": 2.31270203474568,
+   "thematiques": [
+    "Photographie",
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://galerievu.com/fat-event/park-chan-wook/#prev"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-5eddef66c9cb1a6d8e3ec4e5240bb72d.jpg",
+   "lien": "https://www.paris.fr/evenements/park-chan-wook-quand-l-horloger-immobilise-le-temps-127135",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-06"
+  },
+  {
    "id": "qfap-126350",
    "titre": "Plats de fêtes : la part dessinée",
    "resume": "Exposition dans le cadre de Ici et Ailleurs : Histoires de cuisine",
@@ -2476,6 +2448,31 @@
     "score": 5.224,
     "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
    }
+  },
+  {
+   "id": "qfap-126427",
+   "titre": "\"Denise Colomb\", une exposition du festival PhotoSaintGermain et du comité Denise Colomb",
+   "resume": "Du 5 novembre au 5 décembre, le Ville de Paris, le festival PhotoSaintGermain et le comité Denise Colomb souhaitent faire découvrir aux Parisiennes et Parisiens le travail remarquable et encore trop méconnu de Denise Colomb.",
+   "debut": "2026-11-05",
+   "fin": "2026-12-12",
+   "horaires": "Du jeudi 05 novembre 2026 au samedi 12 décembre 2026 :",
+   "lieu": "Port Solférino",
+   "adresse": "Promenade Edouard Glissant, 75007 Paris",
+   "lat": 48.8606843528291,
+   "lon": 2.32640551551781,
+   "thematiques": [
+    "Photographie",
+    "Architecture & ville"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/10/22/huge-0acfedf34dbcd4e0a44f995e28c1e1e1.png",
+   "lien": "https://www.paris.fr/evenements/denise-colomb-une-exposition-du-festival-photosaintgermain-et-du-comite-denise-colomb-126427",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-06"
   },
   {
    "id": "qfap-125442",
@@ -3634,9 +3631,9 @@
    "vu_le": "2026-11-03"
   },
   {
-   "id": "qfap-115036",
+   "id": "qfap-127173",
    "titre": "Avec une légère intimité : Madeleine Malraux, pianiste",
-   "resume": "Une exposition à partir du livre éponyme de Céline Malraux.",
+   "resume": "Une exposition à partir du livre éponyme de Céline Malraux. Visite commentée samedi 14 novembre à 14h30, sur inscription.",
    "debut": "2026-10-01",
    "fin": "2026-12-31",
    "horaires": "Du jeudi 01 octobre 2026 au jeudi 31 décembre 2026 :",
@@ -3649,14 +3646,14 @@
    ],
    "tarif": {
     "type": "gratuit",
-    "detail": "Entrée libre. Tout public .&nbsp; &nbsp;4e étage.",
+    "detail": "Entrée libre. 4 e étage.&nbsp; &nbsp;Visite commentée, sur inscription.&nbsp;",
     "prix_min": 0
    },
    "image": "https://cdn.paris.fr/qfapv4/2026/06/27/huge-f6e027218a41f5e54f1e4a1855feabf2.jpg",
-   "lien": "https://www.paris.fr/evenements/avec-une-legere-intimite-madeleine-malraux-pianiste-115036",
+   "lien": "https://www.paris.fr/evenements/avec-une-legere-intimite-madeleine-malraux-pianiste-127173",
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
+   "vu_le": "2026-11-06"
   },
   {
    "id": "qfap-125521",
@@ -4453,6 +4450,31 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127133",
+   "titre": "Charles Fréger – Silhouettes",
+   "resume": "La galerie Les filles du calvaire présente une nouvelle exposition consacrée au travail de Charles Fréger, dans son espace du 21 rue Chapon.",
+   "debut": "2026-10-31",
+   "fin": "2027-01-09",
+   "horaires": "Du samedi 31 octobre 2026 au samedi 09 janvier 2027 : mardi de 14h00 à 18h30 mercredi, jeudi, vendredi, samedi de 11h00 à 18h30",
+   "lieu": "Galerie Les filles du calvaire",
+   "adresse": "21, rue Chapon, 75003 Paris",
+   "lat": 48.8635019999293,
+   "lon": 2.35555904095784,
+   "thematiques": [
+    "Photographie",
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.fillesducalvaire.com/exhibitions/193-charles-freger-silhouettes/overview/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-5e9069c154f362bce9cbe6a4b3a79956.jpg",
+   "lien": "https://www.paris.fr/evenements/charles-freger-silhouettes-127133",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-06"
+  },
+  {
    "id": "qfap-123388",
    "titre": "Cric, Crac, Croc … Corentin ! Une exposition hommage à Philippe Corentin",
    "resume": "Une exposition hommage à Philippe Corentin, auteur et illustrateur Jeunesse du 03.11.2026 au 09.01.2027",
@@ -4505,7 +4527,7 @@
   {
    "id": "qfap-126884",
    "titre": "Payram. Que vos pas soient légers car vous marchez sur mes rêves",
-   "resume": "Du 5 novembre 2026 au 9 janvier 2027, la Galerie Maubert présente Que vos pas soient légers car vous marchez sur mes rêves, la troisième exposition personnelle du photographe iranien Payram à la galerie à Paris, dans le cadre du bicentenaire de la photographie. Réunissant des œuvres réalisées selon différentes techniques argentiques (Polaroïds, tirages barytés, tirages solarisés, collages…), l’exp",
+   "resume": "Du 5 novembre 2026 au 9 janvier 2027, la Galerie Maubert présente Que vos pas soient légers car vous marchez sur mes rêves, la troisième exposition personnelle du photographe iranien Payram à la galerie à Paris, dans le cadre du bicentenaire de la photographie.",
    "debut": "2026-11-05",
    "fin": "2027-01-09",
    "horaires": "Du jeudi 05 novembre 2026 au samedi 09 janvier 2027 : mardi, mercredi, jeudi, vendredi, samedi de 13h00 à 19h00",
@@ -4514,8 +4536,7 @@
    "lat": 48.8579830196025,
    "lon": 2.36602602636722,
    "thematiques": [
-    "Photographie",
-    "Histoire & patrimoine"
+    "Photographie"
    ],
    "tarif": {
     "type": "gratuit",
@@ -4864,6 +4885,31 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127128",
+   "titre": "Rebekka Deubner. Strip",
+   "resume": "Un fond rouge-orangé, presque incandescent. Une boucle jaune irrégulière, attachée par un petit anneau à ce qui semble être un fragment de tissu dont on distingue les coutures desquelles s’échappent quelques fils élimés. La matière a été portée, s’est même certainement adaptée à la forme d’un corps. Quelque chose semble s’être inscrit là, dans la tension même de la matière, à la surface brillante ",
+   "debut": "2026-11-13",
+   "fin": "2027-01-16",
+   "horaires": "Du vendredi 13 novembre 2026 au dimanche 17 janvier 2027 : mercredi, jeudi, vendredi, samedi de 14h00 à 19h00",
+   "lieu": "Les Douches la Galerie",
+   "adresse": "54, rue Chapon, 75003 Paris",
+   "lat": 48.8640839973763,
+   "lon": 2.35385600587068,
+   "thematiques": [
+    "Photographie",
+    "Design, mode & arts déco"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.lesdoucheslagalerie.com/exhibitions/162-rebekka-deubner-strip/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-7de5dc972ad5b105a2a674196058861e.jpg",
+   "lien": "https://www.paris.fr/evenements/rebekka-deubner-strip-127128",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-06"
+  },
+  {
    "id": "qfap-126887",
    "titre": "Steve McCurry. Immersion",
    "resume": "Après Joel Meyerowitz, Polka consacre la deuxième édition d’Immersion à Steve McCurry. À la croisée de l’exposition photographique et du film, ce projet original invite à entrer dans l’univers d’un photographe pour mieux comprendre son œuvre. Car derrière les images qui ont fait le tour du monde se dessinent un regard, une méthode, une exigence. Et une certaine idée de la photographie.",
@@ -4888,6 +4934,30 @@
    "lien": "https://www.paris.fr/evenements/steve-mccurry-immersion-126887",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127126",
+   "titre": "Yves Marchand & Romain Meffre. Les Ruines de Détroit, 20 ans après",
+   "resume": "Vingt ans après leur première rencontre avec Détroit, Yves Marchand et Romain Meffre reviennent là où tout a commencé. Cette fois, la question n’est plus de savoir ce que cet ancien bastion industriel a perdu, mais de regarder ce qu’il est devenu. Pour accompagner la sortie de leur nouveau livre chez Albin Michel, la galerie Polka revient sur ce travail qui a marqué le début de leur aventu",
+   "debut": "2026-11-12",
+   "fin": "2027-01-16",
+   "horaires": "Du jeudi 12 novembre 2026 au samedi 16 janvier 2027 : mardi, mercredi, jeudi, vendredi, samedi de 11h00 à 19h00",
+   "lieu": "Polka Galerie",
+   "adresse": "Cour de Venise - 12, rue Saint-Gilles, 75003 Paris",
+   "lat": 48.8578709954665,
+   "lon": 2.36663798911806,
+   "thematiques": [
+    "Photographie"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.polkagalerie.com/fr/exposition-les-ruines-de-detroit-20-ans-apres-d-yves-marchand-romain-meffre.htm"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-adad01a21d3d0550c8a60645aab7dd76.jpg",
+   "lien": "https://www.paris.fr/evenements/yves-marchand-romain-meffre-les-ruines-de-detroit-20-ans-apres-127126",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-06"
   },
   {
    "id": "sel-grandpalais-cezanne-et-nous",
@@ -5809,31 +5879,6 @@
    }
   },
   {
-   "id": "qfap-118002",
-   "titre": "La carte de France de Cassini. Une encyclopédie du territoire",
-   "resume": "Chef d’œuvre cartographique du XVIIIe siècle, la carte de France de Cassini est la première carte de France levée géométriquement à l’échelle d’un pays entier. Document historique emblématique, composé de 181 feuilles, c’est aussi un objet d’art monumental de onze mètres de largeur sur douze mètres de hauteur. S’appuyant notamment sur un versement majeur de l’IGN aux Archives nationales, l’exposit",
-   "debut": "2026-10-14",
-   "fin": "2027-02-01",
-   "horaires": "Du mercredi 14 octobre 2026 au lundi 01 février 2027 : dimanche de 14h00 à 19h00 samedi de 14h00 à 17h30 lundi, mercredi, jeudi, vendredi de 10h00 à 17h30",
-   "lieu": "Le Musée des Archives nationales – L’Hôtel de Soubise",
-   "adresse": "60, rue des Francs-Bourgeois, 75003 Paris",
-   "lat": 48.8599629927706,
-   "lon": 2.3572719666908,
-   "thematiques": [
-    "Histoire & patrimoine",
-    "Sciences & nature"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0,
-    "billetterie": "https://www.archives-nationales.culture.gouv.fr/evenements/la-carte-de-france-de-cassini-une-encyclopedie-du-territoire"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-066e932726e22e6618a39f8f97e43815.jpg",
-   "lien": "https://www.paris.fr/evenements/la-carte-de-france-de-cassini-une-encyclopedie-du-territoire-118002",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
    "id": "qfap-125276",
    "titre": "From Rasht, Darius Dolatyari-Dolatdoust",
    "resume": "Depuis dix ans, Darius Dolatyari-Dolatdoust fait de son impossible voyage en Iran la matière d’une exploration sensible. Pour sa première exposition personnelle à Paris, il présente cette géographie intime à l’ICI, accompagnée de pièces inédites, dans une scénographie chatoyante et vivante inspirée de sa pratique performative.",
@@ -6476,6 +6521,30 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127131",
+   "titre": "Marek Piasecki. A Friday Person",
+   "resume": "Marek Piasecki est né un samedi, le 23 février 1935.",
+   "debut": "2026-11-05",
+   "fin": "2027-02-27",
+   "horaires": "Du jeudi 05 novembre 2026 au dimanche 28 février 2027 : mardi, mercredi, jeudi, vendredi, samedi de 14h00 à 19h00 mardi, mercredi, jeudi, vendredi, samedi de 11h00 à 13h00",
+   "lieu": "La Galerie Le Minotaure",
+   "adresse": "2, rue des Beaux Arts / 23, rue de Seine, 75006 Paris",
+   "lat": 48.8563609956095,
+   "lon": 2.33630798865869,
+   "thematiques": [
+    "Photographie"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://galerieleminotaure.net/fr/exposition/marek-piasecki-a-friday-person/#"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-d61d5c3740d96804b4d4c3dad360151d.jpg",
+   "lien": "https://www.paris.fr/evenements/marek-piasecki-a-friday-person-127131",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-06"
   },
   {
    "id": "qfap-126898",
