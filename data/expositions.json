@@ -1,128 +1,34 @@
 {
- "genere": "2026-11-06T06:36:51+00:00",
- "jour": "2026-11-06",
+ "genere": "2026-11-07T06:25:26+00:00",
+ "jour": "2026-11-07",
  "api_ok": true,
- "total": 299,
+ "total": 304,
  "par_tarif": {
-  "gratuit": 176,
+  "gratuit": 180,
   "gratuit_sous_condition": 13,
-  "payant": 110,
+  "payant": 111,
   "inconnu": 0
  },
  "nouvelles": [
-  "qfap-127135",
-  "qfap-127133",
-  "qfap-127131",
-  "qfap-127173",
-  "qfap-127128",
-  "qfap-127126",
-  "qfap-126427"
+  "qfap-127234",
+  "qfap-127212",
+  "qfap-127174",
+  "qfap-127154",
+  "qfap-118002",
+  "qfap-127125",
+  "qfap-127240",
+  "qfap-127183",
+  "qfap-127146"
  ],
  "avec_affluence": 50,
  "expositions": [
-  {
-   "id": "qfap-123635",
-   "titre": "Exposition \"Mosaïque d'atelier\"",
-   "resume": "À l'occasion de ses vingt ans, le Groupe d'Entraide Mutuelle (GEM) Connexion Plus expose les créations de ses adhérentes et adhérents.",
-   "debut": "2026-10-20",
-   "fin": "2026-11-06",
-   "horaires": "Du mardi 20 octobre 2026 au vendredi 06 novembre 2026 : vendredi de 10h00 à 13h00 mardi de 15h00 à 18h30",
-   "lieu": "Maison de la vie associative et citoyenne",
-   "adresse": "76, rue Daguerre, 75014 Paris",
-   "lat": 48.835535989532,
-   "lon": 2.32553296830764,
-   "thematiques": [
-    "Autres"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/10/huge-150d9f515ebe8b17faf7f10296605a85.jpg",
-   "lien": "https://www.paris.fr/evenements/exposition-mosaique-d-atelier-123635",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-125795",
-   "titre": "Exposition AEncrages",
-   "resume": "Le Front d’Habitat Lesbien rassemble deux projets autour des corps, des récits et des territoires.",
-   "debut": "2026-11-06",
-   "fin": "2026-11-06",
-   "horaires": "Le vendredi 06 novembre 2026 de 19h00 à 23h00",
-   "lieu": "Mairie du 12e arrondissement",
-   "adresse": "22 rue Gabriel Lamé, 75012 Paris",
-   "lat": 48.834347,
-   "lon": 2.387154,
-   "thematiques": [
-    "Autres"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-ce3f22a0efd9e6fe0140fd3588a1653e.png",
-   "lien": "https://www.paris.fr/evenements/exposition-aencrages-125795",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-126086",
-   "titre": "Exposition Pablo Flaiszman à la galerie Christian Collin",
-   "resume": "La Galerie Christian Collin présente une Rétrospective 2006-2026 du peintre-graveur argentin Pablo Flaiszman.",
-   "debut": "2026-10-23",
-   "fin": "2026-11-06",
-   "horaires": "Du vendredi 23 octobre 2026 au samedi 07 novembre 2026 : lundi, mardi, mercredi, jeudi, vendredi de 13h00 à 19h00",
-   "lieu": "Galerie Christian Collin",
-   "adresse": "11 rue Rameau, 75002 Paris",
-   "lat": 48.8678569853622,
-   "lon": 2.3368229727898,
-   "thematiques": [
-    "Art contemporain",
-    "Beaux-arts"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-b4a957c41054dfd575629e45cb940d96.jpg",
-   "lien": "https://www.paris.fr/evenements/exposition-pablo-flaiszman-a-la-galerie-christian-collin-126086",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-125204",
-   "titre": "Exposition Portraits de France",
-   "resume": "L’exposition offre un miroir de la diversité qui compose la France et des personnalités venues d’horizons divers et variés qui ont marqué son histoire et forgé ses valeurs : celles et ceux issu.es des outre-mer et des immigrations.",
-   "debut": "2026-10-13",
-   "fin": "2026-11-06",
-   "horaires": "Du mardi 13 octobre 2026 au vendredi 06 novembre 2026 :",
-   "lieu": "Maison de la Vie Associative et Citoyenne du 12e arrondissement",
-   "adresse": "181 avenue Daumesnil, 75012 Paris",
-   "lat": 48.840488,
-   "lon": 2.392507,
-   "thematiques": [
-    "Histoire & patrimoine"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/30/huge-2b67245ae70dc0c6575d561bb1e06435.png",
-   "lien": "https://www.paris.fr/evenements/exposition-portraits-de-france-125204",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
   {
    "id": "qfap-126419",
    "titre": "DÍA DE MUERTOS",
    "resume": "À travers son exposition photos, Marta Nascimento nous emmène au Mexique, où elle a su capter l'intensité de la fête des morts, entre recueillement et liesse populaire. Une immersion sensible dans l'un des rituels les plus emblématiques d'Amérique latine.",
    "debut": "2026-10-29",
    "fin": "2026-11-07",
-   "horaires": "Le samedi 07 novembre 2026 de 12h00 à 18h30 Du vendredi 30 octobre 2026 au vendredi 06 novembre 2026 : lundi, mardi, mercredi, jeudi, vendredi de 14h00 à 18h30",
+   "horaires": "Le samedi 07 novembre 2026 de 12h00 à 18h30",
    "thematiques": [
     "Photographie",
     "Art contemporain"
@@ -1484,6 +1390,33 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127174",
+   "titre": "Exposition d'art et ateliers : découvrez la beauté de voyager",
+   "resume": "Récits visuels de voyage : 4 regards, 4 médiums.",
+   "debut": "2026-11-20",
+   "fin": "2026-11-22",
+   "horaires": "Du vendredi 20 novembre 2026 au dimanche 22 novembre 2026 : dimanche de 11h00 à 17h00 samedi de 11h00 à 22h00 vendredi de 19h00 à 23h00",
+   "lieu": "Galerie Kurokami",
+   "adresse": "32 boulevard Saint-Marcel, 75005 Paris",
+   "lat": 48.8392060058374,
+   "lon": 2.35878598986136,
+   "thematiques": [
+    "Art contemporain",
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "reservation": true,
+    "billetterie": "https://ornellamarcotullio.com/expotraversee/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-769183ec5766a769aee020791a958778.jpeg",
+   "lien": "https://www.paris.fr/evenements/exposition-d-art-et-ateliers-decouvrez-la-beaute-de-voyager-127174",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-07"
+  },
+  {
    "id": "qfap-125666",
    "titre": "Exposition solo « Reliefs » : Sophie Bloch",
    "resume": "LooLooLook Gallery, galerie d’art contemporain située dans le 1er arrondissement de Paris, présente l’exposition personnelle de Sophie Bloch dans le cadre d’Une semaine de galerie, organisée par le CPGA du 15 octobre au 22 novembre 2026.",
@@ -1585,6 +1518,30 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127212",
+   "titre": "Festival Close-Up : Ville, Architecture et Paysage au cinéma",
+   "resume": "Festival International de cinéma sur la Ville et l'Architecture",
+   "debut": "2026-11-17",
+   "fin": "2026-11-24",
+   "horaires": "Du mardi 17 novembre 2026 au mardi 24 novembre 2026 :",
+   "lieu": "Médiathèque Marguerite Duras",
+   "adresse": "115, rue de Bagnolet, 75020 Paris",
+   "lat": 48.8598389825131,
+   "lon": 2.40322700813562,
+   "thematiques": [
+    "Architecture & ville"
+   ],
+   "tarif": {
+    "type": "payant",
+    "reservation": true,
+    "billetterie": "https://festivalcloseup.com/fr"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/06/huge-b19cff82b1d175358c3a99331aa22933.jpg",
+   "lien": "https://www.paris.fr/evenements/festival-close-up-ville-architecture-et-paysage-au-cinema-127212",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-07"
   },
   {
    "id": "qfap-126017",
@@ -1792,6 +1749,32 @@
    "lien": "https://www.paris.fr/evenements/exposition-chaussez-vos-bottes-avec-chloe-du-colombier-115627",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127183",
+   "titre": "Exposition Herbiers et herbe & Herbiers d'écluses",
+   "resume": "Comme chaque année, les enfants du 18e exposent le patrimoine végétal de l’arrondissement.",
+   "debut": "2026-11-04",
+   "fin": "2026-11-28",
+   "horaires": "Du mercredi 04 novembre 2026 au samedi 28 novembre 2026 :",
+   "lieu": "Centre Paris Anim' Jean-Michel Martial",
+   "adresse": "9, rue Tchaïkovski, 75018 Paris",
+   "lat": 48.894165,
+   "lon": 2.364585,
+   "thematiques": [
+    "Histoire & patrimoine",
+    "Sciences & nature",
+    "Jeunesse"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-e51f92f7642b396a23684c4202ea420c.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-herbiers-et-herbe-herbiers-d-ecluses-127183",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-07"
   },
   {
    "id": "qfap-125777",
@@ -2389,6 +2372,31 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-04"
+  },
+  {
+   "id": "qfap-127240",
+   "titre": "Exposition « Mimi Cracra, c'est moi ! »",
+   "resume": "Pour la première fois en galerie, une exposition-vente consacrée à l’oeuvre d’Agnès Rosenstiehl, la créatrice de l’iconique Mimi Cracra.",
+   "debut": "2026-11-28",
+   "fin": "2026-12-06",
+   "horaires": "Du samedi 28 novembre 2026 au dimanche 06 décembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 11h00 à 19h00",
+   "lieu": "Galerie Robillard",
+   "adresse": "38, rue de malte, 75011 Paris",
+   "lat": 48.8659439836005,
+   "lon": 2.36769301927075,
+   "thematiques": [
+    "Jeunesse"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.galerierobillard.com/exhibition-on-site/mimi-cracra-cest-moi/?srsltid=AYCX9vLzGqlzbjK2uUZRswqVTTH0jn5SlstoOmUyq7nh0Ivz8-n81ec5"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/06/huge-dbef58beb4fa5754791e6ee52796c7c3.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-mimi-cracra-c-est-moi-127240",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-07"
   },
   {
    "id": "qfap-126908",
@@ -3024,6 +3032,32 @@
    }
   },
   {
+   "id": "qfap-127146",
+   "titre": "Festival d'Automne : 55 ans d’affiches",
+   "resume": "Rétrospective de 55 ans d'affiches du Festival d'Automne par les artistes visuels invités.",
+   "debut": "2026-11-06",
+   "fin": "2026-12-20",
+   "horaires": "Du vendredi 06 novembre 2026 au dimanche 20 décembre 2026 : jeudi, vendredi, samedi, dimanche de 13h00 à 19h00",
+   "lieu": "APHP Sorbonne Université Chapelle Saint-Louis Hôpital Pitié-Salpêtrière",
+   "adresse": "47-83 Boulevard de l'hôpital, 75013 Paris",
+   "lat": 48.8386090047837,
+   "lon": 2.36116502543965,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "detail": "Accès à la Chapelle par le square Marie-Curie au 45 boulevard de l’Hôpital, entrée piétons secteur Salpêtrière.",
+    "prix_min": 0,
+    "billetterie": "https://www.festival-automne.com/fr/edition-2026/55-ans-daffiches-55-ans-daffiches"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-e0f2fb4776bcee3624af52382489c72c.jpeg",
+   "lien": "https://www.paris.fr/evenements/festival-d-automne-55-ans-d-affiches-127146",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-07"
+  },
+  {
    "id": "qfap-125423",
    "titre": "Mon nécessaire à couture : atelier textile en famille autour de l'exposition « L’étoffe de l’artiste »",
    "resume": "Un atelier textile pour coudre vos propres accessoires en famille",
@@ -3141,6 +3175,33 @@
    "lien": "https://www.paris.fr/evenements/teenage-dream-126878",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127234",
+   "titre": "Exposition André Dauchez (1870-1948), du fleuve à l'océan",
+   "resume": "L'exposition « Du fleuve à l'océan » met en lumière le parcours d'André Dauchez, un paysagiste reconnu en France, particulièrement en Bretagne. Son œuvre révèle son attachement au Finistère et à Paris. Ce maître de la peinture était un artiste aux multiples facettes : graveur, illustrateur, photographe et navigateur. Il a su tracer son chemin au cœur d'une époque marquée par une modernité turbulen",
+   "debut": "2026-11-19",
+   "fin": "2026-12-23",
+   "horaires": "Du jeudi 19 novembre 2026 au mercredi 23 décembre 2026 : mardi, mercredi, jeudi, vendredi, samedi de 10h30 à 18h30",
+   "lieu": "galerie Les Montparnos",
+   "adresse": "5 rue Stanislas, 75006 Paris",
+   "lat": 48.843889017051,
+   "lon": 2.32846504185744,
+   "thematiques": [
+    "Photographie",
+    "Beaux-arts",
+    "Sciences & nature",
+    "Design, mode & arts déco"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/06/huge-ee014760e7bdfe764bbc5b0bc992b921.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-andre-dauchez-1870-1948-du-fleuve-a-l-ocean-127234",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-07"
   },
   {
    "id": "qfap-126918",
@@ -4807,6 +4868,31 @@
    }
   },
   {
+   "id": "qfap-127154",
+   "titre": "«5e étage», ou les vues de Paris de Paul Duru, à découvrir à la SLOW Galerie",
+   "resume": "Depuis un cinquième étage, Paris ne se regarde plus tout à fait de la même manière. La ville s’éloigne de son agitation pour devenir un paysage de fenêtres éclairées, de façades nocturnes et de silhouettes saisies dans le rythme du quotidien.",
+   "debut": "2026-11-19",
+   "fin": "2027-01-13",
+   "horaires": "Du jeudi 19 novembre 2026 au mercredi 13 janvier 2027 :",
+   "lieu": "SLOW Galerie République",
+   "adresse": "5 rue Jean-Pierre Timbaud, 75011 Paris",
+   "lat": 48.8648819964681,
+   "lon": 2.36636499053165,
+   "thematiques": [
+    "Art contemporain",
+    "Architecture & ville"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.slowgalerie.com/fr/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-2df8107989a69274c6cff84214c6b629.jpg",
+   "lien": "https://www.paris.fr/evenements/5e-etage-ou-les-vues-de-paris-de-paul-duru-a-decouvrir-a-la-slow-galerie-127154",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-07"
+  },
+  {
    "id": "qfap-123445",
    "titre": "Foucault, une aventure intellectuelle au Collège de France",
    "resume": "Du 30 septembre 2026 au 15 janvier 2026, l’exposition « Foucault, une aventure intellectuelle au Collège de France » explore le parcours de Michel Foucault (1926-1984) dans l’institution où il enseigna de 1970 à 1984. À l’occasion du centenaire de sa naissance, des manuscrits inédits, des archives et des témoignages audio et vidéo esquissent le mouvement d’une pensée toujours profondément actuelle",
@@ -5877,6 +5963,31 @@
     "score": 6.104,
     "source": "Liste Wikipédia (Club Innovation Culture / ministère de la Culture)"
    }
+  },
+  {
+   "id": "qfap-118002",
+   "titre": "3 bonnes raisons d’aller voir « La carte de France de Cassini. Une encyclopédie du territoire », aux Archives nationales",
+   "resume": "Chef-d’œuvre du XVIIIe siècle, la carte de Cassini est la première représentation de la France réalisée avec précision grâce à des mesures géométriques. À travers des documents inédits, l’expo en révèle une facette insoupçonnée. On vous donne 3 bonnes raisons d’y aller !",
+   "debut": "2026-10-14",
+   "fin": "2027-02-01",
+   "horaires": "Du mercredi 14 octobre 2026 au lundi 01 février 2027 : dimanche de 14h00 à 19h00 samedi de 14h00 à 17h30 lundi, mercredi, jeudi, vendredi de 10h00 à 17h30",
+   "lieu": "Le Musée des Archives nationales – L’Hôtel de Soubise",
+   "adresse": "60, rue des Francs-Bourgeois, 75003 Paris",
+   "lat": 48.8599629927706,
+   "lon": 2.3572719666908,
+   "thematiques": [
+    "Histoire & patrimoine",
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.archives-nationales.culture.gouv.fr/evenements/la-carte-de-france-de-cassini-une-encyclopedie-du-territoire"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-066e932726e22e6618a39f8f97e43815.jpg",
+   "lien": "https://www.paris.fr/evenements/la-carte-de-france-de-cassini-une-encyclopedie-du-territoire-118002",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-07"
   },
   {
    "id": "qfap-125276",
@@ -7851,23 +7962,20 @@
   },
   {
    "id": "qfap-37301",
-   "titre": "La Cité de l'Histoire, l'expérience immersive à travers l'Histoire de France",
-   "resume": "Avec la Cité de l’histoire, profitez de trois expériences inédites à travers l’histoire. Avec la clé des siècles, vivez une aventure hors du commun qui vous plongera au cœur de l'histoire de France ! À chaque salle que vous traverserez, à chaque personnage que vous rencontrerez, vous serez emportés dans un voyage passionnant à travers le temps. Profitez également de trois fabuleux spectacles à 360",
-   "debut": "2023-01-17",
+   "titre": "La Cité de l'Histoire, l'expérience immersive à travers l'Histoire",
+   "resume": "Aux portes de Paris, plongez dans l’Histoire à la Cité de l’Histoire, où spectacles immersifs et technologies innovantes font revivre les grands événements du passé.",
+   "debut": "2026-02-01",
    "fin": "2027-12-31",
-   "horaires": "Du mardi 17 janvier 2023 au vendredi 31 décembre 2027 :",
+   "horaires": "Du dimanche 01 février 2026 au vendredi 31 décembre 2027 :",
    "lieu": "La Cité de l'Histoire",
    "adresse": "1, parvis de la Défense - sous la Grande Arche, 92800 Puteaux",
    "lat": 48.89221,
    "lon": 2.23695000000004,
    "thematiques": [
-    "Histoire & patrimoine",
-    "Société & monde",
-    "Jeunesse"
+    "Histoire & patrimoine"
    ],
    "tarif": {
     "type": "payant",
-    "detail": "Gratuit pour les moins de 7 ans inclus",
     "reservation": true,
     "billetterie": "https://www.cite-histoire.com/pratique"
    },
@@ -8017,6 +8125,32 @@
    "lien": "https://www.paris.fr/evenements/la-nuit-europeenne-des-musees-a-la-grande-galerie-de-l-evoultion-117292",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127125",
+   "titre": "Exposition : la rencontre entre peinture et littérature",
+   "resume": "«La Fable des Coquelicots» de Vanecha Roudbaraki.",
+   "debut": "2026-11-02",
+   "fin": "2028-01-09",
+   "horaires": "Du lundi 02 novembre 2026 au dimanche 09 janvier 2028 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 09h30 à 19h30",
+   "lieu": "95 PASSY",
+   "adresse": "95 rue de Passy, 75016 Paris",
+   "lat": 48.8580460096048,
+   "lon": 2.27540700802365,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://vanecha.fr/fr/?page=2"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-5ec97dbe291b430538edb909d6e9aa97.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-127125",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-07"
   },
   {
    "id": "qfap-118014",
