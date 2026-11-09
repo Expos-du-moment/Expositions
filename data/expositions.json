@@ -1,134 +1,17 @@
 {
- "genere": "2026-11-08T06:26:01+00:00",
- "jour": "2026-11-08",
+ "genere": "2026-11-09T06:38:33+00:00",
+ "jour": "2026-11-09",
  "api_ok": true,
- "total": 295,
+ "total": 291,
  "par_tarif": {
-  "gratuit": 171,
+  "gratuit": 168,
   "gratuit_sous_condition": 13,
-  "payant": 111,
+  "payant": 110,
   "inconnu": 0
  },
  "nouvelles": [],
- "avec_affluence": 50,
+ "avec_affluence": 49,
  "expositions": [
-  {
-   "id": "qfap-124590",
-   "titre": "\"DIE & RETRY\" aux Magasins Généraux",
-   "resume": "Du 8 octobre au 8 novembre, les Magasins Généraux présentent l'exposition-résidence« DIE & RETRY » d’Angels Front.",
-   "debut": "2026-10-08",
-   "fin": "2026-11-08",
-   "horaires": "Du jeudi 08 octobre 2026 au dimanche 08 novembre 2026 :",
-   "lieu": "Les Magasins Généraux",
-   "adresse": "1 Rue de l'Ancien Canal, 93500 Pantin",
-   "lat": 48.8946530078047,
-   "lon": 2.41607898027453,
-   "thematiques": [
-    "Art contemporain"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "Soirée d’ouverture le mercredi 7 octobre de 18h à 22h Visite libre du mercredi au vendredi de 16h à 21h, le week-end de 14h à 19h Simulation sur inscription : jeudi et vendredi à 18h, 19h et 20h - samedi et dimanche à 16h et 17h30",
-    "prix_min": 0,
-    "reservation": true,
-    "billetterie": "https://www.billetweb.fr/billetterie-die-retry"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-12922c9a0c42df585865719b6a5cb563.jpg",
-   "lien": "https://www.paris.fr/evenements/die-retry-aux-magasins-generaux-124590",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-114485",
-   "titre": "Exposition \"Cornebidouille\" de L'école des loisirs",
-   "resume": "Venez découvrir l’univers incroyable de la célébre sorcière Cornebidouille de Magali Bonniol et Pierre Bertrand !",
-   "debut": "2026-10-13",
-   "fin": "2026-11-08",
-   "horaires": "Du mardi 13 octobre 2026 au dimanche 08 novembre 2026 :",
-   "lieu": "Médiathèque Marguerite Yourcenar",
-   "adresse": "41, rue d'Alleray, 75015 Paris",
-   "lat": 48.836807,
-   "lon": 2.303481,
-   "thematiques": [
-    "Autres"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "Exposition en entrée libre du mardi 13 octobre au dimanche 8 novembre 2026 aux horaires d'ouverture de la médiathèque.",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/06/19/huge-904f3e3a4246e367c6f0caddc7e95ba4.jpg",
-   "lien": "https://www.paris.fr/evenements/exposition-cornebidouille-de-l-ecole-des-loisirs-114485",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-115895",
-   "titre": "Plumes du paradis. Voyages d'un oiseau extraordinaire de Nouvelle-Guinée",
-   "resume": "Des forêts de Nouvelle-Guinée aux tableaux des grands maîtres de l’école du Nord, une traversée fascinante sur les traces des oiseaux de paradis, créatures flamboyantes qui captivent le monde depuis cinq siècles.",
-   "debut": "2026-05-12",
-   "fin": "2026-11-08",
-   "horaires": "Du mardi 12 mai 2026 au dimanche 08 novembre 2026 : jeudi de 10h30 à 22h00 mardi, mercredi, vendredi, samedi, dimanche de 10h30 à 19h00",
-   "lieu": "Musée du quai Branly - Jacques Chirac",
-   "adresse": "37, quai Jacques Chirac, 75007 Paris",
-   "lat": 48.8614967134136,
-   "lon": 2.29773321295983,
-   "thematiques": [
-    "Beaux-arts",
-    "Histoire & patrimoine",
-    "Sciences & nature",
-    "Société & monde"
-   ],
-   "tarif": {
-    "type": "payant",
-    "detail": "De 0 à 14 euros.",
-    "prix_min": 14.0,
-    "reservation": true,
-    "billetterie": "https://www.quaibranly.fr/fr/expositions-evenements/au-musee/expositions/details-de-levenement/e/plumes-du-paradis"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/07/07/huge-aba1024d84b5f59f5064c732c79c14c7.jpeg",
-   "lien": "https://www.paris.fr/evenements/plumes-du-paradis-voyages-d-un-oiseau-extraordinaire-de-nouvelle-guinee-115895",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03",
-   "affluence": {
-    "visiteurs": 1270000,
-    "annee": 2024,
-    "lieu": "Musée du quai Branly – Jacques Chirac",
-    "niveau": 2,
-    "score": 6.104,
-    "source": "Liste Wikipédia (Club Innovation Culture / ministère de la Culture)"
-   }
-  },
-  {
-   "id": "qfap-44013",
-   "titre": "Salon Réalités Nouvelles 2026",
-   "resume": "Le Salon Réalités Nouvelles est de retour à Paris pour sa 80e édition : 120 artistes se retrouvent pour présenter chacun une œuvre d’art abstrait — peinture, sculpture, gravure, dessin, photographie — aux côtés d’une section arts et sciences.",
-   "debut": "2026-11-05",
-   "fin": "2026-11-08",
-   "horaires": "Du jeudi 05 novembre 2026 au dimanche 08 novembre 2026 : jeudi, vendredi, samedi, dimanche de 11h00 à 20h00",
-   "lieu": "Césure",
-   "adresse": "13 rue Santeuil, 75005 Paris",
-   "lat": 48.8401410071366,
-   "lon": 2.35418097225678,
-   "thematiques": [
-    "Photographie",
-    "Art contemporain",
-    "Beaux-arts",
-    "Sciences & nature"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0,
-    "billetterie": "http://www.realitesnouvelles.org/"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-af012a57374966ff5d7ce67f7389b018.jpg",
-   "lien": "https://www.paris.fr/evenements/salon-realites-nouvelles-2026-44013",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
   {
    "id": "qfap-117240",
    "titre": "Exposition 10 000 ans de voyage gustatif",
@@ -2313,7 +2196,7 @@
    "resume": "Après une découverte de l'exposition \"L'étoffe de l'artiste\", brodez des motifs sur votre chemise",
    "debut": "2026-11-08",
    "fin": "2026-12-13",
-   "horaires": "Le dimanche 13 décembre 2026 de 10h00 à 13h00 Le dimanche 08 novembre 2026 de 10h00 à 13h00",
+   "horaires": "Le dimanche 13 décembre 2026 de 10h00 à 13h00",
    "lieu": "Musée Bourdelle",
    "adresse": "18, rue Antoine Bourdelle, 75015 Paris",
    "lat": 48.842975,
