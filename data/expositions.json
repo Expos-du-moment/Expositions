@@ -1,16 +1,40 @@
 {
- "genere": "2026-11-09T06:38:33+00:00",
- "jour": "2026-11-09",
+ "genere": "2026-11-10T06:31:07+00:00",
+ "jour": "2026-11-10",
  "api_ok": true,
- "total": 291,
+ "total": 313,
  "par_tarif": {
-  "gratuit": 168,
+  "gratuit": 175,
   "gratuit_sous_condition": 13,
-  "payant": 110,
+  "payant": 125,
   "inconnu": 0
  },
- "nouvelles": [],
- "avec_affluence": 49,
+ "nouvelles": [
+  "qfap-127266",
+  "qfap-127273",
+  "qfap-127287",
+  "qfap-125792",
+  "qfap-127144",
+  "qfap-127309",
+  "qfap-127312",
+  "qfap-127147",
+  "qfap-127314",
+  "qfap-127330",
+  "qfap-127331",
+  "qfap-127316",
+  "qfap-127328",
+  "qfap-127332",
+  "qfap-127324",
+  "qfap-127194",
+  "qfap-127323",
+  "qfap-127307",
+  "qfap-127319",
+  "qfap-127322",
+  "qfap-127327",
+  "qfap-127317",
+  "qfap-127326"
+ ],
+ "avec_affluence": 53,
  "expositions": [
   {
    "id": "qfap-117240",
@@ -601,6 +625,32 @@
    "lien": "https://www.paris.fr/evenements/les-rencontres-du-ciel-et-de-l-espace-125909",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-125792",
+   "titre": "Sur la Terre comme au Ciel",
+   "resume": "Des chants et poèmes soufis aux œuvres de la contre-culture américaine, un cri de liberté porté par deux voix féminines, un violon et un bendir (percussion orientale).",
+   "debut": "2026-11-15",
+   "fin": "2026-11-15",
+   "horaires": "Le dimanche 15 novembre 2026 de à",
+   "lieu": "La Caverne d'Art & Miss",
+   "adresse": "23-25 Rue Saint-Paul, 75004 Paris",
+   "lat": 48.853637002806,
+   "lon": 2.36177003121085,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Réservation fortement conseillée (petite jauge intimiste, concert en acoustique).",
+    "reservation": true,
+    "billetterie": "https://my.weezevent.com/sur-la-terre-comme-au-ciel"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-9474d4e168ac196980ff32576b3deb23.png",
+   "lien": "https://www.paris.fr/evenements/sur-la-terre-comme-au-ciel-transes-mystiques-et-rebelles-d-orient-et-d-occident-125792",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
   },
   {
    "id": "qfap-123194",
@@ -1729,6 +1779,31 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127194",
+   "titre": "Patrice & Françoise Huguier : la peinture face à la photo",
+   "resume": "À la galerie Le Bonheur est dans l’Instant, découvrez les peintures de Patrice Huguier avec, en regard, une sélection de photographies de mode de Françoise Huguier. Une exposition gratuite dans le 11e arrondissement de Paris.",
+   "debut": "2026-11-17",
+   "fin": "2026-11-29",
+   "horaires": "Du mardi 17 novembre 2026 au dimanche 29 novembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 14h00 à 19h00",
+   "lieu": "Galerie Le bonheur est dans l'instant",
+   "adresse": "72 rue Amelot, 75011 Paris",
+   "lat": 48.8604219857885,
+   "lon": 2.36802796012165,
+   "thematiques": [
+    "Photographie",
+    "Beaux-arts",
+    "Design, mode & arts déco"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/06/huge-6126de3bbdc53d8487267e357287d36e.jpg",
+   "lien": "https://www.paris.fr/evenements/patrice-francoise-huguier-la-peinture-face-a-la-photo-127194",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
+  },
+  {
    "id": "qfap-87076",
    "titre": "Découvrez l'expo photo « Nature sauvage à Paris »",
    "resume": "La biodiversité parisienne se dévoile au Square du Clos Feuquières à travers ces photos prises par les Parisiennes et Parisiens.",
@@ -1898,6 +1973,32 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127287",
+   "titre": "Expo-Atelier | Sortie au musée et ateleir collage",
+   "resume": "Une sortie au musée et un atelier collage organisé par le CPA Mado Robin",
+   "debut": "2026-11-28",
+   "fin": "2026-12-05",
+   "horaires": "Le samedi 05 décembre 2026 de 14h00 à 15h30 Le samedi 28 novembre 2026 de 12h45 à 15h45",
+   "lieu": "Centre Paris Anim’ Mado Robin",
+   "adresse": "84 rue Mstislav Rostropovitch, 75017 Paris",
+   "lat": 48.891928,
+   "lon": 2.310292,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "detail": "Inscription à l'accueil du Centre&nbsp; ou par téléphone",
+    "prix_min": 0,
+    "reservation": true
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-e73c7f5d5fe032935d5adf479ba4812a.png",
+   "lien": "https://www.paris.fr/evenements/expo-atelier-sortie-au-musee-et-ateleir-collage-127287",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
+  },
+  {
    "id": "qfap-117595",
    "titre": "Exposition de cartes pop-up et capsules sonores",
    "resume": "Découvrez la recette du bonheur : bien mélanger des bibliothécaires, des personnes vivant en structures d’hébergement, des associations solidaires, des artistes, vous, et les plats sont prêts !",
@@ -2047,6 +2148,33 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-07"
+  },
+  {
+   "id": "qfap-127266",
+   "titre": "GRIFFE II",
+   "resume": "Dans Griffe II, l’animal dépasse le motif pour devenir une présence qui interroge notre rapport au vivant et à l’altérité. Entre figuration, symbole et abstraction, les œuvres réunies invitent à porter un regard renouvelé sur notre place dans le monde vivant.",
+   "debut": "2026-11-24",
+   "fin": "2026-12-06",
+   "horaires": "Du mardi 24 novembre 2026 au dimanche 06 décembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 14h00 à 19h00",
+   "lieu": "Vivienne Art Galerie, boutique no.30",
+   "adresse": "5 rue de la Banque, 75002 Paris",
+   "lat": 48.8665139949259,
+   "lon": 2.34007096027028,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts",
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://heyzine.com/flip-book/c729174659.html"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/07/huge-5c8985c605c09db915f382d48e0d150d.jpg",
+   "lien": "https://www.paris.fr/evenements/griffe-ii-127266",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
   },
   {
    "id": "qfap-126908",
@@ -2702,10 +2830,34 @@
     "prix_min": 0,
     "billetterie": "https://www.festival-automne.com/fr/edition-2026/55-ans-daffiches-55-ans-daffiches"
    },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-e0f2fb4776bcee3624af52382489c72c.jpeg",
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-86e4af6112f8bc8e96ad12f18cb6fdff.jpg",
    "lien": "https://www.paris.fr/evenements/festival-d-automne-55-ans-d-affiches-127146",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-07"
+  },
+  {
+   "id": "qfap-127147",
+   "titre": "Lubaina Himid et Magda Stawarska, Attendre ensemble",
+   "resume": "Exposition monumentale de Lubaina Himid avec Magda Stawarska à la Chapelle Saint-Louis de la Salpêtrière.",
+   "debut": "2026-11-06",
+   "fin": "2026-12-20",
+   "horaires": "Du vendredi 06 novembre 2026 au dimanche 20 décembre 2026 : jeudi, vendredi, samedi, dimanche de 13h00 à 19h00",
+   "lieu": "APHP Sorbonne Université Chapelle Saint-Louis Hôpital Pitié-Salpêtrière",
+   "adresse": "47-83 Boulevard de l'hôpital, 75013 Paris",
+   "lat": 48.8386090047837,
+   "lon": 2.36116502543965,
+   "thematiques": [
+    "Art contemporain"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.festival-automne.com/fr/edition-2026/lubaina-himid-avec-magda-stawarska-attendre-ensemble"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-ae2feebe09f148a453f1503f8a9c9dab.jpg",
+   "lien": "https://www.paris.fr/evenements/lubaina-himid-et-magda-stawarska-attendre-ensemble-127147",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
   },
   {
    "id": "qfap-125423",
@@ -3882,6 +4034,40 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127331",
+   "titre": "Parcours : PABLO PICASSO au prisme de « cahiers d’art »",
+   "resume": "La revue Cahiers d’Art, fondée en 1926, est étroitement liée à l’œuvre de Pablo Picasso, à laquelle elle consacre, jusqu’à la fin des années 1950, plusieurs dizaines d’articles. Sous l’impulsion de son fondateur, Christian Zervos, Cahiers d’Art joue un rôle crucial dans la diffusion de l’œuvre de l’artiste, qu’elle associe à celle de ses contemporains, à des œuvres archaïques et extra-européennes ",
+   "debut": "2026-10-06",
+   "fin": "2027-01-03",
+   "horaires": "Du mardi 06 octobre 2026 au dimanche 03 janvier 2027 : mardi, mercredi, jeudi, vendredi, samedi, dimanche de 09h30 à 18h00",
+   "lieu": "Musée national Picasso-Paris",
+   "adresse": "5, rue de Thorigny, 75003 Paris",
+   "lat": 48.8596039958576,
+   "lon": 2.36251702642184,
+   "thematiques": [
+    "Art contemporain",
+    "Design, mode & arts déco"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "detail": "Entrée gratuite et libre dans la limite des places disponibles. Les 1ers dimanches du mois sont gratuits.",
+    "prix_min": 0,
+    "billetterie": "https://www.museepicassoparis.fr/fr/agenda/salle-dossier-pablo-picasso-au-prisme-de-cahiers-dart/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-b169d8e0b8059d9f52029617bf0b2ebe.jpeg",
+   "lien": "https://www.paris.fr/evenements/parcours-pablo-picasso-au-prisme-de-cahiers-d-art-127331",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10",
+   "affluence": {
+    "visiteurs": 210818,
+    "annee": 0,
+    "lieu": "musée Picasso",
+    "niveau": 1,
+    "score": 5.324,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
+  },
+  {
    "id": "qfap-108233",
    "titre": "Patrimoines en résistance, de Tombouctou à Odessa",
    "resume": "L’exposition réunit un ensemble exceptionnel de documents graphiques, d'oeuvres d’art contemporain et de répliques numériques des sites perdus. À la manière d’un grand reportage, l’ensemble tisse un récit documenté, visuel et sensible, où se croisent les regards des acteurs et témoins, des architectes et des artistes.",
@@ -4260,6 +4446,30 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127144",
+   "titre": "« Esmorzar », la tablée fantasmagorique de Sandrine Torredemer à la SLOW Galerie",
+   "resume": "Du 26 novembre 2026 au 9 janvier 2027, la SLOW Galerie Luxembourg présente « Esmorzar », une exposition collective imaginée autour des broderies de Sandrine Torredemer, alias La Filature. Pour fêter les dix ans de son compte Instagram, elle retrouve la galerie qui a accueilli sa première exposition personnelle avec un ensemble de créations inédites.",
+   "debut": "2026-11-26",
+   "fin": "2027-01-09",
+   "horaires": "Du jeudi 26 novembre 2026 au samedi 09 janvier 2027 :",
+   "lieu": "SLOW Galerie Luxembourg",
+   "adresse": "60 rue Monsieur le Prince, 75006 Paris",
+   "lat": 48.856578,
+   "lon": 2.351828,
+   "thematiques": [
+    "Art contemporain"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.slowgalerie.com/fr/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-0ce7fd14075762a7103e760bcb27c231.jpg",
+   "lien": "https://www.paris.fr/evenements/esmorzar-la-tablee-fantasmagorique-de-sandrine-torredemer-a-la-slow-galerie-127144",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
+  },
+  {
    "id": "qfap-117923",
    "titre": "Andy Warhol. La ligne et l’image",
    "resume": "Si le nom d’Andy Warhol évoque immédiatement les sérigraphies et les portraits de célébrités, son œuvre dessinée occupe une place essentielle dans sa pratique artistique. L’exposition « Andy Warhol. La ligne et l’image » révèle combien ce médium, loin d’être accessoire, accompagne l’ensemble de sa carrière.",
@@ -4431,6 +4641,35 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127307",
+   "titre": "Marion Delarue. Pierre, plume, ciseaux !",
+   "resume": "Le musée des Arts décoratifs présente à l’automne 2026 les créations de Marion Delarue dans le cabinet des Dessins, Papiers peints et Photographies, fruits d’une résidence de l’artiste au musée.",
+   "debut": "2026-10-06",
+   "fin": "2027-01-10",
+   "horaires": "Du mardi 06 octobre 2026 au dimanche 10 janvier 2027 : samedi de 11h00 à 19h00 mardi, mercredi, jeudi, vendredi, dimanche de 11h00 à 18h00",
+   "lieu": "Musée des Arts décoratifs",
+   "adresse": "107, rue de Rivoli, 75001 Paris",
+   "lat": 48.8632139977362,
+   "lon": 2.33331598450118,
+   "thematiques": [
+    "Photographie",
+    "Beaux-arts",
+    "Sciences & nature",
+    "Design, mode & arts déco"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 15 euros.e",
+    "prix_min": 15.0,
+    "reservation": true,
+    "billetterie": "https://madparis.fr/exposition-focus-marion-delarue"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-9bcb3b2a2e0618840f1083ab4fbeb1ad.jpg",
+   "lien": "https://www.paris.fr/evenements/marion-delarue-pierre-plume-ciseaux-127307",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
   },
   {
    "id": "qfap-116800",
@@ -4947,6 +5186,31 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127326",
+   "titre": "De Mimi Cracra à L'Alphabet fou : Agnès Rosenstiehl, 60 ans de création",
+   "resume": "À l’occasion d’un don exceptionnel de plus de 700 originaux réalisé en 2025, la Bibliothèque nationale de France met à l’honneur l’œuvre d’Agnès Rosenstiehl, autrice-illustratrice prolifique et créatrice notamment de la cultissime « Mimi Cracra ». Présentée en galerie des Donateurs, l’exposition retrace le parcours d’Agnès Rosenstiehl, dont l’inventivité, la liberté et l’attention portée à l’enfan",
+   "debut": "2026-11-03",
+   "fin": "2027-01-24",
+   "horaires": "Du mardi 03 novembre 2026 au dimanche 24 janvier 2027 : dimanche de 13h00 à 19h00 mardi, mercredi, jeudi, vendredi, samedi de 10h00 à 19h00",
+   "lieu": "Bibliothèque François-Mitterrand – Galerie des donateurs",
+   "adresse": "Quai François Mauriac, 75013 Paris",
+   "lat": 48.8339434622285,
+   "lon": 2.3775583691161,
+   "thematiques": [
+    "Société & monde",
+    "Jeunesse"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.bnf.fr/fr/agenda/de-mimi-cracra-lalphabet-fou-agnes-rosenstiehl-60-ans-de-creation"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-d625690578a67d357fe883002dbdf1d0.jpg",
+   "lien": "https://www.paris.fr/evenements/de-mimi-cracra-a-l-alphabet-fou-agnes-rosenstiehl-60-ans-de-creation-127326",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
+  },
+  {
    "id": "sel-petitpalais-eva-gonzales",
    "titre": "Eva Gonzalès, parcours d'une artiste",
    "resume": "Exposition consacrée à la peintre Eva Gonzalès.",
@@ -5253,6 +5517,33 @@
    }
   },
   {
+   "id": "qfap-127323",
+   "titre": "Nan Goldin. Stendhal Syndrome",
+   "resume": "Présentée dans l’Auditorium du musée dans le cadre de l'exposition « Remember Me », cette œuvre prend la forme d’un dialogue visuel entre universalité et intimité, et relit le célèbre syndrome de Stendhal, illustrant ce moment vertigineux où la beauté, dans toute son intensité, peut mener à l’évanouissement.",
+   "debut": "2026-09-16",
+   "fin": "2027-01-25",
+   "horaires": "Du mercredi 16 septembre 2026 au lundi 25 janvier 2027 : vendredi de 11h00 à 21h00 lundi, mardi, mercredi, jeudi, samedi, dimanche de 11h00 à 19h00",
+   "lieu": "Bourse de commerce - Pinault Collection",
+   "adresse": "2, rue de Viarmes, 75001 Paris",
+   "lat": 48.8629459863822,
+   "lon": 2.34240003970564,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Cette exposition est accessible avec un billet pour l’exposition « Remember Me ». Plein tarif : 15 euros Tarif 18-26 et autres réductions : 10&nbsp;euros Entrée gratuite sans réservation après 16h pour les porteurs de la&nbsp;carte Super Cercle Accès illimité et prioritaire avec la&nbsp;carte Member",
+    "prix_min": 15.0,
+    "reservation": true,
+    "billetterie": "https://www.pinaultcollection.com/fr/boursedecommerce/nan-goldin-stendhal-syndrome"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-f0d03fd65df127c189914b902608e7ff.png",
+   "lien": "https://www.paris.fr/evenements/nan-goldin-stendhal-syndrome-127323",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
+  },
+  {
    "id": "sel-louvre-zurbaran",
    "titre": "Zurbarán (1598–1664)",
    "resume": "Rétrospective consacrée au peintre espagnol du Siècle d'or.",
@@ -5535,6 +5826,8 @@
    "a_verifier": true,
    "lien": "https://www.louvre.fr/",
    "source": "Sélection manuelle",
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-6d28661d0d6504bf1d9581a471fd8430.png",
+   "horaires": "Du mercredi 07 octobre 2026 au lundi 25 janvier 2027 : mercredi, vendredi de 09h00 à 21h00 lundi, jeudi, samedi, dimanche de 09h00 à 18h00",
    "vu_le": "2026-11-03",
    "affluence": {
     "visiteurs": 9101874,
@@ -5616,8 +5909,8 @@
   },
   {
    "id": "qfap-118002",
-   "titre": "3 bonnes raisons d’aller voir « La carte de France de Cassini. Une encyclopédie du territoire », aux Archives nationales",
-   "resume": "Chef-d’œuvre du XVIIIe siècle, la carte de Cassini est la première représentation de la France réalisée avec précision grâce à des mesures géométriques. À travers des documents inédits, l’expo en révèle une facette insoupçonnée. On vous donne 3 bonnes raisons d’y aller !",
+   "titre": "Expo « La carte de France de Cassini. Une encyclopédie du territoire », aux Archives nationales",
+   "resume": "Chef d’œuvre cartographique du XVIIIe siècle, la carte de France de Cassini est la première carte de France levée géométriquement à l’échelle d’un pays entier. Document historique emblématique, composé de 181 feuilles, c’est aussi un objet d’art monumental de onze mètres de largeur sur douze mètres de hauteur. S’appuyant notamment sur un versement majeur de l’IGN aux Archives nationales, l’exposit",
    "debut": "2026-10-14",
    "fin": "2027-02-01",
    "horaires": "Du mercredi 14 octobre 2026 au lundi 01 février 2027 : dimanche de 14h00 à 19h00 samedi de 14h00 à 17h30 lundi, mercredi, jeudi, vendredi de 10h00 à 17h30",
@@ -5692,6 +5985,41 @@
    "lien": "https://www.paris.fr/evenements/kurt-schwitters-le-chaos-monde-1918-1948-116798",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03",
+   "affluence": {
+    "visiteurs": 210818,
+    "annee": 0,
+    "lieu": "musée Picasso",
+    "niveau": 1,
+    "score": 5.324,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
+  },
+  {
+   "id": "qfap-127332",
+   "titre": "Parcours : « André Malraux et Pablo Picasso : le musée imaginaire »",
+   "resume": "À la mort de Picasso, en 1973, sa veuve Jacqueline Roque sollicite André Malraux afin qu’il l’accompagne dans la gestion de la succession du peintre. Lors d’une visite à Notre-Dame-de-Vie, le romancier et homme politique découvre l’ultime demeure et atelier de l’artiste ainsi que l’ensemble des œuvres de sa collection personnelle, accumulées au fil des années. Malraux accède ainsi à la démarche ar",
+   "debut": "2026-10-06",
+   "fin": "2027-02-07",
+   "horaires": "Du mardi 06 octobre 2026 au dimanche 07 février 2027 : mardi, mercredi, jeudi, vendredi, samedi, dimanche de 09h30 à 18h00",
+   "lieu": "Musée national Picasso-Paris",
+   "adresse": "5, rue de Thorigny, 75003 Paris",
+   "lat": 48.8596039958576,
+   "lon": 2.36251702642184,
+   "thematiques": [
+    "Beaux-arts",
+    "Histoire & patrimoine"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 16 euros.",
+    "prix_min": 16.0,
+    "reservation": true,
+    "billetterie": "https://www.museepicassoparis.fr/fr/agenda/salle-dossier-andre-malraux-et-pablo-picasso-le-musee-imaginaire/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-7343acb004c1da7cf156509004cb58eb.jpg",
+   "lien": "https://www.paris.fr/evenements/parcours-andre-malraux-et-pablo-picasso-le-musee-imaginaire-127332",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10",
    "affluence": {
     "visiteurs": 210818,
     "annee": 0,
@@ -6126,32 +6454,6 @@
    }
   },
   {
-   "id": "qfap-124712",
-   "titre": "Exposition : An Act of Attention",
-   "resume": "Sept photographes appartenant aux scènes émergentes française et suédoise auront participé à un workshop avec Sophie Ristelhueber, lauréate du prix Hasselblad 2025, avant d’être réuni⸱es dans cette salle d’exposition. Où il est question de fragments du monde mis en partage.",
-   "debut": "2026-11-11",
-   "fin": "2027-02-21",
-   "horaires": "Du mercredi 11 novembre 2026 au dimanche 21 février 2027 : jeudi de 12h00 à 21h00 mardi, mercredi, vendredi, samedi, dimanche de 12h00 à 19h00",
-   "lieu": "Institut Suédois",
-   "adresse": "11, rue Payenne, 75003 Paris",
-   "lat": 48.8581050182032,
-   "lon": 2.36229800729188,
-   "thematiques": [
-    "Photographie",
-    "Art contemporain",
-    "Société & monde"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0,
-    "billetterie": "https://paris.si.se/agenda/exposition-an-act-of-attention/"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/23/huge-2fb35258ce3d8cf08f22cf3db646be0c.jpg",
-   "lien": "https://www.paris.fr/evenements/exposition-an-act-of-attention-124712",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
    "id": "sel-orsay-jenny-holzer",
    "titre": "Jenny Holzer au musée d'Orsay",
    "resume": "Intervention contemporaine de Jenny Holzer dans le musée.",
@@ -6207,6 +6509,32 @@
    "lien": "https://www.paris.fr/evenements/louise-bourgeois-extreme-tension-116770",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127273",
+   "titre": "SoBD 2026, salon de la bande dessinée",
+   "resume": "La 16e édition du SoBD, salon de la bande dessinée au cœur de Paris, se tiendra du vendredi 4 au dimanche 6 décembre 2026 à la Halle des Blancs Manteaux (48 rue Vieille du Temple, Paris 4e). L’entrée est libre et gratuite ; une inscription gratuite, qui donne droit à un badge, est exigée pour les tables rondes et les ateliers. Horaires : vendredi de 16h à 20h, samedi et dimanche de 11h à 19h. Près",
+   "debut": "2026-11-17",
+   "fin": "2027-02-22",
+   "horaires": "Du samedi 05 décembre 2026 au dimanche 06 décembre 2026 : samedi, dimanche de 11h00 à 19h00 vendredi de 13h00 à 19h00 Du mardi 17 novembre 2026 au lundi 22 février 2027 :",
+   "lieu": "Halle des Blancs Manteaux",
+   "adresse": "48, rue Vielle du Temple, 75004 Paris",
+   "lat": 48.8582610054213,
+   "lon": 2.35839204041213,
+   "thematiques": [
+    "Beaux-arts",
+    "Street art & BD"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://sobd2026.com"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-f488fe72623ea4dfec0a6c5f003214b5.jpg",
+   "lien": "https://www.paris.fr/evenements/sobd-2026-127273",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
   },
   {
    "id": "qfap-123864",
@@ -6481,6 +6809,61 @@
    "lien": "https://www.paris.fr/evenements/expo-chiens-et-chats-a-la-cite-des-sciences-79799",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127328",
+   "titre": "Martine Franck",
+   "resume": "Dans les années 1970, Martine Franck (1938-2012) photographie les luttes féministes, principalement à Paris. En tant que femme photographe, l’attention qu’elle porte aux mobilisations du Mouvement de libération des femmes (MLF) infléchit son regard sur le monde social et oriente durablement son œuvre.",
+   "debut": "2026-10-21",
+   "fin": "2027-03-07",
+   "horaires": "Du mercredi 21 octobre 2026 au dimanche 07 mars 2027 : mardi, mercredi, jeudi, vendredi, samedi, dimanche de 11h00 à 19h00",
+   "lieu": "Fondation Henri Cartier-Bresson",
+   "adresse": "79 rue des Archives, 75003 Paris",
+   "lat": 48.863038019679,
+   "lon": 2.36022398917015,
+   "thematiques": [
+    "Photographie",
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 10 euros.",
+    "prix_min": 10.0,
+    "reservation": true,
+    "billetterie": "https://www.henricartierbresson.org/expositions/martine-franck-2/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-1cab02b94f5aac07e1e69ad0280efaee.jpg",
+   "lien": "https://www.paris.fr/evenements/martine-franck-127328",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
+  },
+  {
+   "id": "qfap-127330",
+   "titre": "Susan Meiselas",
+   "resume": "Les images vivent leur vie indépendamment de ceux qui les créent. C’est au Nicaragua que Susan Meiselas l’a compris. En 1978, la photographe, tout juste âgée de 30 ans, s’y rend pour la première fois.",
+   "debut": "2026-10-21",
+   "fin": "2027-03-07",
+   "horaires": "Du mercredi 21 octobre 2026 au dimanche 07 mars 2027 : mardi, mercredi, jeudi, vendredi, samedi, dimanche de 11h00 à 19h00",
+   "lieu": "Fondation Henri Cartier-Bresson",
+   "adresse": "79 rue des Archives, 75003 Paris",
+   "lat": 48.863038019679,
+   "lon": 2.36022398917015,
+   "thematiques": [
+    "Photographie"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 10 euros.",
+    "prix_min": 10.0,
+    "reservation": true,
+    "billetterie": "https://www.henricartierbresson.org/expositions/susan-meiselas/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-32c21bf565f306692421786138032fb5.jpg",
+   "lien": "https://www.paris.fr/evenements/susan-meiselas-127330",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
   },
   {
    "id": "sel-flv-gustave-fayet",
@@ -7128,13 +7511,13 @@
   },
   {
    "id": "qfap-124629",
-   "titre": "Exposition \"Louvre Photo\" au Musée du Louvre",
+   "titre": "Exposition « Louvre Photo » au Musée du Louvre",
    "resume": "Avec cette exposition inédite, inscrite dans le bicentenaire de la photographie, venez plonger dans l’histoire photographique du Louvre, des premiers clichés aux techniques plus contemporaines !",
    "debut": "2026-11-04",
    "fin": "2027-05-03",
    "horaires": "Du mercredi 04 novembre 2026 au lundi 03 mai 2027 :",
    "lieu": "Musée du Louvre",
-   "adresse": "99 Rue de Rivoli, 75001 Paris",
+   "adresse": "99, rue de Rivoli, 75001 Paris",
    "lat": 48.862724997505,
    "lon": 2.33483201932853,
    "thematiques": [
@@ -7145,7 +7528,7 @@
     "type": "gratuit_sous_condition",
     "prix_min": 0,
     "reservation": true,
-    "billetterie": "https://www.louvre.fr/expositions-et-evenements/visites-guidees/visite-de-l-exposition-louvre-photo"
+    "billetterie": "https://www.louvre.fr/agenda/expositions/louvre-photo"
    },
    "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-f1585bf2615d94eb0df3d920e478ce64.png",
    "lien": "https://www.paris.fr/evenements/exposition-louvre-photo-au-musee-du-louvre-124629",
@@ -7220,6 +7603,61 @@
    }
   },
   {
+   "id": "qfap-127316",
+   "titre": "Jonathas de Andrade. Gueule de bois tropicale et autres histoires",
+   "resume": "Profondément intéressé par l’histoire politique, culturelle et identitaire de son pays, Jonathas de Andrade revisite des traditions populaires, des images vernaculaires, des textes de référence dans les domaines des sciences sociales. Il recompose ainsi un récit personnel sur le passé, invitant à la réflexion sur des thèmes universels tels que le racisme, la classe sociale, le travail et la nature",
+   "debut": "2027-01-26",
+   "fin": "2027-05-30",
+   "horaires": "Du mardi 26 janvier 2027 au dimanche 30 mai 2027 : mardi de 11h00 à 21h00 mercredi, jeudi, vendredi, samedi, dimanche de 11h00 à 19h00",
+   "lieu": "Jeu de Paume",
+   "adresse": "1, place de la Concorde, 75001 Paris",
+   "lat": 48.8659869827637,
+   "lon": 2.3232000331968,
+   "thematiques": [
+    "Photographie",
+    "Histoire & patrimoine",
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 14 euros.",
+    "prix_min": 14.0,
+    "reservation": true,
+    "billetterie": "https://jeudepaume.org/evenement/jonathas-de-andrade-paris/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-a1a306532f3819c4ba82fa1eea2acd90.png",
+   "lien": "https://www.paris.fr/evenements/jonathas-de-andrade-gueule-de-bois-tropicale-et-autres-histoires-127316",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
+  },
+  {
+   "id": "qfap-127314",
+   "titre": "William Klein. Revoir New York",
+   "resume": "Nourrie de nombreux documents originaux provenant du studio de l’artiste, l’exposition sera l’occasion de retrouver certaines icônes de l’histoire de la photographie du XXe siècle, mais également de découvrir véritablement un grand nombre d’autres clichés que la maquette très serrée et foisonnante de l’édition de 1956 rendait difficilement visibles. Elle offrira ainsi une relecture inédite de New ",
+   "debut": "2027-01-26",
+   "fin": "2027-05-30",
+   "horaires": "Du mardi 26 janvier 2027 au dimanche 30 mai 2027 : mardi de 11h00 à 21h00 mercredi, jeudi, vendredi, samedi, dimanche de 11h00 à 19h00",
+   "lieu": "Jeu de Paume",
+   "adresse": "1, place de la Concorde, 75001 Paris",
+   "lat": 48.8659869827637,
+   "lon": 2.3232000331968,
+   "thematiques": [
+    "Photographie",
+    "Histoire & patrimoine"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 14 euros.",
+    "prix_min": 14.0,
+    "reservation": true,
+    "billetterie": "https://jeudepaume.org/evenement/william-klein-revoir-new-york/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-8307a35b8868f2419a20bd53b06a5174.png",
+   "lien": "https://www.paris.fr/evenements/william-klein-revoir-new-york-127314",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
+  },
+  {
    "id": "qfap-126544",
    "titre": "Remportez des entrées pour l'expo « Drogues » au Musée de l’Homme",
    "resume": "Si le sujet des drogues occupe fréquemment le devant de la scène médiatique, son traitement peut aussi véhiculer de nombreux préjugés. Nous vous invitons à les déconstruire à travers cette nouvelle exposition présentée au Musée de l’Homme !",
@@ -7271,6 +7709,34 @@
    "lien": "https://www.paris.fr/evenements/l-expo-4-pattes-semons-nos-resistances-123949",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127309",
+   "titre": "Le monde de Viktor&Rolf. 30 ans de haute couture",
+   "resume": "Le musée des Arts décoratifs présente, du 28 janvier au 4 juillet 2027, « Le monde de Viktor&Rolf. 30 ans de haute couture », grande rétrospective consacrée au duo de créateurs néerlandais Viktor Horsting et Rolf Snoeren.",
+   "debut": "2027-01-28",
+   "fin": "2027-07-04",
+   "horaires": "Du jeudi 28 janvier 2027 au dimanche 04 juillet 2027 : samedi de 11h00 à 19h00 mardi, mercredi, jeudi, vendredi, dimanche de 11h00 à 18h00",
+   "lieu": "Musée des Arts décoratifs",
+   "adresse": "107, rue de Rivoli, 75001 Paris",
+   "lat": 48.8632139977362,
+   "lon": 2.33331598450118,
+   "thematiques": [
+    "Beaux-arts",
+    "Design, mode & arts déco",
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 18 euros.",
+    "prix_min": 18.0,
+    "reservation": true,
+    "billetterie": "https://madparis.fr/Le-monde-de-Viktor-Rolf-30-ans-de-haute-couture"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-13109e5561adfb1428896d2a43b8901b.jpg",
+   "lien": "https://www.paris.fr/evenements/le-monde-de-viktor-rolf-30-ans-de-haute-couture-127309",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
   },
   {
    "id": "qfap-117989",
@@ -7485,6 +7951,66 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127322",
+   "titre": "1927, le temps retrouvé",
+   "resume": "À l’origine de l’idée de cette exposition ? Une fermeture. Celle du Centre Pompidou. Une envie s’impose alors : qu’imaginer ensemble pour présenter une partie de ses collections pendant les travaux ? La réponse ne sera ni une rétrospective, ni un par-cours thématique, mais une idée beaucoup plus tranchée : se concentrer sur une seule année, 1927. Une année qui coïncide avec le centenaire du musée ",
+   "debut": "2027-03-31",
+   "fin": "2027-08-02",
+   "horaires": "Du mercredi 31 mars 2027 au lundi 02 août 2027 : vendredi de 09h00 à 21h00 lundi, mercredi, jeudi, samedi, dimanche de 09h00 à 18h00",
+   "lieu": "Musée de l'Orangerie",
+   "adresse": "Jardin des Tuileries, 75001 Paris",
+   "lat": 48.8637249,
+   "lon": 2.3267029,
+   "thematiques": [
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 12,50 euros.",
+    "prix_min": 12.5,
+    "reservation": true,
+    "billetterie": "https://www.musee-orangerie.fr/fr/programme/agenda/expositions/1927-le-temps-retrouve"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-aada477279b7555ded4ceedd2c4f2202.jpg",
+   "lien": "https://www.paris.fr/evenements/1927-le-temps-retrouve-127322",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10",
+   "affluence": {
+    "visiteurs": 1198694,
+    "annee": 2024,
+    "lieu": "Musée de l'Orangerie",
+    "niveau": 2,
+    "score": 6.079,
+    "source": "Liste Wikipédia ; Orsay + Orangerie = 4 949 835 (communiqué officiel)"
+   }
+  },
+  {
+   "id": "qfap-127312",
+   "titre": "Rêver l’Antiquité. Une odyssée du décor depuis 1850",
+   "resume": "Du 24 mars au 22 août 2027, le musée des Arts décoratifs présente la première exposition dédiée à l’influence de l’Antiquité sur les arts décoratifs, la mode et le design des années 1850 à nos jours.",
+   "debut": "2027-03-23",
+   "fin": "2027-08-22",
+   "horaires": "Du lundi 22 mars 2027 au dimanche 22 août 2027 : samedi de 11h00 à 19h00 mardi, mercredi, jeudi, vendredi, dimanche de 11h00 à 18h00",
+   "lieu": "Musée des Arts décoratifs",
+   "adresse": "107, rue de Rivoli, 75001 Paris",
+   "lat": 48.8632139977362,
+   "lon": 2.33331598450118,
+   "thematiques": [
+    "Design, mode & arts déco"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 15 euros.",
+    "prix_min": 15.0,
+    "reservation": true,
+    "billetterie": "https://madparis.fr/Rever-l-Antiquite-Une-odyssee-du-decor-depuis-1850"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-6a40e9780a0ae2b90a06094de710e38e.jpg",
+   "lien": "https://www.paris.fr/evenements/rever-l-antiquite-une-odyssee-du-decor-depuis-1850-127312",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
+  },
+  {
    "id": "qfap-124252",
    "titre": "Esprit critique à la Cité des sciences et de l'industrie : venez vous tester",
    "resume": "Sous le déluge d’images, informations, incitations qui nous assaille de toutes parts, comment se forger un jugement éclairé ? Affûtez votre esprit critique à la Cité des sciences et de l’industrie ! Cette exposition temporaire ludique, à la trame narrative décalée, invite à explorer nos mécanismes cognitifs et les phénomènes sociaux qui orientent nos choix. Comment ? En se soumettant à quelques te",
@@ -7511,6 +8037,33 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127324",
+   "titre": "Infini",
+   "resume": "À travers une soixantaine d’œuvres de la Collection Pinault, l’exposition « Infini » explore ce concept insaisissable en mettant en dialogue deux générations d’artistes qui interrogent les limites de l’art et de la perception.",
+   "debut": "2027-03-03",
+   "fin": "2027-08-29",
+   "horaires": "Du mercredi 03 mars 2027 au dimanche 29 août 2027 : vendredi de 11h00 à 21h00 lundi, mardi, mercredi, jeudi, samedi, dimanche de 11h00 à 19h00",
+   "lieu": "Bourse de commerce - Pinault Collection",
+   "adresse": "2, rue de Viarmes, 75001 Paris",
+   "lat": 48.8629459863822,
+   "lon": 2.34240003970564,
+   "thematiques": [
+    "Art contemporain"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 10 à 15 euros.",
+    "prix_min": 15.0,
+    "reservation": true,
+    "billetterie": "https://www.pinaultcollection.com/fr/boursedecommerce/infini"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-5595f733d212e2dcb9b80ccd9b8c3feb.png",
+   "lien": "https://www.paris.fr/evenements/infini-127324",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
+  },
+  {
    "id": "qfap-92017",
    "titre": "Transparence : la première exposition du Palais des enfants",
    "resume": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
@@ -7535,6 +8088,61 @@
    "lien": "https://www.paris.fr/evenements/transparence-la-premiere-exposition-du-palais-des-enfants-92017",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127319",
+   "titre": "Laura Huertas Millan. Poison / Remède",
+   "resume": "La cinéaste et plasticienne Laura Huertas Millan (Bogotá, 1983) explore les multiples façons dont l’Histoire et les récits s’écrivent à partir des expériences, des savoirs et des rituels de communautés perçues comme marginales. À travers ses films, installations, photographies et performances, l’artiste fait dialoguer archives officielles et témoignages de voix effacées, révélant des contre-récits",
+   "debut": "2027-06-15",
+   "fin": "2027-09-19",
+   "horaires": "Du mardi 15 juin 2027 au dimanche 19 septembre 2027 : mardi de 11h00 à 21h00 mercredi, jeudi, vendredi, samedi, dimanche de 11h00 à 19h00",
+   "lieu": "Jeu de Paume",
+   "adresse": "1, place de la Concorde, 75001 Paris",
+   "lat": 48.8659869827637,
+   "lon": 2.3232000331968,
+   "thematiques": [
+    "Photographie",
+    "Art contemporain"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 14 euros.",
+    "prix_min": 14.0,
+    "reservation": true,
+    "billetterie": "https://jeudepaume.org/evenement/laura-huertas-millan/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-7218c7a93c37fa9be3b77037fd656a6a.png",
+   "lien": "https://www.paris.fr/evenements/laura-huertas-millan-poison-remede-127319",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
+  },
+  {
+   "id": "qfap-127317",
+   "titre": "Stanley Greene. Le parti de la révolte",
+   "resume": "Stanley Greene. Le parti de la révolte est la première exposition d’envergure consacrée en France à l’oeuvre de ce photographe américain disparu en 2017. Présentée au Centre d’exposition du Château de Tours en 2026, puis au Jeu de Paume à Paris en 2027, elle propose de redécouvrir un parcours de près de cinq décennies de reportages réalisés aux quatre coins du monde, depuis ses premières photograp",
+   "debut": "2027-06-15",
+   "fin": "2027-09-19",
+   "horaires": "Du mardi 15 juin 2027 au dimanche 19 septembre 2027 : mardi de 11h00 à 21h00 mercredi, jeudi, vendredi, samedi, dimanche de 11h00 à 19h00",
+   "lieu": "Jeu de Paume",
+   "adresse": "1, place de la Concorde, 75001 Paris",
+   "lat": 48.8659869827637,
+   "lon": 2.3232000331968,
+   "thematiques": [
+    "Photographie",
+    "Sciences & nature",
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 14 euros.",
+    "prix_min": 14.0,
+    "reservation": true,
+    "billetterie": "https://jeudepaume.org/evenement/stanley-greene-paris/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-bd1cdcfaad1badf34c85e402abc7559a.png",
+   "lien": "https://www.paris.fr/evenements/stanley-greene-le-parti-de-la-revolte-127317",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10"
   },
   {
    "id": "qfap-113034",
@@ -7714,6 +8322,40 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127327",
+   "titre": "« Les Illégaux » : une odyssée cinématographique",
+   "resume": "À l’automne 1947, Meyer Levin filme le périple de survivants de la Shoah tentant de rejoindre clandestinement la Palestine. L’exposition retrace la genèse de The Illegals, œuvre entre fiction et documentaire devenue un témoignage emblématique de l’Europe juive d’après-guerre.",
+   "debut": "2027-01-28",
+   "fin": "2027-12-31",
+   "horaires": "Du jeudi 28 janvier 2027 au vendredi 31 décembre 2027 : samedi, dimanche de 10h00 à 19h00 mercredi de 11h00 à 21h00 mardi, jeudi, vendredi de 11h00 à 18h00",
+   "lieu": "Musée d'Art et d'Histoire du Judaïsme",
+   "adresse": "71 Rue du Temple, 75004 Paris",
+   "lat": 48.8610102,
+   "lon": 2.3556112,
+   "thematiques": [
+    "Histoire & patrimoine"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 13,50 euros.",
+    "prix_min": 13.5,
+    "reservation": true,
+    "billetterie": "https://www.mahj.org/fr/programme/les-illegaux-une-odyssee-cinematographique-32150"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-65d35dab14268501430a71bd31de2206.png",
+   "lien": "https://www.paris.fr/evenements/les-illegaux-une-odyssee-cinematographique-127327",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-10",
+   "affluence": {
+    "visiteurs": 122868,
+    "annee": 0,
+    "lieu": "musée d'art et d'histoire du judaïsme",
+    "niveau": 0,
+    "score": 5.089,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
   },
   {
    "id": "qfap-114711",

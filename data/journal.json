@@ -74,5 +74,37 @@
   "retirees": 4,
   "api_ok": true,
   "titres_ajoutes": []
+ },
+ {
+  "jour": "2026-11-10",
+  "total": 313,
+  "ajoutees": 23,
+  "retirees": 1,
+  "api_ok": true,
+  "titres_ajoutes": [
+   "GRIFFE II",
+   "SoBD 2026, salon de la bande dessinée",
+   "Expo-Atelier | Sortie au musée et ateleir collage",
+   "Sur la Terre comme au Ciel",
+   "« Esmorzar », la tablée fantasmagorique de Sandrine Torredemer à la SLOW Galerie",
+   "Le monde de Viktor&Rolf. 30 ans de haute couture",
+   "Rêver l’Antiquité. Une odyssée du décor depuis 1850",
+   "Lubaina Himid et Magda Stawarska, Attendre ensemble",
+   "William Klein. Revoir New York",
+   "Susan Meiselas",
+   "Parcours : PABLO PICASSO au prisme de « cahiers d’art »",
+   "Jonathas de Andrade. Gueule de bois tropicale et autres histoires",
+   "Martine Franck",
+   "Parcours : « André Malraux et Pablo Picasso : le musée imaginaire »",
+   "Infini",
+   "Patrice & Françoise Huguier : la peinture face à la photo",
+   "Nan Goldin. Stendhal Syndrome",
+   "Marion Delarue. Pierre, plume, ciseaux !",
+   "Laura Huertas Millan. Poison / Remède",
+   "1927, le temps retrouvé",
+   "« Les Illégaux » : une odyssée cinématographique",
+   "Stanley Greene. Le parti de la révolte",
+   "De Mimi Cracra à L'Alphabet fou : Agnès Rosenstiehl, 60 ans de création"
+  ]
  }
 ]
