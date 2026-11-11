@@ -1,118 +1,41 @@
 {
- "genere": "2026-11-10T06:31:07+00:00",
- "jour": "2026-11-10",
+ "genere": "2026-11-11T06:33:31+00:00",
+ "jour": "2026-11-11",
  "api_ok": true,
- "total": 313,
+ "total": 332,
  "par_tarif": {
-  "gratuit": 175,
-  "gratuit_sous_condition": 13,
-  "payant": 125,
+  "gratuit": 179,
+  "gratuit_sous_condition": 12,
+  "payant": 141,
   "inconnu": 0
  },
  "nouvelles": [
-  "qfap-127266",
-  "qfap-127273",
-  "qfap-127287",
-  "qfap-125792",
-  "qfap-127144",
-  "qfap-127309",
-  "qfap-127312",
-  "qfap-127147",
-  "qfap-127314",
-  "qfap-127330",
-  "qfap-127331",
-  "qfap-127316",
-  "qfap-127328",
-  "qfap-127332",
-  "qfap-127324",
-  "qfap-127194",
-  "qfap-127323",
-  "qfap-127307",
-  "qfap-127319",
-  "qfap-127322",
-  "qfap-127327",
-  "qfap-127317",
-  "qfap-127326"
+  "qfap-127370",
+  "qfap-126834",
+  "qfap-127410",
+  "qfap-127367",
+  "qfap-127372",
+  "qfap-127333",
+  "qfap-127405",
+  "qfap-127412",
+  "qfap-127356",
+  "qfap-127063",
+  "qfap-127375",
+  "qfap-127228",
+  "qfap-127361",
+  "qfap-126203",
+  "qfap-127411",
+  "qfap-127408",
+  "qfap-127407",
+  "qfap-126043",
+  "qfap-127402",
+  "qfap-127355",
+  "qfap-126926",
+  "qfap-127097",
+  "qfap-127368"
  ],
- "avec_affluence": 53,
+ "avec_affluence": 57,
  "expositions": [
-  {
-   "id": "qfap-117240",
-   "titre": "Exposition 10 000 ans de voyage gustatif",
-   "resume": "Organisée conjointement par le Centre culturel de Chine à Paris et le Musée national de Chine, cette exposition vous invite voyager à travers 10 000 ans de gastronomie chinoise.",
-   "debut": "2026-09-11",
-   "fin": "2026-11-10",
-   "horaires": "Du vendredi 11 septembre 2026 au mardi 10 novembre 2026 :",
-   "lieu": "Centre Culturel de Chine",
-   "adresse": "1, boulevard de la Tour Maubourg, 75007 Paris",
-   "lat": 48.8620829856312,
-   "lon": 2.31055903356082,
-   "thematiques": [
-    "Société & monde"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "Au programme sur réservation : une conférence de Wang Yueqian, commissaire de l'exposition, ainsi que des visites guidées ludiques pour le jeune public.",
-    "prix_min": 0,
-    "billetterie": "https://www.ccc-paris.org/evenement/10-000-ans-de-voyage-gustatif/"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/11/huge-22720db9fa58cd038c23e0c2f7a16748.png",
-   "lien": "https://www.paris.fr/evenements/exposition-10-000-ans-de-voyage-gustatif-117240",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-127004",
-   "titre": "QUEERSUPERPOWER : soirée artistique et culturelle queer",
-   "resume": "Une soirée gratuite de création et de rencontres queer : danse, performances chantées, exposition, cinéma et convivialité au cœur du 13e arrondissement !",
-   "debut": "2026-11-10",
-   "fin": "2026-11-10",
-   "horaires": "Le mardi 10 novembre 2026 de 18h30 à 22h30",
-   "lieu": "Maison de la Vie Associative et Citoyenne du 13e",
-   "adresse": "31 rue Bobillot, 75013 Paris",
-   "lat": 48.8291359873624,
-   "lon": 2.35373203752272,
-   "thematiques": [
-    "Autres"
-   ],
-   "tarif": {
-    "type": "gratuit_sous_condition",
-    "detail": "Cours de heels de 18h30 à 20h : gratuit, sur inscription obligatoire, dans la limite des places disponibles. À partir de 20h : soirée gratuite, entrée libre, inscription recommandée dans la limite des places disponibles. Lien d'inscription : https://forms.gle/fV2zn6xZzmMiqhRW7",
-    "prix_min": 0,
-    "reservation": true,
-    "billetterie": "https://forms.gle/fV2zn6xZzmMiqhRW7"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/03/huge-8554d719ea686fbb84699cce52db6ffd.png",
-   "lien": "https://www.paris.fr/evenements/queersuperpower-soiree-artistique-et-culturelle-queer-127004",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-126991",
-   "titre": "« Parigi… Une histoire d’amour » : une soirée aux couleurs de l’Italie à la Mairie du 10e",
-   "resume": "Le mardi 10 novembre à 18h30, la Mairie du 10e accueille une rencontre autour du livre « Parigi… Une histoire d’amour », en présence de Cristina Dogliani, photographe et auteure, et de Graziella Gioacchini, coéditrice de l’ouvrage. La soirée sera ponctuée d'un intermède musical interprété par Lucia Alessi.",
-   "debut": "2026-11-10",
-   "fin": "2026-11-10",
-   "horaires": "Le mardi 10 novembre 2026 de 18h30 à 20h30",
-   "lieu": "Mairie du 10e arrondissement",
-   "adresse": "72 Rue du Faubourg Saint-Martin, 75010 Paris",
-   "lat": 48.871785,
-   "lon": 2.357383,
-   "thematiques": [
-    "Photographie",
-    "Histoire & patrimoine"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/03/huge-f8559f8aaf466c30548fb525af373bd3.jpg",
-   "lien": "https://www.paris.fr/evenements/parigi-une-histoire-d-amour-une-soiree-aux-couleurs-de-l-italie-a-la-mairie-du-10e-126991",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
   {
    "id": "qfap-126104",
    "titre": "Déambulation exposition \"LALA photographie sa ville\" & rencontre avec Delphine Bonnet",
@@ -1881,6 +1804,28 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127063",
+   "titre": "Festival des Fiertés dans les Centres Paris Anim’",
+   "resume": "Découvrez l’ensemble des évènements des Centres Paris Anim’ du 12e et 13e arrondissements dans le cadre du Festival des Fiertés !",
+   "debut": "2026-11-01",
+   "fin": "2026-11-30",
+   "horaires": "Du dimanche 01 novembre 2026 au lundi 30 novembre 2026 :",
+   "lat": 48.856578,
+   "lon": 2.351828,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "reservation": true
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-70b041ffe9e326f69650f147c44bba58.png",
+   "lien": "https://www.paris.fr/evenements/festival-des-fiertes-dans-les-centres-paris-anim-127063",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
+  },
+  {
    "id": "qfap-118011",
    "titre": "Le Mois du doc dans les bibliothèques de la Ville de Paris",
    "resume": "Pour cette nouvelle édition « À contre courant », le Mois du doc réinvestit pendant un mois les bibliothèques de Paris avec des projections, rencontres et même des expositions.",
@@ -1971,6 +1916,32 @@
    "lien": "https://www.paris.fr/evenements/reminiscence-exposition-de-kr-126561",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127356",
+   "titre": "Street art : 70 artistes exposent leurs œuvres à la mairie du 5e arrondissement de Paris",
+   "resume": "Du 19 novembre au 4 décembre 2026, le Prix du Graffiti et du Street Art investit la mairie du 5e arrondissement de Paris pour une exposition réunissant 70 artistes. Une occasion de découvrir toute la diversité de l'art urbain contemporain, de voter pour son œuvre préférée et même de s'offrir une création originale !",
+   "debut": "2026-11-19",
+   "fin": "2026-12-04",
+   "horaires": "Du jeudi 19 novembre 2026 au vendredi 04 décembre 2026 :",
+   "lieu": "salle René Capitant, mairie du 5e arrondissement de Paris",
+   "adresse": "21, place du Panthéon, 75005 Paris",
+   "lat": 48.846191986858,
+   "lon": 2.3445810109119,
+   "thematiques": [
+    "Art contemporain",
+    "Street art & BD"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.graffart.fr/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-42389737c1a0f42b0946d0edfc501be7.png",
+   "lien": "https://www.paris.fr/evenements/street-art-70-artistes-exposent-leurs-oeuvres-a-la-mairie-du-5e-arrondissement-de-paris-127356",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
   },
   {
    "id": "qfap-127287",
@@ -2234,6 +2205,64 @@
     "score": 5.224,
     "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
    }
+  },
+  {
+   "id": "qfap-127410",
+   "titre": "Talisman. Carte blanche à Ali Banisadr",
+   "resume": "En cette année de célébration du bicentenaire de sa naissance (1826-1898), le musée national Gustave Moreau inaugure un nouveau format de programmation autour d’une « carte blanche », confiée à un artiste contemporain et conçue en dialogue avec l’œuvre de ce créateur visionnaire.",
+   "debut": "2026-09-09",
+   "fin": "2026-12-07",
+   "horaires": "Du mercredi 09 septembre 2026 au lundi 07 décembre 2026 : lundi, mercredi, jeudi, vendredi, samedi, dimanche de 10h00 à 18h00",
+   "lieu": "Musée Gustave Moreau",
+   "adresse": "14, rue Catherine de la Rochefoucauld, 75009 Paris",
+   "lat": 48.8779120002305,
+   "lon": 2.33441602547393,
+   "thematiques": [
+    "Art contemporain"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 8 euros.",
+    "prix_min": 8.0,
+    "reservation": true,
+    "billetterie": "https://musee-moreau.fr/fr/agenda/event/talisman"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-6d3cb2e3c19f9b40c2c4ac2bc1256485.png",
+   "lien": "https://www.paris.fr/evenements/talisman-carte-blanche-a-ali-banisadr-127410",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11",
+   "affluence": {
+    "visiteurs": 41351,
+    "annee": 0,
+    "lieu": "musée Gustave Moreau",
+    "niveau": 0,
+    "score": 4.616,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
+  },
+  {
+   "id": "qfap-127355",
+   "titre": "Nos forets, Nos mémoires - Au profit de l'association Kalaweit",
+   "resume": "Bornéo, Java et les îles de notre archipel subissent la dévastation des incendies et des inondations. Face à cette urgence, NOUS, artistes indonésiens, unissons nos voix et nos créations pour soutenir Kalaweit.",
+   "debut": "2026-11-14",
+   "fin": "2026-12-10",
+   "horaires": "Du samedi 14 novembre 2026 au jeudi 10 décembre 2026 : lundi, mardi, mercredi, jeudi, samedi, dimanche de 10h00 à 18h00",
+   "lieu": "Le Maung coffee roaster",
+   "adresse": "51 Rue Greneta,, 75002 Paris",
+   "lat": 48.8653940050236,
+   "lon": 2.34821297337683,
+   "thematiques": [
+    "Histoire & patrimoine",
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-05fc62c0bdc31fce20d8d7745cc996fb.jpg",
+   "lien": "https://www.paris.fr/evenements/nos-forets-nos-memoires-au-profit-de-l-association-kalaweit-127355",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
   },
   {
    "id": "qfap-126427",
@@ -2599,6 +2628,31 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-126203",
+   "titre": "« p. 39 » de Nina Wakeford à la Cité internationale des arts",
+   "resume": "La Cité internationale des arts présente l'installation « p. 39 » de Nina Wakeford, du 20 octobre au 16 décembre 2026 dans la Vitrine.",
+   "debut": "2026-10-20",
+   "fin": "2026-12-16",
+   "horaires": "Du mardi 20 octobre 2026 au mercredi 16 décembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi de 10h00 à 19h00",
+   "lieu": "Cité internationale des arts",
+   "adresse": "18, rue de l’Hôtel de Ville, 75004 Paris",
+   "lat": 48.8539130188776,
+   "lon": 2.35720298362764,
+   "thematiques": [
+    "Art contemporain"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.citeinternationaledesarts.fr/evenements/p-39-nina-wakeford/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-86117130081391ca8ac093395c6314c6.jpg",
+   "lien": "https://www.paris.fr/evenements/p-39-de-nina-wakeford-a-la-cite-internationale-des-arts-126203",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
+  },
+  {
    "id": "qfap-124973",
    "titre": "Exposition en plein air « Les krâneuses qui tétonnent »",
    "resume": "Une autre réalité du cancer du sein, celle de la féminité, du rapport au corps, de l’intimité, de la maternité et de la vie après la maladie.",
@@ -2646,6 +2700,33 @@
    "lien": "https://www.paris.fr/evenements/exposition-de-tina-barney-early-works-126885",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127228",
+   "titre": "Musée des égouts : Visites nocturnes à la lampe à carbure.",
+   "resume": "Dans l’obscurité… à la lueur des lampes à carbure, explorez les égouts du passé.",
+   "debut": "2026-11-20",
+   "fin": "2026-12-18",
+   "horaires": "Le vendredi 18 décembre 2026 de à Le vendredi 20 novembre 2026 de à",
+   "lieu": "Musée des égouts de Paris",
+   "adresse": "Pont de l'Alma, 75007 Paris",
+   "lat": 48.86295,
+   "lon": 2.3018,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "La tarification correspond au tarif de visite habituel + 5€",
+    "prix_min": 5.0,
+    "reservation": true,
+    "billetterie": "https://billetterie-egouts.paris.fr/fr-FR/produits"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/06/huge-3108124e842389b357563923a19241e4.jpg",
+   "lien": "https://www.paris.fr/evenements/musee-des-egouts-visites-nocturnes-a-la-lampe-a-carbure-127228",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
   },
   {
    "id": "qfap-124445",
@@ -2723,6 +2804,32 @@
    "lien": "https://www.paris.fr/evenements/200-lux-expo-125496",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127333",
+   "titre": "EXPOSITION : Grand Shanghai / Grand Paris : deux métropoles fluviales",
+   "resume": "À l’ENSA Paris-Belleville, une exposition gratuite met en miroir Paris et Shanghai pour explorer les liens entre fleuves, nature et ville dense, du 3 au 19 décembre 2026.",
+   "debut": "2026-12-03",
+   "fin": "2026-12-19",
+   "horaires": "Du jeudi 03 décembre 2026 au samedi 19 décembre 2026 : samedi de 10h00 à 18h00 lundi, mardi, mercredi, jeudi, vendredi de 08h30 à 22h30",
+   "lieu": "École Nationale Supérieure d'Architecture de Paris-Belleville",
+   "adresse": "60 Boulevard de la Villette, 75019 Paris",
+   "lat": 48.8748730155057,
+   "lon": 2.3742179956167,
+   "thematiques": [
+    "Sciences & nature",
+    "Architecture & ville"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "detail": "Entrée libre, sans réservation. Dernier accès à 21h30 du lundi au vendredi et à 17h le samedi. Vernissage le jeudi 3 décembre à 18h30.",
+    "prix_min": 0,
+    "billetterie": "https://www.paris-belleville.archi.fr"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-c3d3615763807b451d91d79914d94339.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-grand-shanghai-grand-paris-deux-metropoles-fluviales-127333",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
   },
   {
    "id": "qfap-114754",
@@ -3419,6 +3526,40 @@
    "lien": "https://www.paris.fr/evenements/pierre-et-gilles-rose-pour-toi-rose-pour-moi-126879",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-126043",
+   "titre": "Vacances de Noel 2026 - ateliers en famille",
+   "resume": "Profitez des vacances pour découvrir en famille l'étonnante collection de maquettes \"cachée\" au cœur des Invalides !",
+   "debut": "2026-12-19",
+   "fin": "2026-12-30",
+   "horaires": "Du samedi 19 décembre 2026 au jeudi 31 décembre 2026 : mercredi, samedi de 11h00 à 12h30",
+   "lieu": "Musée des Plans-Reliefs",
+   "adresse": "129 rue de Grenelle, 75007 Paris",
+   "lat": 48.8564987513427,
+   "lon": 2.31322268999505,
+   "thematiques": [
+    "Jeunesse"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Réservation par formulaire sur le site internet du musée",
+    "reservation": true,
+    "billetterie": "https://museedesplansreliefs.fr/les-vacances-de-noel-en-famille"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/09/huge-e3889aa1706fd19e2e08068546aef966.jpg",
+   "lien": "https://www.paris.fr/evenements/vacances-de-la-toussaint-2026-ateliers-en-famille-126043",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11",
+   "affluence": {
+    "visiteurs": 96314,
+    "annee": 0,
+    "lieu": "musée des Plans-Reliefs",
+    "niveau": 0,
+    "score": 4.984,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
   },
   {
    "id": "qfap-117593",
@@ -4580,39 +4721,6 @@
    "lien": "https://www.paris.fr/evenements/gerard-malanga-126874",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-105917",
-   "titre": "La grande aventure du savoir médical",
-   "resume": "Sous le commissariat du Dr Philippe Abastado, cardiologue clinicien et directeur de recherche en épistémologie appliquée à la médecine à l’Université Paris 7, l’exposition explore la transmission du savoir médical, de l’Antiquité aux Temps modernes. Aventure de l’homme pour l’homme, la médecine passe d’une civilisation à l’autre, malgré les guerres et les conflits, malgré les vicissitudes politiqu",
-   "debut": "2026-10-13",
-   "fin": "2027-01-10",
-   "horaires": "Du mardi 13 octobre 2026 au dimanche 10 janvier 2027 :",
-   "lieu": "L'Institut du Monde Arabe",
-   "adresse": "1, rue des Fossés-Saint-Bernard, 75005 Paris",
-   "lat": 48.849172004894,
-   "lon": 2.35621199121522,
-   "thematiques": [
-    "Histoire & patrimoine",
-    "Design, mode & arts déco"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/02/06/huge-0c090f530ac5ebd791c56a25458bad39.jpg",
-   "lien": "https://www.paris.fr/evenements/la-grande-aventure-du-savoir-medical-105917",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03",
-   "affluence": {
-    "visiteurs": 551448,
-    "annee": 0,
-    "lieu": "musée de l'Institut du monde arabe",
-    "niveau": 1,
-    "score": 5.742,
-    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
-   }
   },
   {
    "id": "qfap-117724",
@@ -5933,6 +6041,59 @@
    "vu_le": "2026-11-07"
   },
   {
+   "id": "qfap-127097",
+   "titre": "Exposition : \"Michel Butor, portrait ultrasensible\"",
+   "resume": "Du 19 octobre 2026 au 3 février 2027, l'Université Paris Cité et son Musée d'Histoire de la Médecine explore les liens entre sciences et poésie avec l'exposition \"Michel Butor, portrait ultrasensible\", en association avec le festival PhotoSaintGermain. Aux côtés des livres d'artistes de Michel Butor et de ses amis photographes, découvrez les ouvrages scientifiques qui l'ont inspiré et ont marqué l",
+   "debut": "2026-10-19",
+   "fin": "2027-02-03",
+   "horaires": "Du lundi 19 octobre 2026 au mercredi 03 février 2027 : samedi de 10h00 à 20h00 lundi, mardi, mercredi, vendredi de 14h00 à 17h30 Fermé du samedi 19 décembre 2026 au dimanche 03 janvier 2027",
+   "lieu": "Université Paris Cité",
+   "adresse": "12 rue de l'Ecole de Médecine, 75006 Paris",
+   "lat": 48.8512529799953,
+   "lon": 2.34075903070195,
+   "thematiques": [
+    "Photographie",
+    "Histoire & patrimoine",
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Entrée plein tarif à 3,50€ – tarif réduit à 2,50€ – gratuite (voir conditions) Entrée gratuite du 5 au 28 novembre 2026 à l'occasion du festival PhotoSaintGermain",
+    "prix_min": 2.5,
+    "billetterie": "https://u-paris.fr/bibliotheques/exposition-photosaintgermain-butor-ultrasensible/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-c2268923084b83bd50d464530781c235.jpeg",
+   "lien": "https://www.paris.fr/evenements/exposition-michel-butor-portrait-ultrasensible-127097",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
+  },
+  {
+   "id": "qfap-126834",
+   "titre": "EXPO PHOTOS : « Filigranes »",
+   "resume": "Expo photos. Du 5 novembre 2026 au 5 février 2027. Vernissage le 5 novembre à 18h.",
+   "debut": "2026-11-05",
+   "fin": "2027-02-05",
+   "horaires": "Du jeudi 05 novembre 2026 au vendredi 05 février 2027 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 10h00 à 19h00",
+   "lieu": "AGECA",
+   "adresse": "177 rue de Charonne, 75011 Paris",
+   "lat": 48.8560030045249,
+   "lon": 2.39220799058313,
+   "thematiques": [
+    "Photographie"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "detail": "Vernissage le 5 novembre 2026 à 19h",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-6a26e9753e830fa0a6b77b8a90a8ccc2.jpeg",
+   "lien": "https://www.paris.fr/evenements/expo-photos-126834",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
+  },
+  {
    "id": "qfap-125276",
    "titre": "From Rasht, Darius Dolatyari-Dolatdoust",
    "resume": "Depuis dix ans, Darius Dolatyari-Dolatdoust fait de son impossible voyage en Iran la matière d’une exploration sensible. Pour sa première exposition personnelle à Paris, il présente cette géographie intime à l’ICI, accompagnée de pièces inédites, dans une scénographie chatoyante et vivante inspirée de sa pratique performative.",
@@ -6082,6 +6243,32 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127372",
+   "titre": "Combattre sur tous les fronts, les aviateurs de la France Libre (1940-1945)",
+   "resume": "En 1940, ils ont fait le choix de continuer le combat. Pilotes, navigateurs, mécaniciens et volontaires féminines de l’Air, les aviateurs des Forces aériennes françaises libres (FAFL) ont combattu sur tous les fronts de la Seconde Guerre mondiale, de la Grande-Bretagne à l’Union soviétique, en passant par la Méditerranée et le front de l’Ouest.",
+   "debut": "2026-10-15",
+   "fin": "2027-02-14",
+   "horaires": "Du jeudi 15 octobre 2026 au dimanche 14 février 2027 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 10h00 à 18h00",
+   "lieu": "Musée de l'ordre de la Libération",
+   "adresse": "129, rue de Grenelle, 75007 Paris",
+   "lat": 48.8581900107014,
+   "lon": 2.3128939803284,
+   "thematiques": [
+    "Histoire & patrimoine"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 10 à 17 euros.",
+    "prix_min": 17.0,
+    "reservation": true,
+    "billetterie": "https://www.ordredelaliberation.fr/fr/exposition-2026"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-bf1ed434b755e8792e48e8b6e72c91af.png",
+   "lien": "https://www.paris.fr/evenements/combattre-sur-tous-les-fronts-les-aviateurs-de-la-france-libre-1940-1945-127372",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
   },
   {
    "id": "qfap-117956",
@@ -6483,6 +6670,33 @@
     "score": 6.574,
     "source": "Liste Wikipédia « most-visited museums in France » ; Orsay + Orangerie = 4 949 835 (communiqué officiel)"
    }
+  },
+  {
+   "id": "qfap-127402",
+   "titre": "Le Musée Imaginaire d’Oli",
+   "resume": "Le Grand Palais présente Le Musée Imaginaire d’Oli, une exposition conçue par l'artiste et musicien Oli (Bigflo & Oli), avec la complicité de Jérôme Sans. De salle en salle, traversez les états intérieurs qui font naître une œuvre : inspiration, doute, regard des autres, refuge et transmission. Un parcours entre les mondes qui ont façonné Oli.",
+   "debut": "2026-12-02",
+   "fin": "2027-02-21",
+   "horaires": "Du mercredi 02 décembre 2026 au dimanche 21 février 2027 : vendredi de 10h00 à 22h00 mardi, mercredi, jeudi, samedi, dimanche de 10h00 à 19h30",
+   "lieu": "Grand Palais",
+   "adresse": "Avenue Winston Churchill, 75008 Paris",
+   "lat": 48.8659118578112,
+   "lon": 2.31382085611823,
+   "thematiques": [
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 22 euros.",
+    "prix_min": 22.0,
+    "reservation": true,
+    "billetterie": "https://www.grandpalais.fr/fr/programme/le-musee-imaginaire-doli"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-93eb8aaa63dc6fe9f1a5a3af5e6f13b1.jpg",
+   "lien": "https://www.paris.fr/evenements/le-musee-imaginaire-d-oli-127402",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
   },
   {
    "id": "qfap-116770",
@@ -7036,6 +7250,34 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127405",
+   "titre": "Girls. Adolescence, mode, rébellion",
+   "resume": "Âge des métamorphoses et de toutes les contradictions, l'adolescence continue de nourrir notre imaginaire. Découvrez comment artistes, créateurs et créatrices de mode, photographes et cinéastes explorent et réinventent les représentations de la figure de la jeune fille.",
+   "debut": "2026-12-09",
+   "fin": "2027-03-21",
+   "horaires": "Du mercredi 09 décembre 2026 au dimanche 21 mars 2027 : vendredi de 10h00 à 22h00 mardi, mercredi, jeudi, samedi, dimanche de 10h00 à 19h30",
+   "lieu": "Grand Palais",
+   "adresse": "Avenue Winston Churchill, 75008 Paris",
+   "lat": 48.8659118578112,
+   "lon": 2.31382085611823,
+   "thematiques": [
+    "Photographie",
+    "Design, mode & arts déco"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 15 euros.",
+    "prix_min": 15.0,
+    "reservation": true,
+    "billetterie": "https://www.grandpalais.fr/fr/programme/girls-adolescence-mode-rebellion"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-dc922714f409a518aa24f342d55f2657.jpg",
+   "lien": "https://www.paris.fr/evenements/girls-adolescence-mode-rebellion-127405",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
+  },
+  {
    "id": "qfap-117946",
    "titre": "Une histoire du cinéma français. Héritages maghrébins",
    "resume": "Depuis plus de soixante ans, le cinéma français se transforme sous l’impulsion de cinéastes, acteurs et actrices issus de l’immigration maghrébine. Leurs œuvres ont introduit de nouveaux récits, de nouveaux visages et de nouvelles formes, redéfinissant les imaginaires du septième art. L’exposition Une nouvelle histoire du cinéma Français retrace cette histoire en mettant en lumière celles et ceux ",
@@ -7062,6 +7304,33 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-126926",
+   "titre": "Exposition « Triomphe, la nuit »",
+   "resume": "Monument emblématique de la France, l’Arc de triomphe est souvent représenté à la lumière du jour. Pourtant, depuis sa construction, il est le lieu de cérémonies, d’événements et de rassemblements nocturnes majeurs. L’exposition « Triomphe, la nuit », en partenariat avec la Ville de Paris, raconte et explore cette dimension historique et contemporaine du monument la nuit à travers une représentati",
+   "debut": "2026-10-28",
+   "fin": "2027-03-26",
+   "horaires": "Du mercredi 28 octobre 2026 au vendredi 26 mars 2027 :",
+   "lieu": "La salle des Palmes de l'Arc de Triomphe",
+   "adresse": "Place Charles de Gaulle, 75008 Paris",
+   "lat": 48.8738484396877,
+   "lon": 2.29591315846347,
+   "thematiques": [
+    "Art contemporain",
+    "Histoire & patrimoine",
+    "Architecture & ville"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 16 euros. Le billet prends en compte l'accès à tout le parcours de visite de l'Arc de Triomphe.&nbsp;",
+    "prix_min": 16.0,
+    "reservation": true
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-d7fd50a0023c849c64d1f53bb64b5d2b.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-triomphe-la-nuit-126926",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
+  },
+  {
    "id": "qfap-105312",
    "titre": "Exposition photo de Frédéric Combeau - \"Focus sur la biodiversité parisienne\"",
    "resume": "Plongez dans l’univers animalier du photographe Frédéric Combeau. Une exposition qui révèle, avec poésie et précision, l'attachement de l'artiste aux animaux sauvages qui vivent au cœur de Paris.",
@@ -7085,6 +7354,31 @@
    "lien": "https://www.paris.fr/evenements/frederic-combeau-focus-sur-la-biodiversite-parisienne-105312",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127412",
+   "titre": "James Barnor, Le Style dans le viseur",
+   "resume": "À l’occasion de l’exposition Ibrahim Mahama, Le Temps des récoltes, la Fondation Cartier pour l’art contemporain et la RATP s’associent pour présenter James Barnor, Le Style dans le viseur. Conçue pour les alcôves de la galerie Valois, cette exposition dévoile un ensemble de photographies et de planches contact, réalisées dans le cadre de la collaboration du photographe ghanéen James Barnor avec l",
+   "debut": "2026-10-20",
+   "fin": "2027-03-31",
+   "horaires": "Du lundi 19 octobre 2026 au mercredi 31 mars 2027 : vendredi de 11h00 à 22h00 mardi, mercredi, jeudi, samedi, dimanche de 11h00 à 19h00",
+   "lieu": "Galerie Valois",
+   "adresse": "2, place du Palais Royal, 75001 Paris",
+   "lat": 48.8623750111379,
+   "lon": 2.33731800799134,
+   "thematiques": [
+    "Photographie",
+    "Art contemporain"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.fondationcartier.com/programme/exposition/james-barnor-le-style-dans-le-viseur"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-0eb93729b2db63775d7359b1ac7b8b76.png",
+   "lien": "https://www.paris.fr/evenements/james-barnor-le-style-dans-le-viseur-127412",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
   },
   {
    "id": "qfap-114666",
@@ -7320,6 +7614,41 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127367",
+   "titre": "Rodin selon Rilke. Un regard sur l'œuvre du sculpteur à travers les mots du poète",
+   "resume": "À l’occasion du centenaire de la disparition de Rainer Maria Rilke, le musée Rodin consacre une exposition à l’une des relations artistiques les plus stimulantes du début du XXe siècle. Plus qu’un dialogue entre sculpture et littérature, « Rodin selon Rilke » propose un itinéraire poétique des sculptures de l’artiste à partir de morceaux choisis du poète, et révèle une amitié, qui influença le des",
+   "debut": "2026-12-15",
+   "fin": "2027-04-18",
+   "horaires": "Du mardi 15 décembre 2026 au dimanche 18 avril 2027 : mardi, mercredi, jeudi, vendredi, samedi, dimanche de 10h00 à 18h30",
+   "lieu": "Musée Rodin",
+   "adresse": "77, rue de Varenne, 75007 Paris",
+   "lat": 48.8558660023175,
+   "lon": 2.31599302138946,
+   "thematiques": [
+    "Beaux-arts",
+    "Histoire & patrimoine"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 14 euros.",
+    "prix_min": 14.0,
+    "reservation": true,
+    "billetterie": "https://www.musee-rodin.fr/musee/expositions/rodin-selon-rilke"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-7d9c079da186c78409c97ae0bf7339ff.jpg",
+   "lien": "https://www.paris.fr/evenements/rodin-selon-rilke-un-regard-sur-l-oeuvre-du-sculpteur-a-travers-les-mots-du-poete-127367",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11",
+   "affluence": {
+    "visiteurs": 687257,
+    "annee": 0,
+    "lieu": "musée Rodin",
+    "niveau": 1,
+    "score": 5.837,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
+  },
+  {
    "id": "qfap-126793",
    "titre": "Musée Postal : une exposition féerique à découvrir en famille !",
    "resume": "Bouche d’ogre, forêt enchantée, robes de Peau d’Âne : du 18 novembre 2026 au 19 avril 2027, le Musée Postal fait dialoguer contes de fées et histoire postale dans une exposition immersive à vivre pour petits et grands.",
@@ -7369,6 +7698,8 @@
    "a_verifier": true,
    "lien": "https://www.petitpalais.paris.fr/",
    "source": "Sélection manuelle",
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-ac30fdd0f872346abcc78407b04b0f8e.png",
+   "horaires": "Du mardi 10 novembre 2026 au dimanche 25 avril 2027 : vendredi, samedi de 10h00 à 20h00 mardi, mercredi, jeudi, dimanche de 10h00 à 18h00",
    "vu_le": "2026-11-03",
    "affluence": {
     "visiteurs": 1459371,
@@ -7429,6 +7760,34 @@
    "lien": "https://www.paris.fr/evenements/toutes-les-expositions-gratuites-de-la-ville-91521",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127375",
+   "titre": "Dina Vierny. L'art et la liberté",
+   "resume": "Muse de Maillol à quinze ans, résistante emprisonnée, chanteuse des chants du Goulag et découvreuse d’artistes : Dina Vierny a vécu plusieurs vies en une seule. À partir du 13 janvier 2027, le Musée Maillol à Paris lui consacre une grande exposition, déployée exceptionnellement sur ses trois niveaux. À travers des oeuvres majeures de Maillol, Matisse, Bonnard, Poliakoff, Duchamp, Séraphine et bien",
+   "debut": "2027-01-13",
+   "fin": "2027-05-02",
+   "horaires": "Du mercredi 13 janvier 2027 au dimanche 02 mai 2027 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 10h30 à 18h30",
+   "lieu": "Musée Maillol",
+   "adresse": "59-61, rue de Grenelle, 75007 Paris",
+   "lat": 48.8547950046392,
+   "lon": 2.32492402304194,
+   "thematiques": [
+    "Beaux-arts",
+    "Histoire & patrimoine",
+    "Design, mode & arts déco",
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Il sera possible d’acheter un billet en ligne et sur place.",
+    "reservation": true,
+    "billetterie": "https://museemaillol.com/expositions/dina-vierny-lart-et-la-liberte/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-78ba96b41c055b27c03fdb4c37fe639e.jpg",
+   "lien": "https://www.paris.fr/evenements/dina-vierny-l-art-et-la-liberte-127375",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
   },
   {
    "id": "qfap-126335",
@@ -7739,6 +8098,58 @@
    "vu_le": "2026-11-10"
   },
   {
+   "id": "qfap-127361",
+   "titre": "Marie Laurencin. Sœur des poètes",
+   "resume": "Peintre, dessinatrice, illustratrice, poétesse, créatrice de décors et de costumes, Marie Laurencin fut l’une des figures les plus célèbres de la vie artistique parisienne de son vivant. Longtemps regardée à travers la seule image d’une muse d’Apollinaire, elle occupe une place singulière au cœur des avant-gardes et des réseaux intellectuels de son temps.",
+   "debut": "2027-02-17",
+   "fin": "2027-07-04",
+   "horaires": "Du mercredi 17 février 2027 au dimanche 04 juillet 2027 : lundi de 10h30 à 22h00 mardi, mercredi, jeudi, vendredi, samedi, dimanche de 10h30 à 19h00",
+   "lieu": "Musée du Luxembourg",
+   "adresse": "19, rue de Vaugirard, 75006 Paris",
+   "lat": 48.84889100159,
+   "lon": 2.33407396000533,
+   "thematiques": [
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 14 euros.",
+    "prix_min": 14.0,
+    "reservation": true,
+    "billetterie": "https://museeduluxembourg.fr/fr/agenda/evenement/marie-laurencin"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-8cfce8b0352d6f9171eb0722d51eb944.png",
+   "lien": "https://www.paris.fr/evenements/marie-laurencin-soeur-des-poetes-127361",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
+  },
+  {
+   "id": "qfap-127411",
+   "titre": "ÉCRANS SOUS CONTRAINTES. Le Cinéma pendant l’Occupation",
+   "resume": "Entre 1940 et 1944, dans un pays occupé, sous couvre-feu, rationné, les salles de cinéma ne désemplissent pas. Romances légères, comédies, films historiques et adaptations littéraires, films policiers ou fantastiques animent les écrans de Paris et de province. Actualités et documentaires de propagande les précèdent en début de séance. Entre ces images, des sous-textes idéologiques infusent les pro",
+   "debut": "2026-11-27",
+   "fin": "2027-07-10",
+   "horaires": "Du vendredi 27 novembre 2026 au samedi 10 juillet 2027 : samedi de 11h30 à 19h00 mercredi, jeudi de 14h00 à 19h00 mardi, vendredi de 14h00 à 20h30",
+   "lieu": "Fondation Jérôme Seydoux-Pathé",
+   "adresse": "73, avenue des Gobelins, 75013 Paris",
+   "lat": 48.8333880011148,
+   "lon": 2.35453502384692,
+   "thematiques": [
+    "Histoire & patrimoine"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 3 à 5 euros.",
+    "prix_min": 5.0,
+    "reservation": true,
+    "billetterie": "https://www.fondation-jeromeseydoux-pathe.com/event/3348"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-bde28826e3f6fbbc42df8a7ebbc71433.jpeg",
+   "lien": "https://www.paris.fr/evenements/ecrans-sous-contraintes-le-cinema-pendant-l-occupation-127411",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
+  },
+  {
    "id": "qfap-117989",
    "titre": "Billie Holiday. Légende noire",
    "resume": "Icône à la voix inimitable, Billie Holiday a bouleversé le jazz et marqué l’histoire par la puissance artistique et politique de son chant. La Philharmonie lui consacre une rétrospective vibrante, jalonnée d’œuvres d’art et de documents rares qui célèbrent son génie, sa liberté et l’actualité brûlante de son héritage.",
@@ -7789,6 +8200,43 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127368",
+   "titre": "Histoires de familles",
+   "resume": "Loin d’être un modèle immuable, la famille se transforme tout au long du XIXᵉ siècle, au rythme des bouleversements politiques, sociaux et moraux de l’époque. Encadrée par le Code civil, portée en triomphe par la bourgeoisie et traversée par la première vague féministe comme par les mutations romantiques du couple, elle devient un observatoire privilégié des tensions de la société moderne. Les art",
+   "debut": "2027-03-16",
+   "fin": "2027-07-18",
+   "horaires": "Du mardi 16 mars 2027 au dimanche 18 juillet 2027 : mardi, mercredi, vendredi, samedi, dimanche de 09h30 à 18h00 jeudi de 09h30 à 21h45",
+   "lieu": "Musée d'Orsay",
+   "adresse": "Esplanade Valéry Giscard d'Estaing, 75007 Paris",
+   "lat": 48.8603522858312,
+   "lon": 2.32675478488623,
+   "thematiques": [
+    "Beaux-arts",
+    "Histoire & patrimoine",
+    "Design, mode & arts déco",
+    "Société & monde",
+    "Jeunesse"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Billetterie bientôt disponible.",
+    "reservation": true,
+    "billetterie": "https://www.musee-orsay.fr/fr/programme/agenda/expositions/histoires-de-familles"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-14f418d75c80a23e83510c2d3967094c.jpg",
+   "lien": "https://www.paris.fr/evenements/histoires-de-familles-127368",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11",
+   "affluence": {
+    "visiteurs": 3751141,
+    "annee": 2024,
+    "lieu": "Musée d'Orsay",
+    "niveau": 3,
+    "score": 6.574,
+    "source": "Liste Wikipédia « most-visited museums in France » ; Orsay + Orangerie = 4 949 835 (communiqué officiel)"
+   }
+  },
+  {
    "id": "qfap-123862",
    "titre": "Exposition : \"Semons nos resistances\"",
    "resume": "À l’heure où les crises se multiplient, où les récits dominants verrouillent nos horizons et où les ressources vitales de la Terre s’épuisent, il est urgent de se rassembler pour construire des modèles de vie plus justes et plus durables. C’est cette nécessité immédiate, politique et collective qu’explorent les quinze artistes présentés au sein de l’exposition Semons nos résistances.",
@@ -7811,6 +8259,33 @@
    "lien": "https://www.paris.fr/evenements/exposition-semons-nos-resistances-123862",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127407",
+   "titre": "Gilles Caron. J'ai voulu voir",
+   "resume": "Figure majeure du photojournalisme, Gilles Caron laisse derrière lui une œuvre d’une présence et d’une fraîcheur inédites. À travers ses images, ses archives et son propre récit, cette exposition révèle le parcours et les passions d’un photographe qui n’a cessé d’interroger sa pratique et ses limites.",
+   "debut": "2027-03-16",
+   "fin": "2027-07-24",
+   "horaires": "Du mardi 16 mars 2027 au samedi 24 juillet 2027 : vendredi de 10h00 à 22h00 mardi, mercredi, jeudi, samedi, dimanche de 10h00 à 19h30",
+   "lieu": "Grand Palais",
+   "adresse": "Avenue Winston Churchill, 75008 Paris",
+   "lat": 48.8659118578112,
+   "lon": 2.31382085611823,
+   "thematiques": [
+    "Photographie"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 10 euros.",
+    "prix_min": 10.0,
+    "reservation": true,
+    "billetterie": "https://www.grandpalais.fr/fr/programme/gilles-caron-jai-voulu-voir"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-f1db58cc6376a51c250f9c8db77269a4.jpg",
+   "lien": "https://www.paris.fr/evenements/gilles-caron-j-ai-voulu-voir-127407",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
   },
   {
    "id": "qfap-117992",
@@ -7836,6 +8311,39 @@
    "lien": "https://www.paris.fr/evenements/semons-nos-resistances-117992",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127370",
+   "titre": "Vuillard. Théâtres intimes",
+   "resume": "Les œuvres à la fois intimistes et novatrices du peintre Édouard Vuillard (1868-1940), figure majeure du mouvement Nabi, ne cessent de nous séduire et de nous intriguer. Avec cette première exposition dédiée à Vuillard, en France, depuis presque 25 ans, le musée d'Orsay propose d'explorer un sujet inédit : la fascination de l’artiste pour le théâtre, qui imprègne et stimule son art pendant plus de",
+   "debut": "2027-03-25",
+   "fin": "2027-07-25",
+   "horaires": "Du jeudi 25 mars 2027 au dimanche 25 juillet 2027 : jeudi de 09h30 à 21h45 mardi, mercredi, vendredi, samedi, dimanche de 09h30 à 18h00",
+   "lieu": "Musée d'Orsay",
+   "adresse": "Esplanade Valéry Giscard d'Estaing, 75007 Paris",
+   "lat": 48.8603522858312,
+   "lon": 2.32675478488623,
+   "thematiques": [
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Billetterie bientôt disponible.",
+    "reservation": true,
+    "billetterie": "https://www.musee-orsay.fr/fr/programme/agenda/expositions/vuillard-theatres-intimes"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-3ffa0c1be2ae8ec66d1e7f067041b209.jpg",
+   "lien": "https://www.paris.fr/evenements/vuillard-theatres-intimes-127370",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11",
+   "affluence": {
+    "visiteurs": 3751141,
+    "annee": 2024,
+    "lieu": "Musée d'Orsay",
+    "niveau": 3,
+    "score": 6.574,
+    "source": "Liste Wikipédia « most-visited museums in France » ; Orsay + Orangerie = 4 949 835 (communiqué officiel)"
+   }
   },
   {
    "id": "qfap-124896",
@@ -7909,7 +8417,7 @@
     "reservation": true,
     "billetterie": "https://www.arts-et-metiers.net/musee/lady-liberte-de-la-sueur-de-laudace-du-genie"
    },
-   "image": "https://cdn.paris.fr/qfapv4/2026/07/22/huge-33c793c0d2e8ef31ed4c2810774ce4a9.jpg",
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-13ad5a4266236d1cfe25d06a0b67a34c.png",
    "lien": "https://www.paris.fr/evenements/lady-liberte-de-la-sueur-de-l-audace-du-genie-116796",
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
@@ -8088,6 +8596,34 @@
    "lien": "https://www.paris.fr/evenements/transparence-la-premiere-exposition-du-palais-des-enfants-92017",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127408",
+   "titre": "Collection Bemberg. Chefs-d’œuvre de Véronèse à Bonnard",
+   "resume": "5 siècles de création, près de 180 œuvres et le goût singulier d'un collectionneur : pour la première fois à Paris, le Grand Palais présente des chefs-d'œuvre emblématiques de la Collection Bemberg. Véronèse, Bonnard, Cranach, Sickert, Morisot, Picasso… explorez la richesse d’une collection privée parmi les plus remarquables en France !",
+   "debut": "2027-05-12",
+   "fin": "2027-09-12",
+   "horaires": "Du mercredi 12 mai 2027 au dimanche 12 septembre 2027 : vendredi de 10h00 à 22h00 mardi, mercredi, jeudi, samedi, dimanche de 10h00 à 19h30",
+   "lieu": "Grand Palais",
+   "adresse": "Avenue Winston Churchill, 75008 Paris",
+   "lat": 48.8659118578112,
+   "lon": 2.31382085611823,
+   "thematiques": [
+    "Beaux-arts",
+    "Histoire & patrimoine"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 15 euros.",
+    "prix_min": 15.0,
+    "reservation": true,
+    "billetterie": "https://www.grandpalais.fr/fr/programme/collection-bemberg-chefs-doeuvre-de-veronese-bonnard"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-a63262afd80265c32bc34ca02d176114.jpg",
+   "lien": "https://www.paris.fr/evenements/collection-bemberg-chefs-d-oeuvre-de-veronese-a-bonnard-127408",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-11"
   },
   {
    "id": "qfap-127319",
