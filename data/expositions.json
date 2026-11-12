@@ -1,6 +1,6 @@
 {
- "genere": "2026-11-11T06:33:31+00:00",
- "jour": "2026-11-11",
+ "genere": "2026-11-12T06:36:42+00:00",
+ "jour": "2026-11-12",
  "api_ok": true,
  "total": 332,
  "par_tarif": {
@@ -9,31 +9,7 @@
   "payant": 141,
   "inconnu": 0
  },
- "nouvelles": [
-  "qfap-127370",
-  "qfap-126834",
-  "qfap-127410",
-  "qfap-127367",
-  "qfap-127372",
-  "qfap-127333",
-  "qfap-127405",
-  "qfap-127412",
-  "qfap-127356",
-  "qfap-127063",
-  "qfap-127375",
-  "qfap-127228",
-  "qfap-127361",
-  "qfap-126203",
-  "qfap-127411",
-  "qfap-127408",
-  "qfap-127407",
-  "qfap-126043",
-  "qfap-127402",
-  "qfap-127355",
-  "qfap-126926",
-  "qfap-127097",
-  "qfap-127368"
- ],
+ "nouvelles": [],
  "avec_affluence": 57,
  "expositions": [
   {
@@ -1302,7 +1278,7 @@
    "resume": "Une expo collective réunissant différent.e.s artistes et associations autour des multiples façons de vivre, de penser et d’exprimer les identités LGBTQI+",
    "debut": "2026-11-06",
    "fin": "2026-11-27",
-   "horaires": "Du vendredi 06 novembre 2026 au vendredi 27 novembre 2026 : mercredi de 10h00 à 21h30 mardi de 10h00 à 22h00 lundi de 12h00 à 22h00 jeudi de 10h00 à 22h00 vendredi de 12h00 à 22h00 samedi de 09h30 à 17h30 Fermé le mercredi 11 novembre 2026",
+   "horaires": "Du vendredi 06 novembre 2026 au vendredi 27 novembre 2026 : mercredi de 10h00 à 21h30 mardi de 10h00 à 22h00 lundi de 12h00 à 22h00 jeudi de 10h00 à 22h00 vendredi de 12h00 à 22h00 samedi de 09h30 à 17h30",
    "lieu": "Centre Paris Anim' Annie Fratellini (ex Villiot Rapée)",
    "adresse": "36 quai de la Rapée, 75012 Paris",
    "lat": 48.841469,
