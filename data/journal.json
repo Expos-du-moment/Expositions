@@ -146,5 +146,24 @@
   "retirees": 0,
   "api_ok": true,
   "titres_ajoutes": []
+ },
+ {
+  "jour": "2026-11-13",
+  "total": 339,
+  "ajoutees": 10,
+  "retirees": 3,
+  "api_ok": true,
+  "titres_ajoutes": [
+   "Kennedy Yanko. Ce qui nous rassemble",
+   "Exposition - L’art urbain déclare sa flamme avec l’artiste IN LOVE à la Galerie Woodgreen",
+   "Créer un pacte avec les animaux ? Réflexion avec Jean-Christophe Bailly",
+   "Exposition «Déchets D'oeuvres 2» du collectif Frères d'ART",
+   "Exposition de peinture de Joël Denece à l’Espace 7",
+   "Votez pour votre coup de cœur Fabriqué à Paris !",
+   "Exposition \"Femmes sujets, non objets\" organisée par la Maison des Femmes de l'APHP-Hôpital-Bichat-Claude-Bernard en collaboration avec la Mairie du 18e arrondissement",
+   "EXPOSITION : « L’Assemblée - Sculptures, robots, objets connectés et déconnectés » - Michel de Broin",
+   "La Maison de l'animal : toute la programmation",
+   "ENSEMBLE' : 30 ans de peinture de Babacar Badiane au cœur du OFF de Dakar à Paris"
+  ]
  }
 ]

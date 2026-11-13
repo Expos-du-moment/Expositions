@@ -1,94 +1,28 @@
 {
- "genere": "2026-11-12T06:36:42+00:00",
- "jour": "2026-11-12",
+ "genere": "2026-11-13T06:34:46+00:00",
+ "jour": "2026-11-13",
  "api_ok": true,
- "total": 332,
+ "total": 339,
  "par_tarif": {
-  "gratuit": 179,
-  "gratuit_sous_condition": 12,
-  "payant": 141,
+  "gratuit": 186,
+  "gratuit_sous_condition": 11,
+  "payant": 142,
   "inconnu": 0
  },
- "nouvelles": [],
+ "nouvelles": [
+  "qfap-127436",
+  "qfap-127415",
+  "qfap-127443",
+  "qfap-127460",
+  "qfap-127414",
+  "qfap-127450",
+  "qfap-127449",
+  "qfap-127466",
+  "qfap-103282",
+  "qfap-127439"
+ ],
  "avec_affluence": 57,
  "expositions": [
-  {
-   "id": "qfap-126104",
-   "titre": "Déambulation exposition \"LALA photographie sa ville\" & rencontre avec Delphine Bonnet",
-   "resume": "Découvrez l’œuvre méconnue de Nicole Lala, photographe-reporter, à travers une déambulation autour de l’exposition « Lala photographie sa ville », sur les grilles du jardin Villemin, suivie d’une rencontre avec sa fille, Delphine Bonnet, à la Librairie du Canal, autour de son livre Lala, je te vois où que tu sois.",
-   "debut": "2026-11-12",
-   "fin": "2026-11-12",
-   "horaires": "Le jeudi 12 novembre 2026 de 14h30 à 16h30",
-   "lieu": "La Librairie du Canal",
-   "adresse": "3 Rue Eugène Varlin, 75010 Paris",
-   "lat": 48.8778270077323,
-   "lon": 2.36514601035284,
-   "thematiques": [
-    "Photographie",
-    "Sciences & nature",
-    "Architecture & ville"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-e81e44f20ae1ba9953a02985fb8df784.png",
-   "lien": "https://www.paris.fr/evenements/deambulation-exposition-lala-photographie-sa-ville-rencontre-avec-delphine-bonnet-126104",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-126152",
-   "titre": "Exposition : Lady Liberty, derrière l’icône, le génie d’Eiffel",
-   "resume": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-   "debut": "2026-10-12",
-   "fin": "2026-11-12",
-   "horaires": "Du lundi 12 octobre 2026 au jeudi 12 novembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 09h30 à 23h30",
-   "lieu": "tour Eiffel",
-   "adresse": "Avenue Gustave Eiffel, 75007 Paris",
-   "lat": 48.856578,
-   "lon": 2.351828,
-   "thematiques": [
-    "Histoire & patrimoine",
-    "Jeunesse"
-   ],
-   "tarif": {
-    "type": "gratuit_sous_condition",
-    "detail": "Gratuit avec un billet d'accès pour la tour Eiffel.&nbsp;",
-    "prix_min": 0,
-    "billetterie": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
-   "lien": "https://www.paris.fr/evenements/exposition-lady-liberty-derriere-l-icone-le-genie-d-eiffel-126152",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-126481",
-   "titre": "Exposition collective « Couleurs de la Mémoire »",
-   "resume": "Exposition · Ateliers · Kermesse · Tombola.",
-   "debut": "2026-11-03",
-   "fin": "2026-11-12",
-   "horaires": "Du mardi 03 novembre 2026 au jeudi 12 novembre 2026 : mardi, mercredi, jeudi, vendredi, samedi de 14h00 à 19h00",
-   "lieu": "Galerie L'Esprit d'Escalier",
-   "adresse": "10, avenue de Corbera, 75012 Paris",
-   "lat": 48.8456239871893,
-   "lon": 2.3819050390189,
-   "thematiques": [
-    "Art contemporain",
-    "Histoire & patrimoine"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/23/huge-5e91718dc6c06ab3021dd51eecac2b2b.png",
-   "lien": "https://www.paris.fr/evenements/exposition-collective-couleurs-de-la-memoire-126481",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
   {
    "id": "qfap-111589",
    "titre": "EXPOSITION | \"Grands Lacs – L’horizon commun des mers intérieures\", Robert Burley",
@@ -602,6 +536,49 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127450",
+   "titre": "Votez pour votre coup de cœur Fabriqué à Paris !",
+   "resume": "Dès le 6 novembre et jusqu'au 16, les Parisiens et Parisiennes sont invités à voter pour leur produit préféré issu du label Fabriqué à Paris, à vous de jouer !",
+   "debut": "2026-11-06",
+   "fin": "2026-11-16",
+   "horaires": "Du vendredi 06 novembre 2026 au lundi 16 novembre 2026 :",
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/12/huge-934dbcd4f4093c6e0787c5f729e4941f.png",
+   "lien": "https://www.paris.fr/evenements/votez-pour-votre-coup-de-coeur-fabrique-a-paris-127450",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-13"
+  },
+  {
+   "id": "qfap-127443",
+   "titre": "Créer un pacte avec les animaux ? Réflexion avec Jean-Christophe Bailly",
+   "resume": "Une rencontre culturelle gratuite sur les animaux et la menace qui pèse sur eux dans le cadre de l'expo « Entre deux vertiges » de Gloria Friedmann.",
+   "debut": "2026-11-17",
+   "fin": "2026-11-17",
+   "horaires": "Le mardi 17 novembre 2026 de 19h30 à 20h30",
+   "lieu": "Transfo",
+   "adresse": "36 rue Jacques Louvel-Tessier, 75010 Paris",
+   "lat": 48.8715290133243,
+   "lon": 2.37135901226259,
+   "thematiques": [
+    "Art contemporain"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/12/huge-8fd73fc6f582e12609dc3a4909c6d1e3.jpg",
+   "lien": "https://www.paris.fr/evenements/creer-un-pacte-avec-les-animaux-reflexion-avec-jean-christophe-bailly-127443",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-13"
+  },
+  {
    "id": "qfap-125773",
    "titre": "exposition & cabaret : LA BANDE À BAS NYLON",
    "resume": "Le collectif de Cabaret Artistique « Les Nuits Bas Nylon » vous ouvre les portes de leurs loges !",
@@ -706,9 +683,9 @@
   },
   {
    "id": "qfap-123986",
-   "titre": "Entre deux vertiges, Gloria Friedmann",
-   "resume": "L'artiste Gloria Friedmann à Transfo - Emmaüs Solidarité pour l'exposition Entre deux vertiges.",
-   "debut": "2026-09-24",
+   "titre": "Derniers jours de l'expo « Entre deux vertiges » de Gloria Friedmann",
+   "resume": "L'artiste Gloria Friedmann à Transfo - Emmaüs Solidarité pour l'exposition « Entre deux vertiges ».",
+   "debut": "2026-09-25",
    "fin": "2026-11-21",
    "horaires": "Du vendredi 25 septembre 2026 au samedi 21 novembre 2026 : mardi, mercredi, vendredi, samedi de 14h00 à 19h00 jeudi de 14h00 à 21h00",
    "lieu": "Transfo",
@@ -722,7 +699,7 @@
     "type": "gratuit",
     "prix_min": 0
    },
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/16/huge-cfed57e64fa3825031a1fc9f33f6a3bd.jpg",
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/12/huge-12b267ba7df22fd6545711d7257105c8.jpg",
    "lien": "https://www.paris.fr/evenements/entre-deux-vertiges-gloria-friedmann-123986",
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
@@ -1016,6 +993,29 @@
    "vu_le": "2026-11-07"
   },
   {
+   "id": "qfap-127414",
+   "titre": "Exposition de peinture de Joël Denece à l’Espace 7",
+   "resume": "Du 16 au 22 novembre 2026, découvrez les peintures de Joël Denece à l’Espace 7, près de la Bastille. Entrée libre.",
+   "debut": "2026-11-16",
+   "fin": "2026-11-22",
+   "horaires": "Du lundi 16 novembre 2026 au dimanche 22 novembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 14h00 à 20h00",
+   "lieu": "Espace 7",
+   "adresse": "7 rue Saint-Sabin, 75011 Paris",
+   "lat": 48.856578,
+   "lon": 2.351828,
+   "thematiques": [
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-29776ff6300ae28d55842f310d0b0499.png",
+   "lien": "https://www.paris.fr/evenements/exposition-de-peinture-de-joel-denece-a-l-espace-7-127414",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-13"
+  },
+  {
    "id": "qfap-125666",
    "titre": "Exposition solo « Reliefs » : Sophie Bloch",
    "resume": "LooLooLook Gallery, galerie d’art contemporain située dans le 1er arrondissement de Paris, présente l’exposition personnelle de Sophie Bloch dans le cadre d’Une semaine de galerie, organisée par le CPGA du 15 octobre au 22 novembre 2026.",
@@ -1248,6 +1248,32 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127449",
+   "titre": "Exposition \"Femmes sujets, non objets\" organisée par la Maison des Femmes de l'APHP-Hôpital-Bichat-Claude-Bernard en collaboration avec la Mairie du 18e arrondissement",
+   "resume": "À l’occasion de la journée internationale de lutte contre les violences faites aux femmes, la Maison des Femmes de l'APHP-Hôpital-Bichat-Claude-Bernard organise, en collaboration avec la Mairie du 18e arrondissement, une exposition d'oeuvres de femmes artistes suivies à la Maison des femmes.",
+   "debut": "2026-11-27",
+   "fin": "2026-11-27",
+   "horaires": "Le vendredi 27 novembre 2026 de 15h30 à 18h30",
+   "lieu": "Mairie du 18e arrondissement",
+   "adresse": "1 place Jules Joffrin, 75018 Paris",
+   "lat": 48.892304,
+   "lon": 2.344687,
+   "thematiques": [
+    "Art contemporain"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "detail": "Un vernissage aura lieu le vendredi 27/11/2026 entre 15h30 et 18h30 dans la mairie, avec des interventions de l'équipe de la Maison des Femmes, de la mairie, et des artistes. Nous vous prions de bien vouloir confirmer votre venue au vernissage du 27/11/2026 de préférence avant le 17/11/2026 à maison",
+    "prix_min": 0,
+    "reservation": true
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2024/11/13/huge-0e06c335398f0d1c8537e0b5d2f5e7c4.jpeg",
+   "lien": "https://www.paris.fr/evenements/exposition-femmes-sujets-non-objets-organisee-par-la-maison-des-femmes-de-l-aphp-hopital-bichat-claude-bernard-en-collaboration-avec-la-mairie-du-18e-arrondissement-127449",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-13"
+  },
+  {
    "id": "qfap-126493",
    "titre": "Quand l'art réécrit votre vie",
    "resume": "L'art est un outil pour dépasser ses limites et transformer sa vie. Découvrez un espace dédié à des tableaux symboliques incarnant des archétypes féminins. Au programme le 13 et 27 novembre : la présentation d'un jeu de cartes artistique interactif et une pratique de dessin spontané inspirée par Carl Jung pour déposer vos émotions, dépasser vos limites et devenir l'héroïne de votre propre vie.",
@@ -1324,6 +1350,31 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127439",
+   "titre": "ENSEMBLE' : 30 ans de peinture de Babacar Badiane au cœur du OFF de Dakar à Paris",
+   "resume": "Découvrez l’univers de Babacar Badiane à travers ENSEMBLE’, une exposition présentée à Paris dans le cadre du OFF de la Biennale de Dakar 2026.",
+   "debut": "2026-11-19",
+   "fin": "2026-11-28",
+   "horaires": "Le samedi 21 novembre 2026 de 13h30 à 18h00 Du jeudi 19 novembre 2026 au lundi 30 novembre 2026 : samedi de 13h30 à 17h00 jeudi, vendredi de 14h30 à 18h00 mardi de 15h00 à 18h00",
+   "lieu": "Commune D'Aligre / Maison des ensembles",
+   "adresse": "3-5 rue d'Aligre, 75012 Paris",
+   "lat": 48.856578,
+   "lon": 2.351828,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/12/huge-d181107cb2480388facadf0a37c162a9.jpg",
+   "lien": "https://www.paris.fr/evenements/titre-ensemble-30-ans-de-peinture-de-babacar-badiane-au-coeur-du-off-de-dakar-a-paris-127439",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-13"
   },
   {
    "id": "qfap-115627",
@@ -1997,6 +2048,31 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-103282",
+   "titre": "La Maison de l'animal : toute la programmation",
+   "resume": "La Maison de l’animal vous accueille du 30 novembre au 5 décembre 2026, sur le thème du Noël solidaire des animaux.",
+   "debut": "2026-11-30",
+   "fin": "2026-12-05",
+   "horaires": "Du lundi 30 novembre 2026 au samedi 05 décembre 2026 : samedi de 13h30 à 17h30 mardi, mercredi, jeudi, vendredi de 10h00 à 17h30 lundi de 14h00 à 17h30",
+   "lieu": "Maison de l'animal en ville - Jane Goodall",
+   "adresse": "Chai de Bercy, 41 rue Paul Belmondo, 75012 Paris",
+   "lat": 48.836209,
+   "lon": 2.382589,
+   "thematiques": [
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "detail": "Réservation obligatoire pour certains ateliers ou conférences (voir les conditions sur les pages Que faire à Paris des événements).",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2025/11/13/huge-871f4d3fbafbf6e7f32de7fc362699e0.jpg",
+   "lien": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-13"
+  },
+  {
    "id": "qfap-123227",
    "titre": "Les Reines du Bois : expo photo de Françoise Evenou",
    "resume": "\"C'est en me confiant vos histoires que le mot reine a surgi. Reine de la nuit, reine du bois, reine de beauté. Alors j'ai longtemps cherché une couronne, symbole de dignité, et quand je te l'ai montrée, Melissa, j'ai vu tes yeux briller. Tu m'as dit : « Reviens plus tard, je veux me préparer comme une reine. »",
@@ -2215,6 +2291,32 @@
     "score": 4.616,
     "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
    }
+  },
+  {
+   "id": "qfap-127415",
+   "titre": "Exposition - L’art urbain déclare sa flamme avec l’artiste IN LOVE à la Galerie Woodgreen",
+   "resume": "La Galerie Woodgreen a le plaisir de présenter la nouvelle exposition solo de l’artiste IN LOVE, figure poétique incontournable du street art contemporain. Du 26 novembre au 10 décembre prochain, le public est invité à plonger dans un univers unique où la rue devient le théâtre d'un message universel d'amour et de poésie brute.",
+   "debut": "2026-11-26",
+   "fin": "2026-12-10",
+   "horaires": "Du jeudi 26 novembre 2026 au jeudi 10 décembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi de 11h00 à 19h00",
+   "lieu": "Galerie Woodgreen",
+   "adresse": "31 rue Meslay, 75003 Paris",
+   "lat": 48.867784020895,
+   "lon": 2.35942896565396,
+   "thematiques": [
+    "Art contemporain",
+    "Street art & BD"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.woodgreen.fr"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/11/huge-6616680d3cafa2765adbe5909beb2976.png",
+   "lien": "https://www.paris.fr/evenements/exposition-l-art-urbain-declare-sa-flamme-avec-l-artiste-in-love-a-la-galerie-woodgreen-127415",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-13"
   },
   {
    "id": "qfap-127355",
@@ -4068,6 +4170,35 @@
    }
   },
   {
+   "id": "qfap-127436",
+   "titre": "Kennedy Yanko. Ce qui nous rassemble",
+   "resume": "Dans le cadre du programme dédié au dialogue entre l’architecture et l'art contemporain, la Cité de l’architecture et du patrimoine invite Kennedy Yanko, artiste américaine de premier plan, à investir ses espaces. Elle y présente un ensemble inédit de sculptures conçu en résonance avec les moulages de la galerie Carlu, offrant un regard contemporain sur cet espace.",
+   "debut": "2026-10-16",
+   "fin": "2027-01-03",
+   "horaires": "Du vendredi 16 octobre 2026 au dimanche 03 janvier 2027 : jeudi de 12h00 à 00h00 lundi, mercredi, vendredi, samedi, dimanche de 12h00 à 22h00",
+   "lieu": "Palais de Tokyo",
+   "adresse": "13 Avenue du Président Wilson, 75116 Paris",
+   "lat": 48.8645866,
+   "lon": 2.29667480000001,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts",
+    "Histoire & patrimoine",
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 10 à 13 euros.",
+    "prix_min": 13.0,
+    "reservation": true,
+    "billetterie": "https://www.citedelarchitecture.fr/fr/agenda/exposition/kennedy-yanko"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/12/huge-db36fafb47c3d649e83d3f85d1e8c23c.jpg",
+   "lien": "https://www.paris.fr/evenements/kennedy-yanko-ce-qui-nous-rassemble-127436",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-13"
+  },
+  {
    "id": "qfap-113112",
    "titre": "L'Espace entre nous",
    "resume": "À l’occasion du Bicentenaire de la naissance de la photographie, LE BAL consacre pour la première fois une exposition à une collection : celle du Wilson Centre for Photography, constituée par Michael et Jane Wilson. À travers cet ensemble rare de 120 tirages, pour la plupart d’époque, l’exposition explore le lien parfois trouble, parfois lumineux, toujours instable, qui unit celui qui photographie",
@@ -4537,6 +4668,30 @@
    "lien": "https://www.paris.fr/evenements/exposition-theophile-de-viau-a-la-bibliotheque-mazarine-124894",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127460",
+   "titre": "Exposition «Déchets D'oeuvres 2» du collectif Frères d'ART",
+   "resume": "DÉCHETS D’ŒUVRES 2 : L’art de donner une seconde vie aux matières ! Et si nos déchets avaient encore de belles choses à raconter ? Avec Déchets d’œuvres 2, le collectif Frères d’art nous invite à poser un autre regard sur la matière, les objets et ce que nous considérons habituellement comme des rebuts.",
+   "debut": "2026-11-21",
+   "fin": "2027-01-09",
+   "horaires": "Du samedi 21 novembre 2026 au samedi 09 janvier 2027 : lundi, mardi, mercredi, jeudi, vendredi, samedi de 14h00 à 20h00",
+   "lieu": "13 Korner",
+   "adresse": "25 quai d'ivry, 75013 Paris",
+   "lat": 48.8268289942419,
+   "lon": 2.38596003613713,
+   "thematiques": [
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/12/huge-6a73789042f9f07698e521fa98ad6bee.png",
+   "lien": "https://www.paris.fr/evenements/exposition-dechets-d-oeuvres-2-du-collectif-freres-d-art-127460",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-13"
   },
   {
    "id": "qfap-126884",
@@ -6304,7 +6459,7 @@
   {
    "id": "qfap-117954",
    "titre": "I Telman nwè ki i blé (Si noir que cela en devient bleu)",
-   "resume": "Valérie John propose une exploration du bleu indigo comme matière, mémoire et geste. De la Martinique à l’Afrique de l’Ouest, son œuvre tisse les identités et les récits dans des assemblages vus comme traces sensibles du passé",
+   "resume": "Valérie John propose une exploration du bleu indigo comme matière, mémoire et geste. De la Martinique à l’Afrique de l’Ouest, son œuvre tisse les identités et les récits dans des assemblages vus comme traces sensibles du passé.",
    "debut": "2026-10-21",
    "fin": "2027-02-14",
    "horaires": "Du mercredi 21 octobre 2026 au dimanche 14 février 2027 : jeudi de 12h00 à 00h00 lundi, mercredi, vendredi, samedi, dimanche de 12h00 à 22h00",
@@ -7502,6 +7657,30 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127466",
+   "titre": "EXPOSITION : « L’Assemblée - Sculptures, robots, objets connectés et déconnectés » - Michel de Broin",
+   "resume": "Exposition « L’Assemblée - Sculptures, robots, objets connectés et déconnectés » de Michel de Broin, présentée au Centre culturel canadien.",
+   "debut": "2026-12-09",
+   "fin": "2027-04-16",
+   "horaires": "Du mercredi 09 décembre 2026 au vendredi 16 avril 2027 : lundi, mardi, mercredi, jeudi, vendredi de 09h00 à 18h00",
+   "lieu": "Centre culturel canadien à Paris",
+   "adresse": "130 rue du Faubourg Saint-Honoré, 75008 Paris",
+   "lat": 48.8723990129644,
+   "lon": 2.3124140325526,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/12/huge-3f270329a0e109f87eba4d498431490f.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-l-assemblee-sculptures-robots-objets-connectes-et-deconnectes-michel-de-broin-127466",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-13"
+  },
+  {
    "id": "qfap-117756",
    "titre": "Delacroix, chevaux et autres animaux",
    "resume": "Le musée Delacroix présente un nouvel accrochage qui explore l’univers animalier d’Eugène Delacroix, à l’occasion de l’acquisition de deux études de chevaux, récemment restaurées. Exposées pour la première fois au musée, les deux études d’étalons, un alezan et un alezan doré, témoignent d’un vif intérêt de Delacroix pour le cheval et sa représentation.",
@@ -7674,8 +7853,6 @@
    "a_verifier": true,
    "lien": "https://www.petitpalais.paris.fr/",
    "source": "Sélection manuelle",
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-ac30fdd0f872346abcc78407b04b0f8e.png",
-   "horaires": "Du mardi 10 novembre 2026 au dimanche 25 avril 2027 : vendredi, samedi de 10h00 à 20h00 mardi, mercredi, jeudi, dimanche de 10h00 à 18h00",
    "vu_le": "2026-11-03",
    "affluence": {
     "visiteurs": 1459371,
