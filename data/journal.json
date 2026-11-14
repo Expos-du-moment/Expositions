@@ -165,5 +165,23 @@
    "La Maison de l'animal : toute la programmation",
    "ENSEMBLE' : 30 ans de peinture de Babacar Badiane au cœur du OFF de Dakar à Paris"
   ]
+ },
+ {
+  "jour": "2026-11-14",
+  "total": 345,
+  "ajoutees": 9,
+  "retirees": 3,
+  "api_ok": true,
+  "titres_ajoutes": [
+   "«Crée ta bande dessinée» : Atelier en famille au musée Zadkine",
+   "Dessinez, gravez, encrez, imprimez ! Atelier de linogravure",
+   "\"Crée ta bande dessinée\" : Atelier BD au musée Zadkine",
+   "Exposition \"Ensemble\" de Mira M. Yang",
+   "Musée national du Patriarcat : la troisième édition de retour à Paris !",
+   "Tournois d'échecs au musée Zadkine - Parties blitz/visite flash adultes",
+   "Zadkine et les héros de la mythologie - visite dessinée",
+   "Tournois d'échecs au musée Zadkine - Parties blitz/visite flash en famille",
+   "Âmes insulaires"
+  ]
  }
 ]

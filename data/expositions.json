@@ -1,79 +1,27 @@
 {
- "genere": "2026-11-13T06:34:46+00:00",
- "jour": "2026-11-13",
+ "genere": "2026-11-14T06:28:12+00:00",
+ "jour": "2026-11-14",
  "api_ok": true,
- "total": 339,
+ "total": 345,
  "par_tarif": {
   "gratuit": 186,
   "gratuit_sous_condition": 11,
-  "payant": 142,
+  "payant": 148,
   "inconnu": 0
  },
  "nouvelles": [
-  "qfap-127436",
-  "qfap-127415",
-  "qfap-127443",
-  "qfap-127460",
-  "qfap-127414",
-  "qfap-127450",
-  "qfap-127449",
-  "qfap-127466",
-  "qfap-103282",
-  "qfap-127439"
+  "qfap-127554",
+  "qfap-127552",
+  "qfap-127555",
+  "qfap-127504",
+  "qfap-125575",
+  "qfap-127551",
+  "qfap-116964",
+  "qfap-127550",
+  "qfap-127499"
  ],
- "avec_affluence": 57,
+ "avec_affluence": 63,
  "expositions": [
-  {
-   "id": "qfap-111589",
-   "titre": "EXPOSITION | \"Grands Lacs – L’horizon commun des mers intérieures\", Robert Burley",
-   "resume": "À travers un corpus inédit consacré au bassin des Grands Lacs, le photographe canadien Robert Burley explore ce territoire immense, à la fois frontière, lieu de vie, espace d’échanges et zone de vulnérabilité.",
-   "debut": "2026-06-06",
-   "fin": "2026-11-13",
-   "horaires": "Du samedi 06 juin 2026 au vendredi 13 novembre 2026 :",
-   "lieu": "Centre culturel canadien à Paris",
-   "adresse": "130 rue du Faubourg Saint-Honoré, 75008 Paris",
-   "lat": 48.8723990129644,
-   "lon": 2.3124140325526,
-   "thematiques": [
-    "Photographie",
-    "Art contemporain",
-    "Sciences & nature"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/05/12/huge-5bcfa0062eca4abd2e3df800791c74b0.jpg",
-   "lien": "https://www.paris.fr/evenements/exposition-grands-lacs-l-horizon-commun-des-mers-interieures-robert-burley-111589",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-126805",
-   "titre": "Gulliver 300 au Centre Culturel Irlandais",
-   "resume": "À l’occasion des 300 ans de la publication des Voyages de Gulliver, le Centre Culturel Irlandais s’associe à la Marsh’s Library de Dublin pour présenter l’exposition Gulliver 300 dans sa Bibliothèque patrimoniale.",
-   "debut": "2026-09-17",
-   "fin": "2026-11-13",
-   "horaires": "Du jeudi 17 septembre 2026 au vendredi 13 novembre 2026 : mercredi de 14h00 à 20h00 lundi, mardi, jeudi, vendredi de 14h00 à 18h00",
-   "lieu": "Centre Culturel Irlandais",
-   "adresse": "5 rue des irlandais, 75005 Paris",
-   "lat": 48.8442110078615,
-   "lon": 2.34602102187742,
-   "thematiques": [
-    "Histoire & patrimoine",
-    "Société & monde"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "Entrée libre",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/29/huge-ab270d48297c22c3bde670df0732911c.jpg",
-   "lien": "https://www.paris.fr/evenements/gulliver-300-au-centre-culturel-irlandais-126805",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
   {
    "id": "qfap-115405",
    "titre": "Exposition Les \"Arbres de Paris\" - La nature comme source d'inspiration",
@@ -1352,31 +1300,6 @@
    "vu_le": "2026-11-03"
   },
   {
-   "id": "qfap-127439",
-   "titre": "ENSEMBLE' : 30 ans de peinture de Babacar Badiane au cœur du OFF de Dakar à Paris",
-   "resume": "Découvrez l’univers de Babacar Badiane à travers ENSEMBLE’, une exposition présentée à Paris dans le cadre du OFF de la Biennale de Dakar 2026.",
-   "debut": "2026-11-19",
-   "fin": "2026-11-28",
-   "horaires": "Le samedi 21 novembre 2026 de 13h30 à 18h00 Du jeudi 19 novembre 2026 au lundi 30 novembre 2026 : samedi de 13h30 à 17h00 jeudi, vendredi de 14h30 à 18h00 mardi de 15h00 à 18h00",
-   "lieu": "Commune D'Aligre / Maison des ensembles",
-   "adresse": "3-5 rue d'Aligre, 75012 Paris",
-   "lat": 48.856578,
-   "lon": 2.351828,
-   "thematiques": [
-    "Art contemporain",
-    "Beaux-arts"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/12/huge-d181107cb2480388facadf0a37c162a9.jpg",
-   "lien": "https://www.paris.fr/evenements/titre-ensemble-30-ans-de-peinture-de-babacar-badiane-au-coeur-du-off-de-dakar-a-paris-127439",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-13"
-  },
-  {
    "id": "qfap-115627",
    "titre": "Exposition \"Chaussez vos bottes\" avec Chloé du Colombier",
    "resume": "à l'occasion de l'automne de la science consacrée au thème de la nature, une exposition originale concoctée par l'artiste",
@@ -1622,6 +1545,28 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127499",
+   "titre": "Âmes insulaires",
+   "resume": "À travers ses aquarelles, Marielle Durand saisit la diversité des paysages insulaires et la vie qui les anime.",
+   "debut": "2026-11-19",
+   "fin": "2026-11-28",
+   "horaires": "Du vendredi 20 novembre 2026 au samedi 28 novembre 2026 : samedi de 11h30 à 18h30 lundi, mardi, mercredi, jeudi, vendredi de 15h30 à 18h30 Le jeudi 19 novembre 2026 de 17h30 à 20h00",
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts",
+    "Architecture & ville"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.comptoirdesvoyages.fr/blog-voyage/ici-et-ailleurs/exposition-ames-insulaires"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-b66104aef3a28f60185449ef02e4f902.jpg",
+   "lien": "https://www.paris.fr/evenements/ames-insulaires-127499",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-14"
   },
   {
    "id": "qfap-123369",
@@ -4694,6 +4639,32 @@
    "vu_le": "2026-11-13"
   },
   {
+   "id": "qfap-125575",
+   "titre": "Musée national du Patriarcat : la troisième édition de retour à Paris !",
+   "resume": "Imaginez : nous sommes en 2135, et le patriarcat appartient au passé. Une époque révolue, mais pas effacée, dont nous conservons les traces dans un lieu commémoratif : le Musée National du Patriarcat (MNP), un musée fictif porté par En avant toute(s) et l'agence Artefact 3000.",
+   "debut": "2026-11-26",
+   "fin": "2027-01-09",
+   "horaires": "Du jeudi 26 novembre 2026 au samedi 09 janvier 2027 :",
+   "lieu": "La Roche",
+   "adresse": "15 Avenue du Général Leclerc, 75014 Paris",
+   "lat": 48.8323680073174,
+   "lon": 2.33106502440342,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "detail": "L'entrée du musée est à prix libre.&nbsp;",
+    "prix_min": 0,
+    "billetterie": "https://www.helloasso.com/associations/en-avant-toute-s/evenements/musee-national-du-patriarcat-1"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/10/07/huge-8fa9700fa7e68cac71ca2a7045613290.jpg",
+   "lien": "https://www.paris.fr/evenements/musee-national-du-patriarcat-la-troisieme-edition-de-retour-a-paris-125575",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-14"
+  },
+  {
    "id": "qfap-126884",
    "titre": "Payram. Que vos pas soient légers car vous marchez sur mes rêves",
    "resume": "Du 5 novembre 2026 au 9 janvier 2027, la Galerie Maubert présente Que vos pas soient légers car vous marchez sur mes rêves, la troisième exposition personnelle du photographe iranien Payram à la galerie à Paris, dans le cadre du bicentenaire de la photographie.",
@@ -5511,8 +5482,34 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-117753",
+   "titre": "Nicolas Flamel. Alchimiste de papier",
+   "resume": "Alchimiste visionnaire, immortel, magicien, détenteur de secrets universels… Nicolas Flamel est de ces figures qui nourrissent les fantasmes ! Mais qu’en est-il de la réalité historique de ce bourgeois parisien du XIVe siècle ?",
+   "debut": "2026-10-13",
+   "fin": "2027-01-24",
+   "horaires": "Du mardi 13 octobre 2026 au dimanche 24 janvier 2027 : mardi, mercredi, jeudi, vendredi, samedi, dimanche de 09h30 à 17h45",
+   "lieu": "Musée du Cluny",
+   "adresse": "28, rue du Sommerard, 75005 Paris",
+   "lat": 48.8505250117045,
+   "lon": 2.34322699827291,
+   "thematiques": [
+    "Histoire & patrimoine"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 12 à 14 euros.",
+    "prix_min": 14.0,
+    "reservation": true,
+    "billetterie": "https://www.musee-moyenage.fr/en-ce-moment/exposition-nicolas-flamel"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/08/18/huge-546b4c3ea6f6963388dc7ad7636456a2.jpg",
+   "lien": "https://www.paris.fr/evenements/nicolas-flamel-alchimiste-de-papier-117753",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-03"
+  },
+  {
    "id": "qfap-117951",
-   "titre": "L'étoffe de l'artiste. De Rosa Bonheur à Sonia Delaunay",
+   "titre": "Remportez des entrées pour l'expo « L'étoffe de l'artiste. De Rosa Bonheur à Sonia Delaunay »",
    "resume": "À la suite de la redécouverte des vêtements d’Antoine Bourdelle en 2020, le musée Bourdelle explore, dans une nouvelle exposition, les représentations et les stratégies de mise en scène des artistes à travers leurs habits, de la fin du 19e siècle au milieu du 20e siècle. Le parcours de « L’étoffe de l’artiste » est ponctué de vêtements méconnus portés par des figures emblématiques ou plus confiden",
    "debut": "2026-09-23",
    "fin": "2027-01-24",
@@ -5546,32 +5543,6 @@
     "score": 5.224,
     "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
    }
-  },
-  {
-   "id": "qfap-117753",
-   "titre": "Nicolas Flamel. Alchimiste de papier",
-   "resume": "Alchimiste visionnaire, immortel, magicien, détenteur de secrets universels… Nicolas Flamel est de ces figures qui nourrissent les fantasmes ! Mais qu’en est-il de la réalité historique de ce bourgeois parisien du XIVe siècle ?",
-   "debut": "2026-10-13",
-   "fin": "2027-01-24",
-   "horaires": "Du mardi 13 octobre 2026 au dimanche 24 janvier 2027 : mardi, mercredi, jeudi, vendredi, samedi, dimanche de 09h30 à 17h45",
-   "lieu": "Musée du Cluny",
-   "adresse": "28, rue du Sommerard, 75005 Paris",
-   "lat": 48.8505250117045,
-   "lon": 2.34322699827291,
-   "thematiques": [
-    "Histoire & patrimoine"
-   ],
-   "tarif": {
-    "type": "payant",
-    "detail": "De 12 à 14 euros.",
-    "prix_min": 14.0,
-    "reservation": true,
-    "billetterie": "https://www.musee-moyenage.fr/en-ce-moment/exposition-nicolas-flamel"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/18/huge-546b4c3ea6f6963388dc7ad7636456a2.jpg",
-   "lien": "https://www.paris.fr/evenements/nicolas-flamel-alchimiste-de-papier-117753",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
   },
   {
    "id": "qfap-117749",
@@ -6225,6 +6196,30 @@
    "vu_le": "2026-11-11"
   },
   {
+   "id": "qfap-127504",
+   "titre": "Exposition \"Ensemble\" de Mira M. Yang",
+   "resume": "La Fondation Pernod Ricard a le plaisir de présenter la première exposition individuelle institutionnelle en France de l’artiste Mira M. Yang. Vernissage lundi 23 novembre à 18h.",
+   "debut": "2026-11-24",
+   "fin": "2027-02-06",
+   "horaires": "Du mardi 24 novembre 2026 au samedi 06 février 2027 : mardi, mercredi, jeudi, vendredi, samedi de 11h00 à 19h00",
+   "lieu": "Fondation Pernod Ricard",
+   "adresse": "1 cours Paul Ricard, 75008 Paris",
+   "lat": 48.8774170069385,
+   "lon": 2.32655799124694,
+   "thematiques": [
+    "Art contemporain"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-e50cf4d8d6f9c9bf9ef05393d72ef17e.png",
+   "lien": "https://www.paris.fr/evenements/exposition-ensemble-de-mira-m-yang-127504",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-14"
+  },
+  {
    "id": "qfap-125276",
    "titre": "From Rasht, Darius Dolatyari-Dolatdoust",
    "resume": "Depuis dix ans, Darius Dolatyari-Dolatdoust fait de son impossible voyage en Iran la matière d’une exploration sensible. Pour sa première exposition personnelle à Paris, il présente cette géographie intime à l’ICI, accompagnée de pièces inédites, dans une scénographie chatoyante et vivante inspirée de sa pratique performative.",
@@ -6685,6 +6680,108 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127552",
+   "titre": "Dessinez, gravez, encrez, imprimez ! Atelier de linogravure",
+   "resume": "Initiez-vous étape par étape, à la technique de la linogravure et repartez avec votre impression originale !",
+   "debut": "2026-12-11",
+   "fin": "2027-02-20",
+   "horaires": "Le samedi 20 février 2027 de 10h30 à 12h30 Le vendredi 05 février 2027 de 14h30 à 16h30 Le vendredi 11 décembre 2026 de 14h30 à 16h30 Le vendredi 15 janvier 2027 de 14h30 à 16h30 Le dimanche 03 janvier 2027 de 10h30 à 12h30",
+   "lieu": "Musée Zadkine",
+   "adresse": "100 bis, rue d'Assas, 75006 Paris",
+   "lat": 48.843099,
+   "lon": 2.33398,
+   "thematiques": [
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Tarif plein : 10€ Tarif réduit : 8€",
+    "prix_min": 8.0,
+    "reservation": true,
+    "billetterie": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10230096299746"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-0d6c3d71e81a81ebe866ed4d5223c010.jpg",
+   "lien": "https://www.paris.fr/evenements/dessinez-gravez-encrez-imprimez-atelier-de-linogravure-127552",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-14",
+   "affluence": {
+    "visiteurs": 48607,
+    "annee": 0,
+    "lieu": "musée Zadkine",
+    "niveau": 0,
+    "score": 4.687,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
+  },
+  {
+   "id": "qfap-127551",
+   "titre": "Tournois d'échecs au musée Zadkine - Parties blitz/visite flash adultes",
+   "resume": "Grands débutants, initiés, tous niveaux… Participez à un tournoi d’échecs (cadence blitz, 6 rondes en 3+2min) unique, au cœur des collections.",
+   "debut": "2026-11-15",
+   "fin": "2027-02-20",
+   "horaires": "Le vendredi 18 décembre 2026 de 14h30 à 16h00 Le dimanche 15 novembre 2026 de 16h00 à 17h30 Le dimanche 03 janvier 2027 de 16h00 à 17h30 Le samedi 20 février 2027 de 16h00 à 17h30",
+   "lieu": "Musée Zadkine",
+   "adresse": "100 bis, rue d'Assas, 75006 Paris",
+   "lat": 48.843099,
+   "lon": 2.33398,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Tarif plein : 7€ Tarif réduit : 5€",
+    "prix_min": 5.0,
+    "reservation": true,
+    "billetterie": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10230096299743"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-cbd486a0265d50c7600737cca498b7c1.jpg",
+   "lien": "https://www.paris.fr/evenements/copie-de-tournois-d-echecs-au-musee-zadkine-parties-blitz-visite-flash-adultes-127551",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-14",
+   "affluence": {
+    "visiteurs": 48607,
+    "annee": 0,
+    "lieu": "musée Zadkine",
+    "niveau": 0,
+    "score": 4.687,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
+  },
+  {
+   "id": "qfap-127550",
+   "titre": "Tournois d'échecs au musée Zadkine - Parties blitz/visite flash en famille",
+   "resume": "Grands débutants, initiés, tous niveaux… Participez à un tournoi d’échecs unique (cadence blitz, 6 rondes en 3+2min) au cœur des collections.",
+   "debut": "2026-11-15",
+   "fin": "2027-02-20",
+   "horaires": "Le samedi 20 février 2027 de 14h00 à 15h30 Le mardi 16 février 2027 de 14h30 à 16h00 Le dimanche 03 janvier 2027 de 14h00 à 15h30 Le mercredi 16 décembre 2026 de 14h30 à 16h00 Le dimanche 15 novembre 2026 de 14h00 à 15h30",
+   "lieu": "Musée Zadkine",
+   "adresse": "100 bis, rue d'Assas, 75006 Paris",
+   "lat": 48.843099,
+   "lon": 2.33398,
+   "thematiques": [
+    "Jeunesse"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Tarif plein : 7€ Tarif réduit : 5€",
+    "prix_min": 5.0,
+    "reservation": true,
+    "billetterie": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10230096299743"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-cbd486a0265d50c7600737cca498b7c1.jpg",
+   "lien": "https://www.paris.fr/evenements/tournois-d-echecs-au-musee-zadkine-parties-blitz-visite-flash-en-famille-127550",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-14",
+   "affluence": {
+    "visiteurs": 48607,
+    "annee": 0,
+    "lieu": "musée Zadkine",
+    "niveau": 0,
+    "score": 4.687,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
+  },
+  {
    "id": "qfap-118193",
    "titre": "\"Joyeuse retraite papa\", une exposition entre documentaire et fiction",
    "resume": "Rayane Mcirdi construit ses films à partir d’histoires, de souvenirs et d’anecdotes recueillis auprès de sa famille, de ses proches et des habitants d’Asnières-sur-Seine et de Gennevilliers, où il a grandi. Nourri par les récits qui traversent sa famille entre l’Algérie et la France, il met en scène ces paroles avec une grande précision cinématographique, faisant de ces histoires ordinaires une ma",
@@ -6882,6 +6979,41 @@
    "vu_le": "2026-11-10"
   },
   {
+   "id": "qfap-116964",
+   "titre": "Zadkine et les héros de la mythologie - visite dessinée",
+   "resume": "Diane, Vénus, Hercule, Orphée, Pomone… Laissez-vous conter leurs histoires et dessinez votre figure héroïque en vous inspirant de Zadkine !",
+   "debut": "2026-12-02",
+   "fin": "2027-02-24",
+   "horaires": "Le mercredi 02 décembre 2026 de 11h00 à 12h30 Le mercredi 13 janvier 2027 de 10h30 à 12h00 Le mercredi 17 février 2027 de 14h30 à 16h00 Le jeudi 18 février 2027 de 10h30 à 12h00 Le mercredi 24 février 2027 de 14h30 à 16h00",
+   "lieu": "Musée Zadkine",
+   "adresse": "100 bis, rue d'Assas, 75006 Paris",
+   "lat": 48.843099,
+   "lon": 2.33398,
+   "thematiques": [
+    "Beaux-arts",
+    "Histoire & patrimoine",
+    "Jeunesse"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Tarif plein : 7€ Tarif réduit : 5€",
+    "prix_min": 5.0,
+    "reservation": true
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-d2618a0f934c5df52ff1227758ab8b25.jpeg",
+   "lien": "https://www.paris.fr/evenements/zadkine-et-la-mythologie-116964",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-14",
+   "affluence": {
+    "visiteurs": 48607,
+    "annee": 0,
+    "lieu": "musée Zadkine",
+    "niveau": 0,
+    "score": 4.687,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
+  },
+  {
    "id": "qfap-123864",
    "titre": "L’Université Paris Cité dévoile l’exposition « La couleur de nos métiers » à travers l’objectif du photographe Pascal Maitre",
    "resume": "À partir du 14 septembre 2026, le Grand hall et les grilles du site Odéon (Paris 6e) accueillent l’exposition photographique « La couleur de nos métiers », signée par le photojournaliste de renom Pascal Maitre.",
@@ -7007,6 +7139,41 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127555",
+   "titre": "\"Crée ta bande dessinée\" : Atelier BD au musée Zadkine",
+   "resume": "Inspirez vous de l’univers de Zadkine pour créer votre propre planche dessinée.",
+   "debut": "2026-11-28",
+   "fin": "2027-02-28",
+   "horaires": "Le dimanche 28 février 2027 de 14h30 à 16h30 Le samedi 23 janvier 2027 de 14h30 à 16h30 Le vendredi 18 décembre 2026 de 11h00 à 13h00 Le samedi 28 novembre 2026 de 14h30 à 16h30",
+   "lieu": "Musée Zadkine",
+   "adresse": "100 bis, rue d'Assas, 75006 Paris",
+   "lat": 48.843099,
+   "lon": 2.33398,
+   "thematiques": [
+    "Beaux-arts",
+    "Street art & BD"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Tarif plein : 10€ Tarif réduit : 8€",
+    "prix_min": 8.0,
+    "reservation": true,
+    "billetterie": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10230096299745"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-8d5b6fd1c34b321380806fc47e779dcd.jpg",
+   "lien": "https://www.paris.fr/evenements/cree-ta-bande-dessinee-atelier-bd-au-musee-zadkine-127555",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-14",
+   "affluence": {
+    "visiteurs": 48607,
+    "annee": 0,
+    "lieu": "musée Zadkine",
+    "niveau": 0,
+    "score": 4.687,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
+  },
+  {
    "id": "qfap-117950",
    "titre": "Ibrahim Mahama. Le Temps des récoltes",
    "resume": "À l’automne 2026, la Fondation Cartier pour l’art contemporain présente Le Temps des récoltes, une exposition d’une ampleur inédite en France de l’artiste ghanéen Ibrahim Mahama, accompagné de neuf artistes associés : Dorothy Akpene Amenuke, Gideon Appah, James Barnor, Cercle d’Art des Travailleurs de Plantation Congolaise (CATPC), Courage Dzidula Kpodo, Zohra Opoku, Postbox Ghana, Tjaša Rener, Fe",
@@ -7065,6 +7232,42 @@
     "lieu": "musée de l'Institut du monde arabe",
     "niveau": 1,
     "score": 5.742,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
+  },
+  {
+   "id": "qfap-127554",
+   "titre": "«Crée ta bande dessinée» : Atelier en famille au musée Zadkine",
+   "resume": "Inspirez vous de l’univers de Zadkine pour créer votre propre planche dessinée.",
+   "debut": "2026-11-28",
+   "fin": "2027-02-28",
+   "horaires": "Le dimanche 28 février 2027 de 11h00 à 13h00 Le mercredi 17 février 2027 de 10h30 à 12h30 Le mardi 16 février 2027 de 10h30 à 12h30 Le mercredi 03 février 2027 de 14h30 à 16h30 Le samedi 23 janvier 2027 de 11h00 à 13h00 Le samedi 28 novembre 2026 de 11h00 à 13h00 Le mercredi 06 janvier 2027 de 14h30",
+   "lieu": "Musée Zadkine",
+   "adresse": "100 bis, rue d'Assas, 75006 Paris",
+   "lat": 48.843099,
+   "lon": 2.33398,
+   "thematiques": [
+    "Beaux-arts",
+    "Street art & BD",
+    "Jeunesse"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Tarif plein : 10€ Tarif réduit : 8€",
+    "prix_min": 8.0,
+    "reservation": true,
+    "billetterie": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10230096299745"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-2280b480dd7cabe316ee69a345762299.jpg",
+   "lien": "https://www.paris.fr/evenements/cree-ta-bande-dessinee-atelier-en-famille-au-musee-zadkine-127554",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-14",
+   "affluence": {
+    "visiteurs": 48607,
+    "annee": 0,
+    "lieu": "musée Zadkine",
+    "niveau": 0,
+    "score": 4.687,
     "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
    }
   },
@@ -7853,6 +8056,8 @@
    "a_verifier": true,
    "lien": "https://www.petitpalais.paris.fr/",
    "source": "Sélection manuelle",
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-fc33a30be63c5e53a7cc5e429ad7c1be.png",
+   "horaires": "Du mardi 10 novembre 2026 au dimanche 25 avril 2027 : vendredi, samedi de 10h00 à 20h00 mardi, mercredi, jeudi, dimanche de 10h00 à 18h00",
    "vu_le": "2026-11-03",
    "affluence": {
     "visiteurs": 1459371,
@@ -8171,7 +8376,7 @@
   },
   {
    "id": "qfap-126544",
-   "titre": "Remportez des entrées pour l'expo « Drogues » au Musée de l’Homme",
+   "titre": "Expo « Drogues » au Musée de l’Homme",
    "resume": "Si le sujet des drogues occupe fréquemment le devant de la scène médiatique, son traitement peut aussi véhiculer de nombreux préjugés. Nous vous invitons à les déconstruire à travers cette nouvelle exposition présentée au Musée de l’Homme !",
    "debut": "2026-11-18",
    "fin": "2027-06-06",
