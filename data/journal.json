@@ -183,5 +183,13 @@
    "Tournois d'échecs au musée Zadkine - Parties blitz/visite flash en famille",
    "Âmes insulaires"
   ]
+ },
+ {
+  "jour": "2026-11-15",
+  "total": 340,
+  "ajoutees": 0,
+  "retirees": 5,
+  "api_ok": true,
+  "titres_ajoutes": []
  }
 ]

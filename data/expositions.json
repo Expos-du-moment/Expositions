@@ -1,155 +1,17 @@
 {
- "genere": "2026-11-14T06:28:12+00:00",
- "jour": "2026-11-14",
+ "genere": "2026-11-15T06:29:18+00:00",
+ "jour": "2026-11-15",
  "api_ok": true,
- "total": 345,
+ "total": 340,
  "par_tarif": {
-  "gratuit": 186,
+  "gratuit": 181,
   "gratuit_sous_condition": 11,
   "payant": 148,
   "inconnu": 0
  },
- "nouvelles": [
-  "qfap-127554",
-  "qfap-127552",
-  "qfap-127555",
-  "qfap-127504",
-  "qfap-125575",
-  "qfap-127551",
-  "qfap-116964",
-  "qfap-127550",
-  "qfap-127499"
- ],
+ "nouvelles": [],
  "avec_affluence": 63,
  "expositions": [
-  {
-   "id": "qfap-115405",
-   "titre": "Exposition Les \"Arbres de Paris\" - La nature comme source d'inspiration",
-   "resume": "Aquarelles et dessins à l'encre sépia de Yanosh KALDY, architecte, artiste-graphiste",
-   "debut": "2026-10-13",
-   "fin": "2026-11-14",
-   "horaires": "Du mardi 13 octobre 2026 au samedi 14 novembre 2026 :",
-   "lieu": "Bibliothèque Aimé Césaire",
-   "adresse": "5 rue de Ridder, 75014 Paris",
-   "lat": 48.8312310021516,
-   "lon": 2.31166200819968,
-   "thematiques": [
-    "Beaux-arts",
-    "Sciences & nature"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-b01bf13dd23248b92730c5a733f24c7e.jpg",
-   "lien": "https://www.paris.fr/evenements/exposition-les-arbres-de-paris-la-nature-comme-source-d-inspiration-115405",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-124365",
-   "titre": "Five Views — La photographie japonaise émergente",
-   "resume": "La Maison de la culture du Japon à Paris accueille « Five Views », une exposition réunissant cinq figures montantes de la photographie japonaise contemporaine.",
-   "debut": "2026-10-06",
-   "fin": "2026-11-14",
-   "horaires": "Du mardi 06 octobre 2026 au samedi 14 novembre 2026 :",
-   "lieu": "Maison de la culture du Japon à Paris",
-   "adresse": "101 bis quai Jacques Chirac, 75015 Paris",
-   "lat": 48.8547789952042,
-   "lon": 2.28934200587187,
-   "thematiques": [
-    "Photographie",
-    "Art contemporain"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "Hall d'accueil (rez-de-chaussée) Entrée libre, du mardi au samedi de 11h à 19h",
-    "prix_min": 0,
-    "billetterie": "https://www.mcjp.fr/fr/la-mcjp/actualites/five-views-la-photographie-japonaise-emergente"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-b197370605bc946346f6a796c5c87165.jpg",
-   "lien": "https://www.paris.fr/evenements/five-views-la-photographie-japonaise-emergente-124365",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-124261",
-   "titre": "Projet Socrate : performance pluridisciplinaire par la compagnie des Marlins",
-   "resume": "La Compagnie des Marlins vous invite à la restitution de son Projet Socrate, aventure artistique multidisciplinaire mêlant écriture, dessin et théâtre.",
-   "debut": "2026-11-14",
-   "fin": "2026-11-14",
-   "horaires": "Le samedi 14 novembre 2026 de 16h00 à 17h00",
-   "lieu": "Médiathèque Marguerite Yourcenar",
-   "adresse": "41, rue d'Alleray, 75015 Paris",
-   "lat": 48.836807,
-   "lon": 2.303481,
-   "thematiques": [
-    "Art contemporain",
-    "Beaux-arts"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "sur inscription à partir du 14 octobre auprès des bibliothécaires ou&nbsp;sur&nbsp;&nbsp;",
-    "prix_min": 0,
-    "reservation": true,
-    "billetterie": "https://www.billetweb.fr/pro/agendayourcenar"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-82d6ccc20b29441abbd7a7b04a34684f.jpg",
-   "lien": "https://www.paris.fr/evenements/projet-socrate-performance-pluridisciplinaire-par-la-compagnie-des-marlins-124261",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-125495",
-   "titre": "RÉ-AMARRAGE – XENO-EXPOSITION / Retour de résidences",
-   "resume": "Huit artistes ayant réalisé des résidences en France en 2026 sont invité·e·s à ré-amarrer au Centre avec des projets esquissés, réalisés à la faveur de ces résidences.",
-   "debut": "2026-10-30",
-   "fin": "2026-11-14",
-   "horaires": "Du vendredi 30 octobre 2026 au samedi 14 novembre 2026 : jeudi de 14h00 à 21h00 lundi, mardi, mercredi, vendredi, samedi de 11h00 à 19h00",
-   "lieu": "Centre Wallonie-Bruxelles",
-   "adresse": "127-129 rue Saint-Martin, 75004 Paris",
-   "lat": 48.8610000018315,
-   "lon": 2.35126096864755,
-   "thematiques": [
-    "Art contemporain"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2649da847603d00a785cf06802b5797e.jpg",
-   "lien": "https://www.paris.fr/evenements/re-amarrage-xeno-exposition-retour-de-residences-125495",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-118192",
-   "titre": "Une exposition où s’entremêlent héritages, mémoires et migrations",
-   "resume": "\"Des gestes de nos mondes\" réunit des œuvres de la collection du Frac Île-de-France et des créations d’artistes basés en Tunisie ou originaires de la rive sud de la Méditerranée.",
-   "debut": "2026-09-16",
-   "fin": "2026-11-14",
-   "horaires": "Du dimanche 13 septembre 2026 au samedi 14 novembre 2026 : mercredi, jeudi, vendredi, samedi de 14h00 à 19h00",
-   "lieu": "Frac Île-de-France Les Réserves",
-   "adresse": "43 rue de la Commune de Paris, 93230 Romainville",
-   "lat": 48.8967869984437,
-   "lon": 2.43247599454247,
-   "thematiques": [
-    "Histoire & patrimoine",
-    "Société & monde"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "Entrée libre",
-    "prix_min": 0,
-    "billetterie": "https://fraciledefrance.com/fr/programmation/les-reserves/des-gestes-de-nos-mondes"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-ca220638f5030999e41817ee6e6e0184.png",
-   "lien": "https://www.paris.fr/evenements/une-exposition-ou-s-entremelent-heritages-memoires-et-migrations-118192",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
   {
    "id": "qfap-126866",
    "titre": "A Wider Gaze - FOTODOK x Atelier Néerlandais",
@@ -439,7 +301,6 @@
    "resume": "Grand bal costumé pour les 150 ans de l’hôtel André.",
    "debut": "2026-11-14",
    "fin": "2026-11-15",
-   "horaires": "Le samedi 14 novembre 2026 de 20h00 à 02h00",
    "lieu": "Musée Jacquemart-André",
    "adresse": "158, boulevard Haussmann, 75008 Paris",
    "lat": 48.8752649952077,
@@ -609,7 +470,7 @@
    "resume": "Une exposition collective qui donne à voir une dizaine de regards sur les mondes possibles et les futurs jamais advenus.",
    "debut": "2026-11-14",
    "fin": "2026-11-20",
-   "horaires": "Le samedi 14 novembre 2026 de à Du samedi 14 novembre 2026 au vendredi 20 novembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 16h00 à 19h00",
+   "horaires": "Du samedi 14 novembre 2026 au vendredi 20 novembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 16h00 à 19h00",
    "lieu": "MAGMA",
    "adresse": "16, rue Berthollet, 94110 Arcueil",
    "lat": 48.8037819875422,
