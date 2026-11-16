@@ -191,5 +191,13 @@
   "retirees": 5,
   "api_ok": true,
   "titres_ajoutes": []
+ },
+ {
+  "jour": "2026-11-16",
+  "total": 328,
+  "ajoutees": 0,
+  "retirees": 12,
+  "api_ok": true,
+  "titres_ajoutes": []
  }
 ]
