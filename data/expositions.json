@@ -1,60 +1,24 @@
 {
- "genere": "2026-11-16T07:15:40+00:00",
- "jour": "2026-11-16",
+ "genere": "2026-11-17T06:37:43+00:00",
+ "jour": "2026-11-17",
  "api_ok": true,
- "total": 328,
+ "total": 332,
  "par_tarif": {
-  "gratuit": 174,
+  "gratuit": 178,
   "gratuit_sous_condition": 11,
   "payant": 143,
   "inconnu": 0
  },
- "nouvelles": [],
+ "nouvelles": [
+  "qfap-127580",
+  "qfap-127619",
+  "qfap-127568",
+  "qfap-127577",
+  "qfap-127439",
+  "qfap-127590"
+ ],
  "avec_affluence": 63,
  "expositions": [
-  {
-   "id": "qfap-123274",
-   "titre": "Marc Riboud \" La géométrie devient poésie, vie, émotion \"",
-   "resume": "Marc RIBOUD - \" La géométrie devient poésie, vie, émotion \" - Photographies du 4 au 16 novembre 2026 . Vernissage le jeudi 5 novembre.",
-   "debut": "2026-11-04",
-   "fin": "2026-11-16",
-   "horaires": "Du mercredi 04 novembre 2026 au lundi 16 novembre 2026 :",
-   "lieu": "Galerie Arcturus",
-   "adresse": "5 rue Jacques Callot, 75006 Paris",
-   "lat": 48.856578,
-   "lon": 2.351828,
-   "thematiques": [
-    "Photographie",
-    "Art contemporain"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/07/huge-b962f2770c7558ff53b12969cb9ed61d.jpg",
-   "lien": "https://www.paris.fr/evenements/marc-riboud-la-geometrie-devient-poesie-vie-emotion-123274",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-127450",
-   "titre": "Votez pour votre coup de cœur Fabriqué à Paris !",
-   "resume": "Dès le 6 novembre et jusqu'au 16, les Parisiens et Parisiennes sont invités à voter pour leur produit préféré issu du label Fabriqué à Paris, à vous de jouer !",
-   "debut": "2026-11-06",
-   "fin": "2026-11-16",
-   "horaires": "Du vendredi 06 novembre 2026 au lundi 16 novembre 2026 :",
-   "thematiques": [
-    "Autres"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/12/huge-934dbcd4f4093c6e0787c5f729e4941f.png",
-   "lien": "https://www.paris.fr/evenements/votez-pour-votre-coup-de-coeur-fabrique-a-paris-127450",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-13"
-  },
   {
    "id": "qfap-127443",
    "titre": "Créer un pacte avec les animaux ? Réflexion avec Jean-Christophe Bailly",
@@ -542,6 +506,31 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127577",
+   "titre": "La semaine de l'industrie au Musée des Egouts !",
+   "resume": "Une journée gratuite sous le quai d’Orsay. Le 22 novembre, le Musée des Égouts de Paris ouvre ses portes gratuitement dans le cadre de la semaine de l'industrie. L’accès est libre, sans réservation, de 10 h à 17 h (dernier accès à 16 h), sur l’esplanade Habib-Bourguiba, près du pont de l’Alma (7ᵉ arrondissement).",
+   "debut": "2026-11-22",
+   "fin": "2026-11-22",
+   "horaires": "Le dimanche 22 novembre 2026 de 10h00 à 17h00",
+   "lieu": "Musée des égouts de Paris",
+   "adresse": "Pont de l'Alma, 75007 Paris",
+   "lat": 48.86295,
+   "lon": 2.3018,
+   "thematiques": [
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://musee-egouts.paris.fr/preparer/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/02/21/huge-44a8c68539200fbfaf3eea8f05a1fc89.jpg",
+   "lien": "https://www.paris.fr/evenements/la-semaine-de-l-industrie-au-musee-des-egouts-127577",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-17"
+  },
+  {
    "id": "qfap-126768",
    "titre": "Vies minuscules, des vies à la Bpi",
    "resume": "La Bibliothèque publique d’information propose pendant trois semaines une programmation en résonance avec l’exposition Vies minuscules du Centre Pompidou au Panthéon, en partenariat avec le Centre des Monuments nationaux.",
@@ -949,6 +938,29 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127568",
+   "titre": "L\\'ANGLE MORT",
+   "resume": "Une exposition collective sur la place des hommes dans la lutte contre les violences sexistes et sexuelles, au profit de la Maison des Femmes Restart.",
+   "debut": "2026-11-24",
+   "fin": "2026-11-28",
+   "horaires": "Du mardi 24 novembre 2026 au samedi 28 novembre 2026 : samedi de 10h00 à 16h00 vendredi de 10h00 à 23h00 mercredi, jeudi de 17h00 à 21h00 mardi de 18h00 à 22h00",
+   "lieu": "la Rotonde Stalingrad",
+   "adresse": "place de la bataille stalingrad, 75019 Paris",
+   "lat": 48.8831861879156,
+   "lon": 2.36950645923004,
+   "thematiques": [
+    "Art contemporain"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-29b75c1ec2c5a4caa2e30179c4e40b7d.png",
+   "lien": "https://www.paris.fr/evenements/l-angle-mort-127568",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-17"
+  },
+  {
    "id": "qfap-123366",
    "titre": "Nocturne festive avec Élysée Moon",
    "resume": "Pour cette nocturne spéciale, le Musée du Luxembourg invite Élysée Moon, drag queen, chanteuse lyrique et guide-conférencière, à une série d’interventions performées au fil de la soirée.",
@@ -1050,6 +1062,31 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127439",
+   "titre": "TitreBiennale de Dakar 2026 – OFF à Paris : ENSEMBLE’, 30 ans de peinture de Babacar Badiane",
+   "resume": "Découvrez l’univers de Babacar Badiane à travers ENSEMBLE’, une exposition présentée à Paris dans le cadre du OFF de la Biennale de Dakar 2026.",
+   "debut": "2026-11-19",
+   "fin": "2026-11-28",
+   "horaires": "Le samedi 21 novembre 2026 de 13h30 à 18h00 Du jeudi 19 novembre 2026 au lundi 30 novembre 2026 : samedi de 13h30 à 17h00 jeudi, vendredi de 14h30 à 18h00 mardi de 15h00 à 18h00",
+   "lieu": "Commune D'Aligre / Maison des ensembles",
+   "adresse": "3-5 rue d'Aligre, 75012 Paris",
+   "lat": 48.856578,
+   "lon": 2.351828,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/12/huge-d181107cb2480388facadf0a37c162a9.jpg",
+   "lien": "https://www.paris.fr/evenements/titre-ensemble-30-ans-de-peinture-de-babacar-badiane-au-coeur-du-off-de-dakar-a-paris-127439",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-17"
+  },
+  {
    "id": "qfap-126362",
    "titre": "« Des aveugles. La collection photographique de l’INJA »",
    "resume": "En 2026, la photographie célèbre le bicentenaire de ses premières expérimentations. À cette occasion, l’Institut National des Jeunes Aveugles (INJA-Louis Braille) ouvre pour la première fois au public sa collection photographique et propose, du 5 au 28 novembre 2026, l’exposition « Des aveugles. La collection photographique de l’INJA ».",
@@ -1146,6 +1183,32 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127619",
+   "titre": "Exposition collective : UN UNIVERS AU RYTHME DE LA LAQUE",
+   "resume": "Du 23 au 29 novembre 2026, LooLooLook Gallery vous invite à découvrir une exposition collective consacrée à la peinture chinoise contemporaine à la laque. Entre tradition et expérimentation, les artistes révèlent toute la richesse de cette matière singulière, où se rencontrent mémoire, lumière, profondeur et gestes contemporains. Une invitation à découvrir un langage artistique qui traverse les si",
+   "debut": "2026-11-23",
+   "fin": "2026-11-29",
+   "horaires": "Du lundi 23 novembre 2026 au dimanche 29 novembre 2026 :",
+   "lieu": "LooLooLook Gallery",
+   "adresse": "12 rue de la Sourdière, 75001 Paris",
+   "lat": 48.8656550174885,
+   "lon": 2.33207202625093,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts",
+    "Histoire & patrimoine",
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/16/huge-d00c92a51259b3da422eb912d49d168c.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-collective-un-univers-au-rythme-de-la-laque-127619",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-17"
   },
   {
    "id": "qfap-118327",
@@ -1755,6 +1818,31 @@
     "score": 5.224,
     "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
    }
+  },
+  {
+   "id": "qfap-127590",
+   "titre": "«Urbi, orbi et flori» par P. Baumann",
+   "resume": "46 œuvres sur scotch : des villes, des fleurs, des montagnes. Vernissage le 26 novembre.",
+   "debut": "2026-11-26",
+   "fin": "2026-12-06",
+   "horaires": "Du jeudi 26 novembre 2026 au dimanche 06 décembre 2026 : mercredi, samedi, dimanche de 12h00 à 20h00 mardi, jeudi, vendredi de 17h00 à 20h00",
+   "lieu": "galerie paul*13",
+   "adresse": "13 rue La Condamine, 75017 Paris",
+   "lat": 48.8874770090391,
+   "lon": 2.32387402203113,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts",
+    "Architecture & ville"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/15/huge-3ccb3a2c958a6f37678ceb970055301e.jpg",
+   "lien": "https://www.paris.fr/evenements/urbi-orbi-et-flori-par-p-baumann-127590",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-17"
   },
   {
    "id": "qfap-127410",
@@ -2432,6 +2520,34 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127580",
+   "titre": "Sanlé Sory, « Jour et Nuit » : photographie",
+   "resume": "Rétrospective du photographe burkinabè Sanlé Sory à A. Galerie : près de 40 portraits de studio et scènes nocturnes de Bobo-Dioulasso, dont certaines images inédites.",
+   "debut": "2026-11-10",
+   "fin": "2026-12-19",
+   "horaires": "Du mardi 10 novembre 2026 au samedi 19 décembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi de 10h00 à 19h00",
+   "lieu": "A galerie",
+   "adresse": "4 rue Léonce Reynaud, 75116 Paris",
+   "lat": 48.8657961643022,
+   "lon": 2.29929568851357,
+   "thematiques": [
+    "Photographie",
+    "Art contemporain",
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "detail": "Entrée libre. Ouvert du lundi au vendredi de 10h à 13h et de 15h à 19h, le samedi de 12h à 19h. Fermé le dimanche.",
+    "prix_min": 0,
+    "billetterie": "https://a-galerie.fr/expositions/sanle-sory-i-jour-et-nuit-i-a-galerie/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/14/huge-7245ea358cdacd40e78ff3fb1d95bcff.jpg",
+   "lien": "https://www.paris.fr/evenements/sanle-sory-jour-et-nuit-127580",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-17"
+  },
+  {
    "id": "qfap-126876",
    "titre": "À L'instant T. Serge Najjar",
    "resume": "La Galerie Lahumière présente pour la première fois le travail d’un photographe et elle a choisi Serge Najjar, dont les images géométriques, saisies dans le monde réel, composent des espaces qui semblent pourtant presque irréels.",
@@ -2874,7 +2990,7 @@
     "prix_min": 0,
     "reservation": true
    },
-   "image": "https://cdn.paris.fr/qfapv4/2025/05/23/huge-55e790aa0936114e441f4ae2d109bcbc.jpg",
+   "image": "https://cdn.paris.fr/qfapv4/2025/12/01/huge-ae28802342fa5e76516f023c01128ec3.png",
    "lien": "https://www.paris.fr/evenements/re-decouvrez-les-musees-de-la-ville-de-paris-en-famille-86111",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"

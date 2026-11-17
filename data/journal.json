@@ -199,5 +199,20 @@
   "retirees": 12,
   "api_ok": true,
   "titres_ajoutes": []
+ },
+ {
+  "jour": "2026-11-17",
+  "total": 332,
+  "ajoutees": 6,
+  "retirees": 2,
+  "api_ok": true,
+  "titres_ajoutes": [
+   "Sanlé Sory, « Jour et Nuit » : photographie",
+   "Exposition collective : UN UNIVERS AU RYTHME DE LA LAQUE",
+   "L\\'ANGLE MORT",
+   "La semaine de l'industrie au Musée des Egouts !",
+   "TitreBiennale de Dakar 2026 – OFF à Paris : ENSEMBLE’, 30 ans de peinture de Babacar Badiane",
+   "«Urbi, orbi et flori» par P. Baumann"
+  ]
  }
 ]
