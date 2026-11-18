@@ -1,48 +1,21 @@
 {
- "genere": "2026-11-17T06:37:43+00:00",
- "jour": "2026-11-17",
+ "genere": "2026-11-18T06:37:15+00:00",
+ "jour": "2026-11-18",
  "api_ok": true,
- "total": 332,
+ "total": 334,
  "par_tarif": {
-  "gratuit": 178,
+  "gratuit": 179,
   "gratuit_sous_condition": 11,
-  "payant": 143,
+  "payant": 144,
   "inconnu": 0
  },
  "nouvelles": [
-  "qfap-127580",
-  "qfap-127619",
-  "qfap-127568",
-  "qfap-127577",
-  "qfap-127439",
-  "qfap-127590"
+  "qfap-127520",
+  "qfap-127644",
+  "qfap-127635"
  ],
  "avec_affluence": 63,
  "expositions": [
-  {
-   "id": "qfap-127443",
-   "titre": "Créer un pacte avec les animaux ? Réflexion avec Jean-Christophe Bailly",
-   "resume": "Une rencontre culturelle gratuite sur les animaux et la menace qui pèse sur eux dans le cadre de l'expo « Entre deux vertiges » de Gloria Friedmann.",
-   "debut": "2026-11-17",
-   "fin": "2026-11-17",
-   "horaires": "Le mardi 17 novembre 2026 de 19h30 à 20h30",
-   "lieu": "Transfo",
-   "adresse": "36 rue Jacques Louvel-Tessier, 75010 Paris",
-   "lat": 48.8715290133243,
-   "lon": 2.37135901226259,
-   "thematiques": [
-    "Art contemporain"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/12/huge-8fd73fc6f582e12609dc3a4909c6d1e3.jpg",
-   "lien": "https://www.paris.fr/evenements/creer-un-pacte-avec-les-animaux-reflexion-avec-jean-christophe-bailly-127443",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-13"
-  },
   {
    "id": "qfap-125773",
    "titre": "exposition & cabaret : LA BANDE À BAS NYLON",
@@ -609,6 +582,33 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127635",
+   "titre": "3 femmes, 3 artistes",
+   "resume": "Dans le cadre de la semaine de lutte contre les violences faites aux femmes, sera mené le projet de street art féministe «3 femmes, 3 artistes».",
+   "debut": "2026-11-10",
+   "fin": "2026-11-24",
+   "horaires": "Du mardi 10 novembre 2026 au mardi 24 novembre 2026 : mardi, samedi de 09h30 à 17h30",
+   "lieu": "Centre socioculturel Maurice Noguès",
+   "adresse": "1/7, avenue de la Porte de Vanves, 75014 Paris",
+   "lat": 48.8260159915434,
+   "lon": 2.30463696751028,
+   "thematiques": [
+    "Street art & BD",
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "reservation": true,
+    "billetterie": "https://www.garidell14.org/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/03/13/huge-d5d7ae51f4f67f1b50085461e707d979.jpg",
+   "lien": "https://www.paris.fr/evenements/3-femmes-3-artistes-127635",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-18"
+  },
+  {
    "id": "qfap-127212",
    "titre": "Festival Close-Up : Ville, Architecture et Paysage au cinéma",
    "resume": "Festival International de cinéma sur la Ville et l'Architecture",
@@ -915,6 +915,33 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127644",
+   "titre": "Exposition Âmes insulaires : Les îles par l'artiste Marielle Durand",
+   "resume": "De la Nouvelle-Calédonie au Cap Vert en passant par Lanzarote, la Galice, le Cap Vert, La Réunion représentées dans une centaine d'œuvres à L'Ephémère Galerie dans le 5ème arrondissement à Paris.",
+   "debut": "2026-11-19",
+   "fin": "2026-11-28",
+   "horaires": "Le jeudi 19 novembre 2026 de 17h30 à 20h00 Du jeudi 19 novembre 2026 au samedi 28 novembre 2026 : samedi de 11h30 à 18h30 lundi, mardi, mercredi, jeudi, vendredi de 15h00 à 18h30 Fermé le dimanche 22 novembre 2026",
+   "lieu": "L'Ephémère Galerie",
+   "adresse": "12 rue Saint Victor, 75005 Paris",
+   "lat": 48.8481899811179,
+   "lon": 2.35127102693136,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "detail": "Vernissage le 19/11 de 17h30 à 20h",
+    "prix_min": 0,
+    "billetterie": "https://www.comptoirdesvoyages.fr/blog-voyage/ici-et-ailleurs/exposition-ames-insulaires"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/17/huge-dea4338ae56f18246e4cc54d0a6a75ae.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-ames-insulaires-les-iles-par-l-artiste-marielle-durand-127644",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-18"
   },
   {
    "id": "sel-photosaintgermain-2026",
@@ -2803,6 +2830,34 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-07"
+  },
+  {
+   "id": "qfap-127520",
+   "titre": "Là où le sol pousse",
+   "resume": "Une exploration artistique et sensorielle du monde des sols par Anaïs Tondeur et ses invités.",
+   "debut": "2026-11-25",
+   "fin": "2026-12-23",
+   "horaires": "Le mardi 22 décembre 2026 de 11h00 à 19h00 Le lundi 21 décembre 2026 de 11h00 à 19h00 Du mercredi 25 novembre 2026 au mercredi 23 décembre 2026 : jeudi de 11h00 à 21h00 mercredi, jeudi, vendredi, samedi, dimanche de 11h00 à 19h00",
+   "lieu": "261 blvd Raspail - Ancienne fondation Cartier",
+   "adresse": "261 boulevard Raspail, 75014 Paris",
+   "lat": 48.8375880051579,
+   "lon": 2.33152301159294,
+   "thematiques": [
+    "Photographie",
+    "Art contemporain",
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Tarifs Tarif normal : 9,50 € Tarif réduit : 5 euros Moins de 12 ans : Gratuit",
+    "prix_min": 5.0,
+    "reservation": true,
+    "billetterie": "https://www.billetweb.fr/la-ou-le-sol-pousse"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/17/huge-aa2381c133c25a7ac6a017f05f54ce04.jpg",
+   "lien": "https://www.paris.fr/evenements/la-ou-le-sol-pousse-127520",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-18"
   },
   {
    "id": "qfap-126918",
@@ -5215,7 +5270,7 @@
   },
   {
    "id": "qfap-117749",
-   "titre": "Simone Fattal. Des villes au fond d’un lac",
+   "titre": "Remportez des entrées pour l'expo « Simone Fattal. Des villes au fond d’un lac »",
    "resume": "À l’automne 2026, le Musée d’Art Moderne de Paris dédie une importante exposition à Simone Fattal, artiste libano-étatsunienne née en 1942 à Damas et installée à Paris depuis de nombreuses années.",
    "debut": "2026-09-18",
    "fin": "2027-01-24",
