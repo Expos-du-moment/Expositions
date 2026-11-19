@@ -1,47 +1,21 @@
 {
- "genere": "2026-11-18T06:37:15+00:00",
- "jour": "2026-11-18",
+ "genere": "2026-11-19T06:33:47+00:00",
+ "jour": "2026-11-19",
  "api_ok": true,
- "total": 334,
+ "total": 335,
  "par_tarif": {
-  "gratuit": 179,
+  "gratuit": 180,
   "gratuit_sous_condition": 11,
   "payant": 144,
   "inconnu": 0
  },
  "nouvelles": [
-  "qfap-127520",
-  "qfap-127644",
-  "qfap-127635"
+  "qfap-127703",
+  "qfap-127049",
+  "qfap-127698"
  ],
  "avec_affluence": 63,
  "expositions": [
-  {
-   "id": "qfap-125773",
-   "titre": "exposition & cabaret : LA BANDE À BAS NYLON",
-   "resume": "Le collectif de Cabaret Artistique « Les Nuits Bas Nylon » vous ouvre les portes de leurs loges !",
-   "debut": "2026-11-07",
-   "fin": "2026-11-18",
-   "horaires": "Du samedi 07 novembre 2026 au mercredi 18 novembre 2026 : samedi de 17h00 à 23h00 mardi, mercredi, jeudi, vendredi, dimanche de 14h00 à 19h00",
-   "lieu": "Galerie du Montparnasse",
-   "adresse": "55 rue de Montparnasse, 75014 Paris",
-   "lat": 48.842093,
-   "lon": 2.325682,
-   "thematiques": [
-    "Art contemporain"
-   ],
-   "tarif": {
-    "type": "gratuit_sous_condition",
-    "prix_min": 0,
-    "reservation": true,
-    "billetterie": "http://www.lesnuitsbasnylon.com/tickets"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/09/huge-a6369ecc3310991e39c8983e1909638a.jpg",
-   "lien": "https://www.paris.fr/evenements/exposition-cabaret-la-bande-a-bas-nylon-125773",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
   {
    "id": "qfap-126490",
    "titre": "Corps & accords",
@@ -295,6 +269,31 @@
    "lien": "https://www.paris.fr/evenements/paper-routes-126886",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127049",
+   "titre": "Récits d’ogresses avec la Cour des Contes",
+   "resume": "Suivez les pas de Guillermo du collectif La Cour des Contes, pour découvrir autrement l’exposition Le bal des Ogresses.",
+   "debut": "2026-11-21",
+   "fin": "2026-11-21",
+   "horaires": "Le samedi 21 novembre 2026 de 16h00 à 17h30",
+   "lieu": "Institut des Cultures d'Islam (ICI)",
+   "adresse": "19 rue Léon, 75018 Paris",
+   "lat": 48.887787,
+   "lon": 2.353435,
+   "thematiques": [
+    "Art contemporain"
+   ],
+   "tarif": {
+    "type": "gratuit_sous_condition",
+    "prix_min": 0,
+    "reservation": true,
+    "billetterie": "https://www.billetweb.fr/shop.php?event=recits-d-ogresses-avec-la-cour-des-contes&ref=recits-d-ogresses-avec-la-cour-des-contes&margin="
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/04/huge-8c0bdee446b9b9e363de297f3290b3a2.jpg",
+   "lien": "https://www.paris.fr/evenements/recits-d-ogresses-avec-la-cour-des-contes-127049",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-19"
   },
   {
    "id": "qfap-123834",
@@ -1507,6 +1506,31 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127703",
+   "titre": "Artichaut de Décembre : apéro et concert baroque",
+   "resume": "Le jeudi 3 décembre, l’Atelier AOFLO ouvre ses portes le temps d’un apéro, avec un concert baroque du duo Folia Barroca à 20h.",
+   "debut": "2026-12-03",
+   "fin": "2026-12-03",
+   "horaires": "Le jeudi 03 décembre 2026 de 18h30 à 21h30",
+   "lieu": "Atelier AOFLO",
+   "adresse": "32 rue Rebeval, 75019 Paris",
+   "lat": 48.8743030041802,
+   "lon": 2.37805497943333,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.monbendo.fr/fr/events/artichaut-de-decembre-2026"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/17/huge-853e2bab4271c83589c6a03af0a1bb1e.png",
+   "lien": "https://www.paris.fr/evenements/artichaut-de-decembre-apero-et-concert-baroque-127703",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-19"
+  },
+  {
    "id": "qfap-126561",
    "titre": "Reminiscence – exposition de KR",
    "resume": "Première exposition personnelle de KR : une histoire d’amour entre Dieu et une âme, racontée en neuf tableaux écrits à la main à l’encre dorée. Entrée libre.",
@@ -1560,7 +1584,7 @@
   },
   {
    "id": "qfap-127287",
-   "titre": "Expo-Atelier | Sortie au musée et ateleir collage",
+   "titre": "Expo-Atelier | Sortie au musée et atelier collage",
    "resume": "Une sortie au musée et un atelier collage organisé par le CPA Mado Robin",
    "debut": "2026-11-28",
    "fin": "2026-12-05",
@@ -1709,6 +1733,30 @@
    "lien": "https://www.paris.fr/evenements/les-metiers-d-art-dans-les-photographies-de-francois-kollar-115512",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127698",
+   "titre": "Théâtre d'atelier, une exposition de Quentin Garel",
+   "resume": "Théâtre d'atelier, la nouvelle exposition de Quentin Garel !",
+   "debut": "2026-11-18",
+   "fin": "2026-12-05",
+   "horaires": "Du mercredi 18 novembre 2026 au samedi 05 décembre 2026 :",
+   "lieu": "Galerie Area Paris",
+   "adresse": "46B RUE DE PARADIS, 75010 Paris",
+   "lat": 48.856578,
+   "lon": 2.351828,
+   "thematiques": [
+    "Art contemporain",
+    "Histoire & patrimoine"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/17/huge-84bd0c9352437e97cae87c9e5e5284b0.jpg",
+   "lien": "https://www.paris.fr/evenements/theatre-d-atelier-quentin-garel-127698",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-19"
   },
   {
    "id": "qfap-127030",
@@ -4363,32 +4411,6 @@
    "vu_le": "2026-11-13"
   },
   {
-   "id": "qfap-125575",
-   "titre": "Musée national du Patriarcat : la troisième édition de retour à Paris !",
-   "resume": "Imaginez : nous sommes en 2135, et le patriarcat appartient au passé. Une époque révolue, mais pas effacée, dont nous conservons les traces dans un lieu commémoratif : le Musée National du Patriarcat (MNP), un musée fictif porté par En avant toute(s) et l'agence Artefact 3000.",
-   "debut": "2026-11-26",
-   "fin": "2027-01-09",
-   "horaires": "Du jeudi 26 novembre 2026 au samedi 09 janvier 2027 :",
-   "lieu": "La Roche",
-   "adresse": "15 Avenue du Général Leclerc, 75014 Paris",
-   "lat": 48.8323680073174,
-   "lon": 2.33106502440342,
-   "thematiques": [
-    "Autres"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "L'entrée du musée est à prix libre.&nbsp;",
-    "prix_min": 0,
-    "billetterie": "https://www.helloasso.com/associations/en-avant-toute-s/evenements/musee-national-du-patriarcat-1"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/07/huge-8fa9700fa7e68cac71ca2a7045613290.jpg",
-   "lien": "https://www.paris.fr/evenements/musee-national-du-patriarcat-la-troisieme-edition-de-retour-a-paris-125575",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-14"
-  },
-  {
    "id": "qfap-126884",
    "titre": "Payram. Que vos pas soient légers car vous marchez sur mes rêves",
    "resume": "Du 5 novembre 2026 au 9 janvier 2027, la Galerie Maubert présente Que vos pas soient légers car vous marchez sur mes rêves, la troisième exposition personnelle du photographe iranien Payram à la galerie à Paris, dans le cadre du bicentenaire de la photographie.",
@@ -4760,7 +4782,7 @@
     "detail": "Réserver",
     "prix_min": 0,
     "reservation": true,
-    "billetterie": "https://www.billetweb.fr/conference-les-midinettes-ces-grandes-oubliees-du-monde-de-la-mode"
+    "billetterie": "https://www.billetweb.fr/visite-guidee-de-lexposition-gustave-charpentier"
    },
    "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-559e597b04ffcfb1d20114586356cbc1.png",
    "lien": "https://www.paris.fr/evenements/exposition-gustave-charpentier-1860-1956-compositeur-boheme-et-academicien-124101",

@@ -226,5 +226,17 @@
    "Exposition Âmes insulaires : Les îles par l'artiste Marielle Durand",
    "3 femmes, 3 artistes"
   ]
+ },
+ {
+  "jour": "2026-11-19",
+  "total": 335,
+  "ajoutees": 3,
+  "retirees": 2,
+  "api_ok": true,
+  "titres_ajoutes": [
+   "Artichaut de Décembre : apéro et concert baroque",
+   "Récits d’ogresses avec la Cour des Contes",
+   "Théâtre d'atelier, une exposition de Quentin Garel"
+  ]
  }
 ]
