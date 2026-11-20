@@ -1,18 +1,21 @@
 {
- "genere": "2026-11-19T06:33:47+00:00",
- "jour": "2026-11-19",
+ "genere": "2026-11-20T06:34:55+00:00",
+ "jour": "2026-11-20",
  "api_ok": true,
- "total": 335,
+ "total": 341,
  "par_tarif": {
-  "gratuit": 180,
+  "gratuit": 186,
   "gratuit_sous_condition": 11,
   "payant": 144,
   "inconnu": 0
  },
  "nouvelles": [
-  "qfap-127703",
-  "qfap-127049",
-  "qfap-127698"
+  "qfap-127688",
+  "qfap-127792",
+  "qfap-127794",
+  "qfap-127621",
+  "qfap-125575",
+  "qfap-127825"
  ],
  "avec_affluence": 63,
  "expositions": [
@@ -358,10 +361,10 @@
    "debut": "2026-11-20",
    "fin": "2026-11-22",
    "horaires": "Du vendredi 20 novembre 2026 au dimanche 22 novembre 2026 : vendredi, samedi, dimanche de 10h00 à 19h00",
-   "lieu": "114, rue de Turenne",
-   "adresse": "114, rue de Turenne, 75003 Paris",
-   "lat": 48.8631839905228,
-   "lon": 2.36477796098441,
+   "lieu": "7, rue de Bailly",
+   "adresse": "7, rue de Bailly, 75003 Paris",
+   "lat": 48.8649759995122,
+   "lon": 2.35639496816154,
    "thematiques": [
     "Photographie",
     "Sciences & nature"
@@ -630,6 +633,30 @@
    "lien": "https://www.paris.fr/evenements/festival-close-up-ville-architecture-et-paysage-au-cinema-127212",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-07"
+  },
+  {
+   "id": "qfap-127825",
+   "titre": "Journée contre les violences faites aux femmes",
+   "resume": "Une journée consacrée à l'information contre les violences faites aux femmes par le biais d'une exposition à destination des enfants, de lectures de livres adaptés aux différents publics et d'un jeu de cartes pour les adolescents et les adultes.",
+   "debut": "2026-11-25",
+   "fin": "2026-11-25",
+   "horaires": "Le mercredi 25 novembre 2026 de 10h00 à 20h00",
+   "lieu": "CPA Musidora",
+   "adresse": "51, rue François Truffaut, 75012 Paris",
+   "lat": 48.8343610143449,
+   "lon": 2.38721899799407,
+   "thematiques": [
+    "Jeunesse"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/19/huge-98c90a97adf5794ac7039df638c0bea0.jpg",
+   "lien": "https://www.paris.fr/evenements/journee-contre-les-violences-faites-aux-femmes-127825",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-20"
   },
   {
    "id": "qfap-126017",
@@ -921,7 +948,7 @@
    "resume": "De la Nouvelle-Calédonie au Cap Vert en passant par Lanzarote, la Galice, le Cap Vert, La Réunion représentées dans une centaine d'œuvres à L'Ephémère Galerie dans le 5ème arrondissement à Paris.",
    "debut": "2026-11-19",
    "fin": "2026-11-28",
-   "horaires": "Le jeudi 19 novembre 2026 de 17h30 à 20h00 Du jeudi 19 novembre 2026 au samedi 28 novembre 2026 : samedi de 11h30 à 18h30 lundi, mardi, mercredi, jeudi, vendredi de 15h00 à 18h30 Fermé le dimanche 22 novembre 2026",
+   "horaires": "Du jeudi 19 novembre 2026 au samedi 28 novembre 2026 : samedi de 11h30 à 18h30 lundi, mardi, mercredi, jeudi, vendredi de 15h00 à 18h30 Fermé le dimanche 22 novembre 2026",
    "lieu": "L'Ephémère Galerie",
    "adresse": "12 rue Saint Victor, 75005 Paris",
    "lat": 48.8481899811179,
@@ -1168,7 +1195,7 @@
    "resume": "À travers ses aquarelles, Marielle Durand saisit la diversité des paysages insulaires et la vie qui les anime.",
    "debut": "2026-11-19",
    "fin": "2026-11-28",
-   "horaires": "Du vendredi 20 novembre 2026 au samedi 28 novembre 2026 : samedi de 11h30 à 18h30 lundi, mardi, mercredi, jeudi, vendredi de 15h30 à 18h30 Le jeudi 19 novembre 2026 de 17h30 à 20h00",
+   "horaires": "Du vendredi 20 novembre 2026 au samedi 28 novembre 2026 : samedi de 11h30 à 18h30 lundi, mardi, mercredi, jeudi, vendredi de 15h30 à 18h30",
    "thematiques": [
     "Art contemporain",
     "Beaux-arts",
@@ -1506,6 +1533,32 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127621",
+   "titre": "« Métamorphoses, le cabaret ! », une soirée performance gratuite à la Galerie du 19M",
+   "resume": "À l’occasion de la dernière nocturne de l’exposition « Métamorphoses, les chapeaux de Maison Michel », la Galerie du 19M accueille une soirée cabaret, clin d’œil aux nombreuses coiffes réalisées par la Maison d’art pour les plus grands cabarets parisiens.",
+   "debut": "2026-12-02",
+   "fin": "2026-12-02",
+   "horaires": "Le mercredi 02 décembre 2026 de 19h00 à 22h00",
+   "lieu": "le19M",
+   "adresse": "2, place de Skanderbeg, 75019 Paris",
+   "lat": 48.9013260085607,
+   "lon": 2.37174600473222,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "reservation": true,
+    "billetterie": "https://www.le19m.com/fr/agenda/metamorphoses-le-cabaret"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/19/huge-806aafa8c5ce21ab603dec4863f01068.jpg",
+   "lien": "https://www.paris.fr/evenements/metamorphoses-le-cabaret-une-soiree-performance-gratuite-a-la-galerie-du-19m-127621",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-20"
+  },
+  {
    "id": "qfap-127703",
    "titre": "Artichaut de Décembre : apéro et concert baroque",
    "resume": "Le jeudi 3 décembre, l’Atelier AOFLO ouvre ses portes le temps d’un apéro, avec un concert baroque du duo Folia Barroca à 20h.",
@@ -1607,6 +1660,31 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-10"
+  },
+  {
+   "id": "qfap-127794",
+   "titre": "Exposition - MARINI - Héros & Héroïnes",
+   "resume": "Enrico Marini se penche sur la figure du héros dans cette nouvelle exposition. Une sélection d’illustrations mettent à l’honneur les héroïnes et héros les plus emblématiques de son imaginaire est exposée dans la Galerie 9e art.",
+   "debut": "2026-11-13",
+   "fin": "2026-12-05",
+   "horaires": "Du vendredi 13 novembre 2026 au samedi 05 décembre 2026 : mercredi, jeudi, vendredi, samedi de 11h00 à 13h00 mercredi, jeudi, vendredi, samedi de 14h00 à 19h00",
+   "lieu": "Galerie 9e art",
+   "adresse": "4, rue Crétet, 75009 Paris",
+   "lat": 48.8819470065096,
+   "lon": 2.34162597094738,
+   "thematiques": [
+    "Art contemporain",
+    "Street art & BD"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.galerie9art.fr/?content=home"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/18/huge-7dda128211b471c04a70267913086ab5.png",
+   "lien": "https://www.paris.fr/evenements/exposition-marini-heros-heroines-127794",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-20"
   },
   {
    "id": "qfap-117595",
@@ -4361,6 +4439,30 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127792",
+   "titre": "Exposition Prix Photo Sociale 2026 - Mairie du 10e",
+   "resume": "Du 27 novembre 2026 au 9 janvier 2027, la Mairie du 10ème arrondissement accueille les photographies des trois lauréats du Prix Photo Sociale 2026. Une exposition qui invite à porter un autre regard sur la précarité, l’exclusion et les parcours de vie fragilisés.",
+   "debut": "2026-11-27",
+   "fin": "2027-01-09",
+   "horaires": "Du vendredi 27 novembre 2026 au samedi 09 janvier 2027 :",
+   "lieu": "Mairie du 10e arrondissement",
+   "adresse": "72 Rue du Faubourg Saint-Martin, 75010 Paris",
+   "lat": 48.871785,
+   "lon": 2.357383,
+   "thematiques": [
+    "Photographie"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/18/huge-42528760cce2c152b93237f2a638ff68.png",
+   "lien": "https://www.paris.fr/evenements/exposition-prix-photo-sociale-2026-mairie-du-10e-127792",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-20"
+  },
+  {
    "id": "qfap-124894",
    "titre": "Exposition Théophile de Viau à la Bibliothèque Mazarine",
    "resume": "À l’occasion du quatrième centenaire de la mort de Théophile de Viau, l’exposition invite à redécouvrir un moment fécondant de la vie littéraire française. Fantôme d’une époque où l’on pouvait mourir pour des vers, Théophile de Viau participe à l’émergence de la figure de l’écrivain dans la société et interroge la possibilité de penser en poésie, du Grand Siècle à aujourd’hui.",
@@ -4409,6 +4511,53 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-13"
+  },
+  {
+   "id": "qfap-127688",
+   "titre": "Journée de lutte contre les violences faites aux femmes : programme dans le 14e",
+   "resume": "La Journée internationale de lutte contre les violences faites aux femmes se tient chaque année le 25 novembre. En marge de cette journée, plusieurs rendez-vous sont programmés le 14e.",
+   "debut": "2026-11-20",
+   "fin": "2027-01-09",
+   "horaires": "Du vendredi 20 novembre 2026 au samedi 09 janvier 2027 :",
+   "lat": 48.856578,
+   "lon": 2.351828,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/17/huge-e597bb513702986648bbf8b76866a8a6.jpg",
+   "lien": "https://www.paris.fr/evenements/journee-de-lutte-contre-les-violences-faites-aux-femmes-programme-dans-le-14e-127688",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-20"
+  },
+  {
+   "id": "qfap-125575",
+   "titre": "Musée national du Patriarcat : la troisième édition de retour à Paris !",
+   "resume": "Imaginez : nous sommes en 2135, et le patriarcat appartient au passé. Une époque révolue, mais pas effacée, dont nous conservons les traces dans un lieu commémoratif : le Musée National du Patriarcat (MNP), un musée fictif porté par En avant toute(s) et l'agence Artefact 3000.",
+   "debut": "2026-11-26",
+   "fin": "2027-01-09",
+   "horaires": "Du jeudi 26 novembre 2026 au samedi 09 janvier 2027 :",
+   "lieu": "La Roche",
+   "adresse": "15 Avenue du Général Leclerc, 75014 Paris",
+   "lat": 48.8323680073174,
+   "lon": 2.33106502440342,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "detail": "L'entrée du musée est à prix libre.&nbsp;",
+    "prix_min": 0,
+    "billetterie": "https://www.helloasso.com/associations/en-avant-toute-s/evenements/musee-national-du-patriarcat-1"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/10/07/huge-8fa9700fa7e68cac71ca2a7045613290.jpg",
+   "lien": "https://www.paris.fr/evenements/musee-national-du-patriarcat-la-troisieme-edition-de-retour-a-paris-125575",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-20"
   },
   {
    "id": "qfap-126884",
@@ -6744,7 +6893,8 @@
     "type": "payant",
     "detail": "Tarif plein : 7€ Tarif réduit : 5€",
     "prix_min": 5.0,
-    "reservation": true
+    "reservation": true,
+    "billetterie": "https://www.zadkine.paris.fr/"
    },
    "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-d2618a0f934c5df52ff1227758ab8b25.jpeg",
    "lien": "https://www.paris.fr/evenements/zadkine-et-la-mythologie-116964",
