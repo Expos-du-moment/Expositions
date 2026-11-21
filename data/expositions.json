@@ -1,101 +1,19 @@
 {
- "genere": "2026-11-20T06:34:55+00:00",
- "jour": "2026-11-20",
+ "genere": "2026-11-21T06:34:13+00:00",
+ "jour": "2026-11-21",
  "api_ok": true,
- "total": 341,
+ "total": 339,
  "par_tarif": {
-  "gratuit": 186,
+  "gratuit": 185,
   "gratuit_sous_condition": 11,
-  "payant": 144,
+  "payant": 143,
   "inconnu": 0
  },
  "nouvelles": [
-  "qfap-127688",
-  "qfap-127792",
-  "qfap-127794",
-  "qfap-127621",
-  "qfap-125575",
-  "qfap-127825"
+  "qfap-127878"
  ],
  "avec_affluence": 63,
  "expositions": [
-  {
-   "id": "qfap-126490",
-   "titre": "Corps & accords",
-   "resume": "Une exposition du 2 au 20 novembre qui met en lumière les élèves du Conservatoire Hector Berlioz !",
-   "debut": "2026-11-02",
-   "fin": "2026-11-20",
-   "horaires": "Du lundi 02 novembre 2026 au vendredi 20 novembre 2026 :",
-   "lieu": "Mairie du 10e arrondissement",
-   "adresse": "72 Rue du Faubourg Saint-Martin, 75010 Paris",
-   "lat": 48.871785,
-   "lon": 2.357383,
-   "thematiques": [
-    "Autres"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/23/huge-afbd4443901a6b4ae3da1b905e9c30ee.jpg",
-   "lien": "https://www.paris.fr/evenements/corps-accords-126490",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-126662",
-   "titre": "Créer à l’heure de l’IA : peut-on innover sans sacrifier le vivant ?",
-   "resume": "Dans le cadre du festival d’art engagé Vivant·e, cette table ronde invite à repenser notre rapport à la création à l’heure de l’intelligence artificielle. Alors que l’IA bouleverse le secteur créatif, quels sont ses impacts sur l’environnement et quelles questions soulève-t-elle pour l’avenir du vivant ? Une invitation à imaginer de nouvelles façons de créer, où l’innovation ne se ferait plus au d",
-   "debut": "2026-11-20",
-   "fin": "2026-11-20",
-   "horaires": "Le vendredi 20 novembre 2026 de 18h30 à 20h30",
-   "lieu": "Galerie Joseph",
-   "adresse": "8, square Sainte-Croix de la Bretonnerie, 75004 Paris",
-   "lat": 48.8584299845893,
-   "lon": 2.35471699496486,
-   "thematiques": [
-    "Sciences & nature"
-   ],
-   "tarif": {
-    "type": "payant",
-    "detail": "Prix Libre à partir de 10 euros.",
-    "prix_min": 10.0,
-    "reservation": true,
-    "billetterie": "https://my.weezevent.com/vivantes-4?_gl=1*6xrqlx*_gcl_au*ODY4MDk1NjE4LjE3ODgzNTA3MjIuNTQ1ODgzNzkxLjE3OTA1OTQ0NTguMTc5MDU5NDQ1Ny42NzY0MjE1NS4xNzkwNTkwODIxLjE3OTA1OTQ0NTc.*_ga*MTc2NTA5NTEzOC4xNzg4MzUwNzIy*_ga_39H9VBFX7G*czE3OTA1OTA4MTkkbzYkZzEkdDE3OTA1OTQ3NjYkajIxJGwwJGgzNjYzNDM5MzY"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/27/huge-1822ebae66c7f409b0c76a7255d927c3.jpg",
-   "lien": "https://www.paris.fr/evenements/creer-a-l-heure-de-l-ia-peut-on-innover-sans-sacrifier-le-vivant-126662",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-126796",
-   "titre": "Hors-pistes. Exposition collective",
-   "resume": "Une exposition collective qui donne à voir une dizaine de regards sur les mondes possibles et les futurs jamais advenus.",
-   "debut": "2026-11-14",
-   "fin": "2026-11-20",
-   "horaires": "Du samedi 14 novembre 2026 au vendredi 20 novembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 16h00 à 19h00",
-   "lieu": "MAGMA",
-   "adresse": "16, rue Berthollet, 94110 Arcueil",
-   "lat": 48.8037819875422,
-   "lon": 2.3308630205369,
-   "thematiques": [
-    "Art contemporain",
-    "Société & monde"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0,
-    "billetterie": "https://www.instagram.com/magma.arcueil94/"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/29/huge-4bc6f8ba7f613ebeaaea895355c072c7.jpg",
-   "lien": "https://www.paris.fr/evenements/hors-pistes-exposition-collective-126796",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
   {
    "id": "qfap-123986",
    "titre": "Derniers jours de l'expo « Entre deux vertiges » de Gloria Friedmann",
@@ -2524,7 +2442,7 @@
    "resume": "Dans l’obscurité… à la lueur des lampes à carbure, explorez les égouts du passé.",
    "debut": "2026-11-20",
    "fin": "2026-12-18",
-   "horaires": "Le vendredi 18 décembre 2026 de à Le vendredi 20 novembre 2026 de à",
+   "horaires": "Le vendredi 18 décembre 2026 de à",
    "lieu": "Musée des égouts de Paris",
    "adresse": "Pont de l'Alma, 75007 Paris",
    "lat": 48.86295,
@@ -3063,6 +2981,31 @@
    "lien": "https://www.paris.fr/evenements/chris-lovasoa-kauffmann-mammoth-steps-125776",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127878",
+   "titre": "Exposition solo « La gravité ascendante » : Xia JiQing",
+   "resume": "LooLooLook Gallery présente « La gravité ascendante » , la première exposition personnelle à Paris de l’artiste chinois Xia JiQing. Inscrite dans le projet curatorial indépendant 2026–2027 de la galerie, l’exposition réunit des œuvres où le charbon de bois, matière transformée par le feu, devient un élément de construction. Par ses reliefs, ses textures et ses formes géométriques, l’artiste explor",
+   "debut": "2026-12-03",
+   "fin": "2026-12-24",
+   "horaires": "Du jeudi 03 décembre 2026 au jeudi 24 décembre 2026 : lundi, mardi, jeudi, vendredi, samedi de 11h00 à 19h00",
+   "lieu": "LooLooLook Gallery",
+   "adresse": "12 rue de la Sourdière, 75001 Paris",
+   "lat": 48.8656550174885,
+   "lon": 2.33207202625093,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts",
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/19/huge-d343a11d8d09c183866400149d161e23.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-solo-la-gravite-ascendante-xia-jiqing-127878",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-21"
   },
   {
    "id": "qfap-116280",
@@ -5461,7 +5404,7 @@
     "reservation": true,
     "billetterie": "https://www.mam.paris.fr/fr/expositions/exposition-simone-fattal"
    },
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/18/huge-00e7f9ccb670b6f1c546fa46404f986e.jpg",
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/20/huge-98148c224658d94ab9a0f05bd7485d3d.jpg",
    "lien": "https://www.paris.fr/evenements/simone-fattal-des-villes-au-fond-d-un-lac-117749",
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
@@ -7697,8 +7640,8 @@
   },
   {
    "id": "qfap-118174",
-   "titre": "De la vigne au verre. Le vin chez Balzac",
-   "resume": "Omniprésent dans la société du XIXe siècle, le vin s’impose comme un motif récurrent dans l’œuvre de Balzac : il raconte une époque, révèle les ambitions sociales et accompagne les plaisirs comme les excès. L’exposition « De la vigne au verre. Le vin chez Balzac », présentée par la Maison de Balzac, met en lumière cette présence foisonnante du vin dans l’univers balzacien.",
+   "titre": "De la vigne au verre. Le vin chez Balzac.",
+   "resume": "Omniprésent dans la société du XIXème siècle, le vin s’impose comme un motif récurrent dans l’œuvre de Balzac : il raconte une époque, révèle les ambitions sociales et accompagne les plaisirs comme les excès. L’exposition « De la vigne au verre. « Le vin chez Balzac », présentée par la Maison de Balzac, met en lumière cette présence foisonnante du vin dans l’univers balzacien.",
    "debut": "2026-11-26",
    "fin": "2027-04-06",
    "horaires": "Du jeudi 26 novembre 2026 au mardi 06 avril 2027 :",
@@ -7714,7 +7657,7 @@
     "type": "payant",
     "detail": "&nbsp;Tarif plein : 11 € / réduit : 9 €",
     "prix_min": 9.0,
-    "billetterie": "https://www.maisondebalzac.paris.fr/expositions/de-la-vigne-au-verre-le-vin-chez-balzac"
+    "billetterie": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229772707614"
    },
    "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-4a20c3011c3eb64ef08bbed78b8a32a5.png",
    "lien": "https://www.paris.fr/evenements/de-la-vigne-au-verre-le-vin-chez-balzac-118174",

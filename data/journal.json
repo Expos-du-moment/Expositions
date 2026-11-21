@@ -253,5 +253,15 @@
    "Musée national du Patriarcat : la troisième édition de retour à Paris !",
    "Journée contre les violences faites aux femmes"
   ]
+ },
+ {
+  "jour": "2026-11-21",
+  "total": 339,
+  "ajoutees": 1,
+  "retirees": 3,
+  "api_ok": true,
+  "titres_ajoutes": [
+   "Exposition solo « La gravité ascendante » : Xia JiQing"
+  ]
  }
 ]
