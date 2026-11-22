@@ -1,277 +1,19 @@
 {
- "genere": "2026-11-21T06:34:13+00:00",
- "jour": "2026-11-21",
+ "genere": "2026-11-22T06:32:00+00:00",
+ "jour": "2026-11-22",
  "api_ok": true,
- "total": 339,
+ "total": 330,
  "par_tarif": {
-  "gratuit": 185,
-  "gratuit_sous_condition": 11,
-  "payant": 143,
+  "gratuit": 178,
+  "gratuit_sous_condition": 10,
+  "payant": 142,
   "inconnu": 0
  },
  "nouvelles": [
-  "qfap-127878"
+  "qfap-127962"
  ],
  "avec_affluence": 63,
  "expositions": [
-  {
-   "id": "qfap-123986",
-   "titre": "Derniers jours de l'expo « Entre deux vertiges » de Gloria Friedmann",
-   "resume": "L'artiste Gloria Friedmann à Transfo - Emmaüs Solidarité pour l'exposition « Entre deux vertiges ».",
-   "debut": "2026-09-25",
-   "fin": "2026-11-21",
-   "horaires": "Du vendredi 25 septembre 2026 au samedi 21 novembre 2026 : mardi, mercredi, vendredi, samedi de 14h00 à 19h00 jeudi de 14h00 à 21h00",
-   "lieu": "Transfo",
-   "adresse": "36 rue Jacques Louvel-Tessier, 75010 Paris",
-   "lat": 48.8715290133243,
-   "lon": 2.37135901226259,
-   "thematiques": [
-    "Art contemporain"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/12/huge-12b267ba7df22fd6545711d7257105c8.jpg",
-   "lien": "https://www.paris.fr/evenements/entre-deux-vertiges-gloria-friedmann-123986",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-125326",
-   "titre": "Exposition « Ce qui nous restera »",
-   "resume": "Ce qui nous restera. Le festival des fierté·es réunit une dizaine d’artistes de la communauté LGBTQIA+ autour de la transmission et de la mémoire, intime ou collective.",
-   "debut": "2026-10-21",
-   "fin": "2026-11-21",
-   "horaires": "Du mercredi 21 octobre 2026 au samedi 21 novembre 2026 : jeudi, vendredi de 16h00 à 21h00 mercredi, samedi de 12h00 à 19h00",
-   "lieu": "La Roche",
-   "adresse": "15, avenue du Général Leclerc, 75014 Paris",
-   "lat": 48.8323680073174,
-   "lon": 2.33106502440342,
-   "thematiques": [
-    "Art contemporain",
-    "Histoire & patrimoine"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-050f223ad551d3286f216fc2f4366513.jpeg",
-   "lien": "https://www.paris.fr/evenements/exposition-ce-qui-nous-restera-125326",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-123682",
-   "titre": "Expositions \"Dans une composition, une fleur est une personne\"",
-   "resume": "A l'occasion de la venue de Iemoto Akane Teshigahara, grand maître de l’École Sogetsu, la MCJP propose deux expositions d'ikebana aux couleurs d'automne.",
-   "debut": "2026-11-17",
-   "fin": "2026-11-21",
-   "horaires": "Du mardi 17 novembre 2026 au samedi 21 novembre 2026 : mardi, mercredi, jeudi, vendredi, samedi de 11h00 à 19h00",
-   "lieu": "Maison de la culture du Japon à Paris",
-   "adresse": "101 bis Quai Jacques Chirac, 75015 Paris",
-   "lat": 48.8547789952042,
-   "lon": 2.28934200587187,
-   "thematiques": [
-    "Beaux-arts",
-    "Sciences & nature"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "Entrée libre",
-    "prix_min": 0,
-    "billetterie": "https://www.mcjp.fr/fr/la-mcjp/actualites/dans-une-composition-une-fleur-est-une-personne-expo"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/11/huge-b1e3de8041530d727039f0c5aa9046ae.jpg",
-   "lien": "https://www.paris.fr/evenements/expositions-dans-une-composition-une-fleur-est-une-personne-123682",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-124510",
-   "titre": "La SLOW Galerie fête les 1 an de son espace Luxembourg !",
-   "resume": "Pour célébrer le premier anniversaire de son adresse rive gauche, la SLOW Galerie présente l'exposition \"Un petit coin de paradis\" avec une sélection d'œuvres qui composent autant d'espaces où se réfugier : paysages réconfortants, architectures rêvées, scènes de lenteur ou jardins imaginaires. Des images habitées par le calme et la présence, pensées comme des invitations à ralentir et à se reconne",
-   "debut": "2026-09-24",
-   "fin": "2026-11-21",
-   "horaires": "Du jeudi 24 septembre 2026 au samedi 21 novembre 2026 :",
-   "lieu": "SLOW Galerie Luxembourg",
-   "adresse": "60 rue Monsieur le Prince, 75006 Paris",
-   "lat": 48.8480609836281,
-   "lon": 2.34072600600342,
-   "thematiques": [
-    "Art contemporain",
-    "Sciences & nature",
-    "Architecture & ville"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0,
-    "billetterie": "https://www.slowgalerie.com/fr/news/un-petit-coin-de-paradis-exposition-collective-n96"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/21/huge-7ba2cdff45295e58d628024f39f59ffc.jpeg",
-   "lien": "https://www.paris.fr/evenements/la-slow-galerie-fete-les-1-an-de-son-espace-luxembourg-124510",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-126883",
-   "titre": "Lucky Jim : James Barnor",
-   "resume": "Sept ans après la dernière exposition de James Barnor à la galerie, le photographe, âgé de 97 ans, continue de nous surprendre.",
-   "debut": "2026-09-24",
-   "fin": "2026-11-21",
-   "horaires": "Du jeudi 24 septembre 2026 au samedi 21 novembre 2026 : mardi, mercredi, jeudi, vendredi, samedi de 11h00 à 19h00",
-   "lieu": "Galerie Clémentine de la Féronnière",
-   "adresse": "51, rue Saint-Louis en l'Île, 75004 Paris",
-   "lat": 48.8521259971206,
-   "lon": 2.3555939934941,
-   "thematiques": [
-    "Photographie"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0,
-    "billetterie": "https://www.galerieclementinedelaferonniere.fr/fr/exhibitions/62-lucky-jim-james-barnor/"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-b40b5c949044397746ad5f444ec01c77.png",
-   "lien": "https://www.paris.fr/evenements/lucky-jim-james-barnor-126883",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-124421",
-   "titre": "Manger et être mangé : retour sur un projet mené en détention",
-   "resume": "Avec la Petite Bibliothèque Ronde de Clamart, et des intervenants culturels du projet réalisé au Centre pénitentiaire sud-Francilien, avec un groupe de 11 femmes et hommes détenus",
-   "debut": "2026-11-21",
-   "fin": "2026-11-21",
-   "horaires": "Le samedi 21 novembre 2026 de 16h30 à 18h00",
-   "lieu": "Médiathèque Françoise Sagan",
-   "adresse": "8 rue Léon Schwartzenberg, 75010 Paris",
-   "lat": 48.8754299929717,
-   "lon": 2.35366699395405,
-   "thematiques": [
-    "Autres"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "Inscription en ligne sur billetweb, par téléphone ou sur place auprès des bibliothécaires.",
-    "prix_min": 0,
-    "reservation": true,
-    "billetterie": "https://www.billetweb.fr/manger-et-etre-mange-retour-sur-un-projet-mene-en-detention"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/20/huge-0dc468073657248fd783650b5b8a77b1.jpg",
-   "lien": "https://www.paris.fr/evenements/manger-et-etre-mange-retour-sur-un-projet-mene-en-detention-124421",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-126886",
-   "titre": "Paper Routes",
-   "resume": "Dans le cadre de la célébration de son 10e anniversaire, L’AiR Arts présente Paper Routes, une exposition réunissant d’anciens résidents et mettant en lumière les valeurs fondatrices de l’association, fondées sur la création de liens à travers l’art, tout en rendant hommage à la résilience et à la détermination collective. Merci d’enrichir le parcours de L’AiR Arts et de contribuer à l’essor de no",
-   "debut": "2026-11-17",
-   "fin": "2026-11-21",
-   "horaires": "Du mardi 17 novembre 2026 au samedi 21 novembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 17h00 à 19h00",
-   "lieu": "Atelier 11",
-   "adresse": "11 Cité Falguière, 75015 Paris",
-   "lat": 48.8406680192988,
-   "lon": 2.31207900788266,
-   "thematiques": [
-    "Art contemporain"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0,
-    "reservation": true,
-    "billetterie": "https://www.helloasso.com/associations/l-air-arts/evenements/paper-routes"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-ed7b42e546ca92fbbd0e325a74ec8aa5.jpg",
-   "lien": "https://www.paris.fr/evenements/paper-routes-126886",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-127049",
-   "titre": "Récits d’ogresses avec la Cour des Contes",
-   "resume": "Suivez les pas de Guillermo du collectif La Cour des Contes, pour découvrir autrement l’exposition Le bal des Ogresses.",
-   "debut": "2026-11-21",
-   "fin": "2026-11-21",
-   "horaires": "Le samedi 21 novembre 2026 de 16h00 à 17h30",
-   "lieu": "Institut des Cultures d'Islam (ICI)",
-   "adresse": "19 rue Léon, 75018 Paris",
-   "lat": 48.887787,
-   "lon": 2.353435,
-   "thematiques": [
-    "Art contemporain"
-   ],
-   "tarif": {
-    "type": "gratuit_sous_condition",
-    "prix_min": 0,
-    "reservation": true,
-    "billetterie": "https://www.billetweb.fr/shop.php?event=recits-d-ogresses-avec-la-cour-des-contes&ref=recits-d-ogresses-avec-la-cour-des-contes&margin="
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/04/huge-8c0bdee446b9b9e363de297f3290b3a2.jpg",
-   "lien": "https://www.paris.fr/evenements/recits-d-ogresses-avec-la-cour-des-contes-127049",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-19"
-  },
-  {
-   "id": "qfap-123834",
-   "titre": "Salon Artisans d'Excellence 3e Edition",
-   "resume": "Trois jours face aux gestes rares - le salon des métiers des arts décoratifs revient à Paris pour une troisième édition.",
-   "debut": "2026-11-19",
-   "fin": "2026-11-21",
-   "horaires": "Du jeudi 19 novembre 2026 au samedi 21 novembre 2026 : samedi de 10h00 à 18h00 jeudi, vendredi de 10h00 à 19h00",
-   "lieu": "Palais de la Porte Dorée",
-   "adresse": "293 avenue Daumesnil, 75012 Paris",
-   "lat": 48.8346379943353,
-   "lon": 2.40958602279872,
-   "thematiques": [
-    "Art contemporain",
-    "Design, mode & arts déco"
-   ],
-   "tarif": {
-    "type": "payant",
-    "detail": "Gratuit pour les professionnels et les étudiants. Tarif grand public 25€",
-    "prix_min": 25.0,
-    "reservation": true,
-    "billetterie": "https://artisansdexcellence.fr/"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/14/huge-5414d145f7bc6998e974ecdc36795294.jpg",
-   "lien": "https://www.paris.fr/evenements/salon-artisans-d-excellence-3e-edition-123834",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-126034",
-   "titre": "Thủy Tiên Nguyễn: Quel mois sommes-nous, mon amour?",
-   "resume": "À partir des débuts méconnus de Paris By Night tournés à Paris, Thủy Tiên Nguyễn compose une exposition où sculpture, mouvement et mémoire s'entrelacent. La Galerie Bao devient le théâtre d'une histoire suspendue, traversée par les récits de la diaspora vietnamienne et les cycles persistants du souvenir.",
-   "debut": "2026-10-16",
-   "fin": "2026-11-21",
-   "horaires": "Du vendredi 16 octobre 2026 au samedi 21 novembre 2026 : mercredi, jeudi, vendredi, samedi de 11h00 à 19h00",
-   "lieu": "Galerie Bao",
-   "adresse": "49 avenue Parmentier, 75011 Paris",
-   "lat": 48.8630819827612,
-   "lon": 2.37596897519006,
-   "thematiques": [
-    "Art contemporain",
-    "Beaux-arts",
-    "Histoire & patrimoine"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0,
-    "reservation": true,
-    "billetterie": "https://www.galeriebao.com/programs/what-month-is-it-now-darling"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/14/huge-7fbc5f398579ff7c5264b5a6e1bf02f4.png",
-   "lien": "https://www.paris.fr/evenements/th-y-tien-nguy-n-quel-mois-sommes-nous-mon-amour-126034",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
   {
    "id": "qfap-125927",
    "titre": "Around the World, l'expo dédiée au Daft Punk",
@@ -1038,7 +780,7 @@
    "resume": "Découvrez l’univers de Babacar Badiane à travers ENSEMBLE’, une exposition présentée à Paris dans le cadre du OFF de la Biennale de Dakar 2026.",
    "debut": "2026-11-19",
    "fin": "2026-11-28",
-   "horaires": "Le samedi 21 novembre 2026 de 13h30 à 18h00 Du jeudi 19 novembre 2026 au lundi 30 novembre 2026 : samedi de 13h30 à 17h00 jeudi, vendredi de 14h30 à 18h00 mardi de 15h00 à 18h00",
+   "horaires": "Du jeudi 19 novembre 2026 au lundi 30 novembre 2026 : samedi de 13h30 à 17h00 jeudi, vendredi de 14h30 à 18h00 mardi de 15h00 à 18h00",
    "lieu": "Commune D'Aligre / Maison des ensembles",
    "adresse": "3-5 rue d'Aligre, 75012 Paris",
    "lat": 48.856578,
@@ -2000,6 +1742,30 @@
    "vu_le": "2026-11-11"
   },
   {
+   "id": "qfap-127962",
+   "titre": "Chansons de prisons : Avec les chœurs du conservatoire Hector Berlioz",
+   "resume": "Des chansons du conservatoire Hector Berlioz pour clore l'exposition \" Prisonnières \"",
+   "debut": "2026-12-11",
+   "fin": "2026-12-11",
+   "horaires": "Le vendredi 11 décembre 2026 de 19h00 à 21h00",
+   "lieu": "Médiathèque Françoise Sagan",
+   "adresse": "8 rue Léon Schwartzenberg, 75010 Paris",
+   "lat": 48.8754299929717,
+   "lon": 2.35366699395405,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/21/huge-52073dafc759d0c5d4fd8ce76501528c.png",
+   "lien": "https://www.paris.fr/evenements/chansons-de-prisons-avec-les-choeurs-du-conservatoire-hector-berlioz-127962",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-22"
+  },
+  {
    "id": "qfap-126427",
    "titre": "\"Denise Colomb\", une exposition du festival PhotoSaintGermain et du comité Denise Colomb",
    "resume": "Du 5 novembre au 5 décembre, le Ville de Paris, le festival PhotoSaintGermain et le comité Denise Colomb souhaitent faire découvrir aux Parisiennes et Parisiens le travail remarquable et encore trop méconnu de Denise Colomb.",
@@ -2030,7 +1796,7 @@
    "resume": "Un atelier en famille, à la découverte de la nouvelle exposition temporaire du musée Bourdelle",
    "debut": "2026-10-24",
    "fin": "2026-12-12",
-   "horaires": "Le samedi 12 décembre 2026 de 16h30 à 18h00 Le mercredi 25 novembre 2026 de 16h30 à 18h00 Le samedi 21 novembre 2026 de 16h30 à 18h00",
+   "horaires": "Le samedi 12 décembre 2026 de 16h30 à 18h00 Le mercredi 25 novembre 2026 de 16h30 à 18h00",
    "lieu": "Musée Bourdelle",
    "adresse": "18, rue Antoine Bourdelle, 75015 Paris",
    "lat": 48.842975,
@@ -2650,7 +2416,7 @@
    "resume": "Un atelier de modelage en famille autour de la nouvelle exposition temporaire du musée Bourdelle",
    "debut": "2026-10-24",
    "fin": "2026-12-19",
-   "horaires": "Le samedi 19 décembre 2026 de 14h00 à 16h00 Le samedi 12 décembre 2026 de 14h30 à 16h30 Le mercredi 25 novembre 2026 de 14h30 à 16h30 Le samedi 21 novembre 2026 de 14h30 à 16h30",
+   "horaires": "Le samedi 19 décembre 2026 de 14h00 à 16h00 Le samedi 12 décembre 2026 de 14h30 à 16h30 Le mercredi 25 novembre 2026 de 14h30 à 16h30",
    "lieu": "Musée Bourdelle",
    "adresse": "18, rue Antoine Bourdelle, 75015 Paris",
    "lat": 48.842975,
@@ -3065,7 +2831,7 @@
    "resume": "Une visite guidée en famille, à la découverte de la nouvelle exposition temporaire du musée Bourdelle",
    "debut": "2026-10-14",
    "fin": "2026-12-24",
-   "horaires": "Le jeudi 24 décembre 2026 de 15h00 à 16h30 Le mercredi 23 décembre 2026 de 16h00 à 17h30 Le mercredi 16 décembre 2026 de 16h00 à 17h30 Le mercredi 02 décembre 2026 de 16h00 à 17h30 Le samedi 28 novembre 2026 de 16h00 à 17h30 Le mercredi 25 novembre 2026 de 16h00 à 17h30 Le samedi 21 novembre 2026 de",
+   "horaires": "Le jeudi 24 décembre 2026 de 15h00 à 16h30 Le mercredi 23 décembre 2026 de 16h00 à 17h30 Le mercredi 16 décembre 2026 de 16h00 à 17h30 Le mercredi 02 décembre 2026 de 16h00 à 17h30 Le samedi 28 novembre 2026 de 16h00 à 17h30 Le mercredi 25 novembre 2026 de 16h00 à 17h30",
    "lieu": "Musée Bourdelle",
    "adresse": "18, rue Antoine Bourdelle, 75015 Paris",
    "lat": 48.842975,

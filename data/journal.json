@@ -263,5 +263,15 @@
   "titres_ajoutes": [
    "Exposition solo « La gravité ascendante » : Xia JiQing"
   ]
+ },
+ {
+  "jour": "2026-11-22",
+  "total": 330,
+  "ajoutees": 1,
+  "retirees": 10,
+  "api_ok": true,
+  "titres_ajoutes": [
+   "Chansons de prisons : Avec les chœurs du conservatoire Hector Berlioz"
+  ]
  }
 ]
