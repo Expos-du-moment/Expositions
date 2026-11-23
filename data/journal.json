@@ -273,5 +273,13 @@
   "titres_ajoutes": [
    "Chansons de prisons : Avec les chœurs du conservatoire Hector Berlioz"
   ]
+ },
+ {
+  "jour": "2026-11-23",
+  "total": 322,
+  "ajoutees": 0,
+  "retirees": 8,
+  "api_ok": true,
+  "titres_ajoutes": []
  }
 ]

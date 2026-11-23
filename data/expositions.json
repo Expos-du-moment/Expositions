@@ -1,222 +1,17 @@
 {
- "genere": "2026-11-22T06:32:00+00:00",
- "jour": "2026-11-22",
+ "genere": "2026-11-23T06:46:09+00:00",
+ "jour": "2026-11-23",
  "api_ok": true,
- "total": 330,
+ "total": 322,
  "par_tarif": {
-  "gratuit": 178,
+  "gratuit": 171,
   "gratuit_sous_condition": 10,
-  "payant": 142,
+  "payant": 141,
   "inconnu": 0
  },
- "nouvelles": [
-  "qfap-127962"
- ],
+ "nouvelles": [],
  "avec_affluence": 63,
  "expositions": [
-  {
-   "id": "qfap-125927",
-   "titre": "Around the World, l'expo dédiée au Daft Punk",
-   "resume": "Une exposition dédiée au début de Daft Punk se prépare à investir un espace de 500 m2 au coeur du Marais.",
-   "debut": "2026-11-20",
-   "fin": "2026-11-22",
-   "horaires": "Du vendredi 20 novembre 2026 au dimanche 22 novembre 2026 : vendredi, samedi, dimanche de 10h00 à 19h00",
-   "lieu": "7, rue de Bailly",
-   "adresse": "7, rue de Bailly, 75003 Paris",
-   "lat": 48.8649759995122,
-   "lon": 2.35639496816154,
-   "thematiques": [
-    "Photographie",
-    "Sciences & nature"
-   ],
-   "tarif": {
-    "type": "payant",
-    "detail": "8,66 euros.",
-    "prix_min": 8.66,
-    "reservation": true,
-    "billetterie": "https://www.aroundtheworldexpo.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAafJY5TbtwVt3Sp53VhYgsYaBl5J6HSKV9kAbo2zPZ6RtrXbwyOK5YqkCjMKzg_aem_1g8NW70axmhvh7CMDZufIg"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-c55f56091762a46ac68c8462a4bacf77.jpg",
-   "lien": "https://www.paris.fr/evenements/around-the-world-l-expo-dediee-au-daft-punk-125927",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-126022",
-   "titre": "EXPOSITION D'ART JAPONAIS",
-   "resume": "Exposition d'art japonais & broc'japan : pop up store vintage japonais.",
-   "debut": "2026-11-17",
-   "fin": "2026-11-22",
-   "horaires": "Du mardi 17 novembre 2026 au dimanche 22 novembre 2026 : dimanche de 14h00 à 18h00 mardi, mercredi, jeudi, vendredi, samedi de 14h00 à 21h00",
-   "lieu": "Galerie les Passeurs de Ruisseaux",
-   "adresse": "9-11 rue de Vintimille, 75009 Paris",
-   "lat": 48.8825199934107,
-   "lon": 2.32921103124005,
-   "thematiques": [
-    "Beaux-arts"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-a76d17e80b15e47bcb43c162d74ba2a6.jpg",
-   "lien": "https://www.paris.fr/evenements/exposition-d-art-japonais-126022",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-127174",
-   "titre": "Exposition d'art et ateliers : découvrez la beauté de voyager",
-   "resume": "Récits visuels de voyage : 4 regards, 4 médiums.",
-   "debut": "2026-11-20",
-   "fin": "2026-11-22",
-   "horaires": "Du vendredi 20 novembre 2026 au dimanche 22 novembre 2026 : dimanche de 11h00 à 17h00 samedi de 11h00 à 22h00 vendredi de 19h00 à 23h00",
-   "lieu": "Galerie Kurokami",
-   "adresse": "32 boulevard Saint-Marcel, 75005 Paris",
-   "lat": 48.8392060058374,
-   "lon": 2.35878598986136,
-   "thematiques": [
-    "Art contemporain",
-    "Société & monde"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0,
-    "reservation": true,
-    "billetterie": "https://ornellamarcotullio.com/expotraversee/"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/05/huge-769183ec5766a769aee020791a958778.jpeg",
-   "lien": "https://www.paris.fr/evenements/exposition-d-art-et-ateliers-decouvrez-la-beaute-de-voyager-127174",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-07"
-  },
-  {
-   "id": "qfap-127414",
-   "titre": "Exposition de peinture de Joël Denece à l’Espace 7",
-   "resume": "Du 16 au 22 novembre 2026, découvrez les peintures de Joël Denece à l’Espace 7, près de la Bastille. Entrée libre.",
-   "debut": "2026-11-16",
-   "fin": "2026-11-22",
-   "horaires": "Du lundi 16 novembre 2026 au dimanche 22 novembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 14h00 à 20h00",
-   "lieu": "Espace 7",
-   "adresse": "7 rue Saint-Sabin, 75011 Paris",
-   "lat": 48.856578,
-   "lon": 2.351828,
-   "thematiques": [
-    "Beaux-arts"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-29776ff6300ae28d55842f310d0b0499.png",
-   "lien": "https://www.paris.fr/evenements/exposition-de-peinture-de-joel-denece-a-l-espace-7-127414",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-13"
-  },
-  {
-   "id": "qfap-125666",
-   "titre": "Exposition solo « Reliefs » : Sophie Bloch",
-   "resume": "LooLooLook Gallery, galerie d’art contemporain située dans le 1er arrondissement de Paris, présente l’exposition personnelle de Sophie Bloch dans le cadre d’Une semaine de galerie, organisée par le CPGA du 15 octobre au 22 novembre 2026.",
-   "debut": "2026-10-15",
-   "fin": "2026-11-22",
-   "horaires": "Du jeudi 15 octobre 2026 au dimanche 22 novembre 2026 :",
-   "lieu": "LooLooLook Gallery",
-   "adresse": "12 rue de la sourdière, 75001 Paris",
-   "lat": 48.856578,
-   "lon": 2.351828,
-   "thematiques": [
-    "Art contemporain"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "Entrée libre. Rendez-vous privés sur demande.",
-    "prix_min": 0,
-    "billetterie": "http://www.looloolook.com/"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/08/huge-13a7dacb112a9b1dd5364fa688b9a8ed.jpg",
-   "lien": "https://www.paris.fr/evenements/exposition-solo-reliefs-sophie-bloch-125666",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-127577",
-   "titre": "La semaine de l'industrie au Musée des Egouts !",
-   "resume": "Une journée gratuite sous le quai d’Orsay. Le 22 novembre, le Musée des Égouts de Paris ouvre ses portes gratuitement dans le cadre de la semaine de l'industrie. L’accès est libre, sans réservation, de 10 h à 17 h (dernier accès à 16 h), sur l’esplanade Habib-Bourguiba, près du pont de l’Alma (7ᵉ arrondissement).",
-   "debut": "2026-11-22",
-   "fin": "2026-11-22",
-   "horaires": "Le dimanche 22 novembre 2026 de 10h00 à 17h00",
-   "lieu": "Musée des égouts de Paris",
-   "adresse": "Pont de l'Alma, 75007 Paris",
-   "lat": 48.86295,
-   "lon": 2.3018,
-   "thematiques": [
-    "Sciences & nature"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0,
-    "billetterie": "https://musee-egouts.paris.fr/preparer/"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/02/21/huge-44a8c68539200fbfaf3eea8f05a1fc89.jpg",
-   "lien": "https://www.paris.fr/evenements/la-semaine-de-l-industrie-au-musee-des-egouts-127577",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-17"
-  },
-  {
-   "id": "qfap-126768",
-   "titre": "Vies minuscules, des vies à la Bpi",
-   "resume": "La Bibliothèque publique d’information propose pendant trois semaines une programmation en résonance avec l’exposition Vies minuscules du Centre Pompidou au Panthéon, en partenariat avec le Centre des Monuments nationaux.",
-   "debut": "2026-11-04",
-   "fin": "2026-11-22",
-   "horaires": "Du mercredi 04 novembre 2026 au dimanche 22 novembre 2026 :",
-   "lieu": "Bibliothèque publique d'information",
-   "adresse": "40, avenue des Terroirs de France, 75012 Paris",
-   "lat": 48.8319119898751,
-   "lon": 2.38867602422306,
-   "thematiques": [
-    "Autres"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "Certaines rencontres et ateliers sont sur réservation.&nbsp;",
-    "prix_min": 0,
-    "billetterie": "https://www.eventbrite.fr/o/31432118361?_gl=1*2tadkx*_up*MQ..*_ga*MjEyMTk1NjM3OC4xNzkzMjY2MDQx*_ga_TQVES5V6SH*czE3OTMyNjYwNDAkbzEkZzAkdDE3OTMyNjYwNDAkajYwJGwwJGgw&aff=ebdsshcopyurl"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/29/huge-972eb0073b83df96b18fd3871f140591.jpg",
-   "lien": "https://www.paris.fr/evenements/vies-minuscules-des-vies-a-la-bpi-126768",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-115054",
-   "titre": "Walid Raad - Festival of (in)gratitude",
-   "resume": "L’artiste américano-libanais Walid Raad expose une sélection d’œuvres récentes, enracinées dans les guerres qui secouent le Moyen-Orient depuis 40 ans. Une déambulation au cœur de photographies, collages, dessins, textes, sculptures et vidéos, commentés par leur auteur.",
-   "debut": "2026-10-23",
-   "fin": "2026-11-22",
-   "horaires": "Du vendredi 23 octobre 2026 au dimanche 22 novembre 2026 : samedi, dimanche de 14h00 à 17h00 mercredi, jeudi, vendredi de 15h00 à 18h00",
-   "lieu": "Le CENTQUATRE-PARIS (104)",
-   "adresse": "5 Rue Curial, 75019 Paris",
-   "lat": 48.889982,
-   "lon": 2.37143379999998,
-   "thematiques": [
-    "Photographie",
-    "Art contemporain",
-    "Beaux-arts",
-    "Histoire & patrimoine"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "Visite performée sous réservation. Mercredi à vendredi : 18h Samedi &amp; dimanche : 17h &amp; 18h30 Installation vidéo en français et en anglais.",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/06/29/huge-5373d044dcf1fbd021cdd33d4b9d2f17.jpeg",
-   "lien": "https://www.paris.fr/evenements/walid-raad-festival-of-in-gratitude-115054",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
   {
    "id": "qfap-126423",
    "titre": "Vivant·e : un festival d'art engagé pour faire fleurir de nouveaux imaginaires !",
@@ -608,7 +403,7 @@
    "resume": "De la Nouvelle-Calédonie au Cap Vert en passant par Lanzarote, la Galice, le Cap Vert, La Réunion représentées dans une centaine d'œuvres à L'Ephémère Galerie dans le 5ème arrondissement à Paris.",
    "debut": "2026-11-19",
    "fin": "2026-11-28",
-   "horaires": "Du jeudi 19 novembre 2026 au samedi 28 novembre 2026 : samedi de 11h30 à 18h30 lundi, mardi, mercredi, jeudi, vendredi de 15h00 à 18h30 Fermé le dimanche 22 novembre 2026",
+   "horaires": "Du jeudi 19 novembre 2026 au samedi 28 novembre 2026 : samedi de 11h30 à 18h30 lundi, mardi, mercredi, jeudi, vendredi de 15h00 à 18h30",
    "lieu": "L'Ephémère Galerie",
    "adresse": "12 rue Saint Victor, 75005 Paris",
    "lat": 48.8481899811179,
@@ -2501,7 +2296,7 @@
    "resume": "Un atelier textile pour coudre vos propres accessoires en famille",
    "debut": "2026-10-18",
    "fin": "2026-12-20",
-   "horaires": "Le dimanche 20 décembre 2026 de 10h30 à 12h30 Le dimanche 22 novembre 2026 de 10h30 à 12h30",
+   "horaires": "Le dimanche 20 décembre 2026 de 10h30 à 12h30",
    "lieu": "Musée Bourdelle",
    "adresse": "18, rue Antoine Bourdelle, 75015 Paris",
    "lat": 48.842975,
@@ -2975,7 +2770,7 @@
    "resume": "Après une découverte de l'exposition temporaire « L’étoffe de l’artiste », réalisez la silhouette de votre artiste !",
    "debut": "2026-10-11",
    "fin": "2026-12-29",
-   "horaires": "Le mardi 29 décembre 2026 de 10h30 à 12h00 Le dimanche 27 décembre 2026 de 14h30 à 16h00 Le mardi 22 décembre 2026 de 10h30 à 12h00 Le dimanche 20 décembre 2026 de 14h30 à 16h00 Le dimanche 06 décembre 2026 de 14h30 à 16h00 Le dimanche 29 novembre 2026 de 14h30 à 16h00 Le dimanche 22 novembre 2026 d",
+   "horaires": "Le mardi 29 décembre 2026 de 10h30 à 12h00 Le dimanche 27 décembre 2026 de 14h30 à 16h00 Le mardi 22 décembre 2026 de 10h30 à 12h00 Le dimanche 20 décembre 2026 de 14h30 à 16h00 Le dimanche 06 décembre 2026 de 14h30 à 16h00 Le dimanche 29 novembre 2026 de 14h30 à 16h00",
    "lieu": "Musée Bourdelle",
    "adresse": "18, rue Antoine Bourdelle, 75015 Paris",
    "lat": 48.842975,
@@ -3009,7 +2804,7 @@
    "resume": "Un atelier textile en famille, à la découverte de la technique du \"punch needle\"",
    "debut": "2026-10-11",
    "fin": "2026-12-30",
-   "horaires": "Le mercredi 30 décembre 2026 de 10h30 à 12h30 Le dimanche 27 décembre 2026 de 16h00 à 18h00 Le mercredi 23 décembre 2026 de 10h30 à 12h30 Le dimanche 20 décembre 2026 de 16h00 à 18h00 Le dimanche 06 décembre 2026 de 16h00 à 18h00 Le dimanche 29 novembre 2026 de 16h00 à 18h00 Le dimanche 22 novembre ",
+   "horaires": "Le mercredi 30 décembre 2026 de 10h30 à 12h30 Le dimanche 27 décembre 2026 de 16h00 à 18h00 Le mercredi 23 décembre 2026 de 10h30 à 12h30 Le dimanche 20 décembre 2026 de 16h00 à 18h00 Le dimanche 06 décembre 2026 de 16h00 à 18h00 Le dimanche 29 novembre 2026 de 16h00 à 18h00",
    "lieu": "Musée Bourdelle",
    "adresse": "18, rue Antoine Bourdelle, 75015 Paris",
    "lat": 48.842975,
