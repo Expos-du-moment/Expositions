@@ -281,5 +281,16 @@
   "retirees": 8,
   "api_ok": true,
   "titres_ajoutes": []
+ },
+ {
+  "jour": "2026-11-24",
+  "total": 319,
+  "ajoutees": 2,
+  "retirees": 5,
+  "api_ok": true,
+  "titres_ajoutes": [
+   "Paris 1871 - La Commune, soulèvement et insurrection",
+   "Marie-Clémence Ducamp : Se souvenir, regarder et espérer"
+  ]
  }
 ]
