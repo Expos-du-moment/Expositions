@@ -1,71 +1,35 @@
 {
- "genere": "2026-11-24T06:31:03+00:00",
- "jour": "2026-11-24",
+ "genere": "2026-11-25T06:31:48+00:00",
+ "jour": "2026-11-25",
  "api_ok": true,
- "total": 319,
+ "total": 334,
  "par_tarif": {
-  "gratuit": 173,
-  "gratuit_sous_condition": 9,
-  "payant": 137,
+  "gratuit": 181,
+  "gratuit_sous_condition": 10,
+  "payant": 143,
   "inconnu": 0
  },
  "nouvelles": [
-  "qfap-128031",
-  "qfap-128027"
+  "qfap-127483",
+  "qfap-127972",
+  "qfap-128098",
+  "qfap-128022",
+  "qfap-127550",
+  "qfap-127945",
+  "qfap-128005",
+  "qfap-127988",
+  "qfap-116964",
+  "qfap-127259",
+  "qfap-127552",
+  "qfap-127573",
+  "qfap-128191",
+  "qfap-127551",
+  "qfap-128086",
+  "qfap-128190",
+  "qfap-127950"
  ],
- "avec_affluence": 59,
+ "avec_affluence": 64,
  "expositions": [
-  {
-   "id": "qfap-127635",
-   "titre": "3 femmes, 3 artistes",
-   "resume": "Dans le cadre de la semaine de lutte contre les violences faites aux femmes, sera mené le projet de street art féministe «3 femmes, 3 artistes».",
-   "debut": "2026-11-10",
-   "fin": "2026-11-24",
-   "horaires": "Du mardi 10 novembre 2026 au mardi 24 novembre 2026 : mardi, samedi de 09h30 à 17h30",
-   "lieu": "Centre socioculturel Maurice Noguès",
-   "adresse": "1/7, avenue de la Porte de Vanves, 75014 Paris",
-   "lat": 48.8260159915434,
-   "lon": 2.30463696751028,
-   "thematiques": [
-    "Street art & BD",
-    "Société & monde"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0,
-    "reservation": true,
-    "billetterie": "https://www.garidell14.org/"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/03/13/huge-d5d7ae51f4f67f1b50085461e707d979.jpg",
-   "lien": "https://www.paris.fr/evenements/3-femmes-3-artistes-127635",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-18"
-  },
-  {
-   "id": "qfap-127212",
-   "titre": "Festival Close-Up : Ville, Architecture et Paysage au cinéma",
-   "resume": "Festival International de cinéma sur la Ville et l'Architecture",
-   "debut": "2026-11-17",
-   "fin": "2026-11-24",
-   "horaires": "Du mardi 17 novembre 2026 au mardi 24 novembre 2026 :",
-   "lieu": "Médiathèque Marguerite Duras",
-   "adresse": "115, rue de Bagnolet, 75020 Paris",
-   "lat": 48.8598389825131,
-   "lon": 2.40322700813562,
-   "thematiques": [
-    "Architecture & ville"
-   ],
-   "tarif": {
-    "type": "payant",
-    "reservation": true,
-    "billetterie": "https://festivalcloseup.com/fr"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/06/huge-b19cff82b1d175358c3a99331aa22933.jpg",
-   "lien": "https://www.paris.fr/evenements/festival-close-up-ville-architecture-et-paysage-au-cinema-127212",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-07"
-  },
   {
    "id": "qfap-127825",
    "titre": "Journée contre les violences faites aux femmes dans le 12e",
@@ -117,8 +81,8 @@
   },
   {
    "id": "qfap-117382",
-   "titre": "Les humanités en formes : sciences humaines et sociales",
-   "resume": "Nouveaux formats éditoriaux, révolution de l'intelligence artificielle, transformations du dialogue science-société : le Grand Format 2026 de la FMSH propose une journée de rencontres et d'expériences pour explorer les nouvelles manières de créer, diffuser et partager les sciences humaines et sociales.",
+   "titre": "Les humanités en formes : sciences humaines et sociales [Programme modifié]",
+   "resume": "[En raison de blocages répétés de notre bâtiment, seule la soirée de lancement de la collection « 54 poche » peut être maintenue à 19h. Les sessions prévues en journée (Créer, Publier, Diffuser, Dialoguer) seront reportées à une date ultérieure.] Nouveaux formats éditoriaux, révolution de l'intelligence artificielle, transformations du dialogue science-société : le Grand Format 2026 de la FMSH pro",
    "debut": "2026-11-26",
    "fin": "2026-11-26",
    "horaires": "Le jeudi 26 novembre 2026 de 09h00 à 21h00",
@@ -220,6 +184,66 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-13"
+  },
+  {
+   "id": "qfap-127945",
+   "titre": "Monet, peindre le temps",
+   "resume": "Cent ans après la disparition de Claude Monet, une exposition à ce qui constitue peut-être le cœur de sa peinture : sa quête de l’instant. Avec la conférencière Sophie Bommart.",
+   "debut": "2026-11-27",
+   "fin": "2026-11-27",
+   "horaires": "Le vendredi 27 novembre 2026 de 12h30 à 14h30",
+   "lieu": "Musée de l'Orangerie",
+   "adresse": "Jardin des Tuileries, Place de la Concorde, 75001 Paris",
+   "lat": 48.8637249,
+   "lon": 2.3267029,
+   "thematiques": [
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Tarif : 32€",
+    "prix_min": 32.0,
+    "reservation": true,
+    "billetterie": "https://agedordefrance.fr/event/monet-peindre-le-temps/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/20/huge-4490d72d85b09af604d867b1fe48bd42.jpg",
+   "lien": "https://www.paris.fr/evenements/monet-peindre-le-temps-127945",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25",
+   "affluence": {
+    "visiteurs": 1198694,
+    "annee": 2024,
+    "lieu": "Musée de l'Orangerie",
+    "niveau": 2,
+    "score": 6.079,
+    "source": "Liste Wikipédia ; Orsay + Orangerie = 4 949 835 (communiqué officiel)"
+   }
+  },
+  {
+   "id": "qfap-127972",
+   "titre": "Quand l'art réécrit votre vie",
+   "resume": "Vernissage d'exposition collective. Découvrez un espace dédié à des tableaux symboliques incarnant des personnages du cinéma et l'Oracle d'art.",
+   "debut": "2026-11-27",
+   "fin": "2026-11-27",
+   "horaires": "Le vendredi 27 novembre 2026 de à",
+   "lieu": "Tatiana ANIKINA",
+   "adresse": "25 rue Lantiez, 75017 Paris",
+   "lat": 48.8950309897284,
+   "lon": 2.32375097569252,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts",
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/01/huge-8405e3e1a4f05cb0ba0e6394121b64d3.jpg",
+   "lien": "https://www.paris.fr/evenements/quand-l-art-reecrit-votre-vie-127972",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25"
   },
   {
    "id": "qfap-126493",
@@ -1119,6 +1143,32 @@
    "vu_le": "2026-11-20"
   },
   {
+   "id": "qfap-127259",
+   "titre": "Exposition : élans de solidarité envers les animaux",
+   "resume": "À travers des photographies, des dessins et des aquarelles, découvrez deux initiatives solidaires qui témoignent de l’engagement de femmes et d’hommes en faveur des animaux.",
+   "debut": "2026-12-01",
+   "fin": "2026-12-05",
+   "horaires": "Du mardi 01 décembre 2026 au samedi 05 décembre 2026 : samedi de 14h00 à 17h30 mardi, mercredi, jeudi, vendredi de 10h00 à 17h30",
+   "lieu": "Maison de l'animal en ville - Jane Goodall",
+   "adresse": "Chai de Bercy, 41 rue Paul Belmondo, 75012 Paris",
+   "lat": 48.836209,
+   "lon": 2.382589,
+   "thematiques": [
+    "Photographie",
+    "Beaux-arts",
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/23/huge-acbecef46018149fe6ae9499d33eb666.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-elans-de-solidarite-envers-les-animaux-127259",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25"
+  },
+  {
    "id": "qfap-117595",
    "titre": "Exposition de cartes pop-up et capsules sonores",
    "resume": "Découvrez la recette du bonheur : bien mélanger des bibliothécaires, des personnes vivant en structures d’hébergement, des associations solidaires, des artistes, vous, et les plats sont prêts !",
@@ -1562,6 +1612,31 @@
    "vu_le": "2026-11-22"
   },
   {
+   "id": "qfap-128022",
+   "titre": "QJ fête ses 5 ans & \"Quartier Libres\" fête ses 10 ans",
+   "resume": "Une soirée qui réunit expo photo, rencontres, escape game et DJ set.",
+   "debut": "2026-12-11",
+   "fin": "2026-12-11",
+   "horaires": "Le vendredi 11 décembre 2026 de 18h00 à 23h30",
+   "lieu": "QJ - Quartier Jeunes",
+   "adresse": "4, place du Louvre, 75001 Paris",
+   "lat": 48.860084,
+   "lon": 2.341064,
+   "thematiques": [
+    "Photographie"
+   ],
+   "tarif": {
+    "type": "gratuit_sous_condition",
+    "prix_min": 0,
+    "reservation": true,
+    "billetterie": "https://www.eventbrite.fr/e/billets-anniversaire-5-ans-de-qj-2005029897397?aff=oddtdtcreator"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/23/huge-7857ac5c9d3c3ffd2def0d32c00e5470.jpg",
+   "lien": "https://www.paris.fr/evenements/quartiers-libres-fete-10-ans-de-projets-portes-par-les-jeunes-128022",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25"
+  },
+  {
    "id": "qfap-126427",
    "titre": "\"Denise Colomb\", une exposition du festival PhotoSaintGermain et du comité Denise Colomb",
    "resume": "Du 5 novembre au 5 décembre, le Ville de Paris, le festival PhotoSaintGermain et le comité Denise Colomb souhaitent faire découvrir aux Parisiennes et Parisiens le travail remarquable et encore trop méconnu de Denise Colomb.",
@@ -1585,6 +1660,29 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-06"
+  },
+  {
+   "id": "qfap-127988",
+   "titre": "Affichez-vous les un·es les autres !",
+   "resume": "Grande expo-fête du collectif «Les affiches du mercredi» !",
+   "debut": "2026-12-12",
+   "fin": "2026-12-12",
+   "horaires": "Le samedi 12 décembre 2026 de 18h00 à 00h00",
+   "lieu": "Cirque Electrique",
+   "adresse": "Place du Maquis du Vercors, 75020 Paris",
+   "lat": 48.8777194,
+   "lon": 2.408857,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Prix libre"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/22/huge-dae8cc27a92355e4290d023085e4f59b.jpg",
+   "lien": "https://www.paris.fr/evenements/affichez-vous-les-un-es-les-autres-127988",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25"
   },
   {
    "id": "qfap-125442",
@@ -1826,6 +1924,26 @@
    "vu_le": "2026-11-24"
   },
   {
+   "id": "qfap-128190",
+   "titre": "Parcours des ateliers de céramique du 20e",
+   "resume": "Avec le mois de décembre, c'est le retour du parcours de Noël céramique dans les ateliers du 20e !",
+   "debut": "2026-12-12",
+   "fin": "2026-12-13",
+   "horaires": "Du samedi 12 décembre 2026 au dimanche 13 décembre 2026 : samedi, dimanche de 11h00 à 19h00",
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://collectifceramique20.fr/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/24/huge-b0e39396a53a897d913c90935b556c59.jpg",
+   "lien": "https://www.paris.fr/evenements/parcours-des-ateliers-de-ceramique-du-20e-128190",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25"
+  },
+  {
    "id": "qfap-125202",
    "titre": "Théâtre des Fleurs : exposition de portraits de fleurs monumentaux dans le Marais",
    "resume": "Une exposition gratuite de peintures florales monumentales, où fleurs, lumières colorées et ombres théâtrales métamorphosent le bouquet traditionnel.",
@@ -1923,6 +2041,31 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127483",
+   "titre": "Plongez-vous dans une collection majeure d’iconographie médiévale et de topographie",
+   "resume": "Dans le cadre de son année thématique consacrée aux dons, la bibliothèque Sainte‑Geneviève présente des ouvrages issus du don du spécialiste d’iconographie religieuse, Louis-Jean Guénebault.",
+   "debut": "2026-09-18",
+   "fin": "2026-12-15",
+   "horaires": "Du vendredi 18 septembre 2026 au mardi 15 décembre 2026 : lundi, mardi, mercredi, jeudi, vendredi de 14h00 à 18h00 samedi de 10h00 à 18h00",
+   "lieu": "Bibliothèque Sainte-Geneviève",
+   "adresse": "10 place du Panthéon, 75005 Paris",
+   "lat": 48.8469670195351,
+   "lon": 2.34587098581059,
+   "thematiques": [
+    "Histoire & patrimoine"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "reservation": true,
+    "billetterie": "https://affluences.com/fr/sites/bsg/reservation?type=5434"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-d6b594619e5ffeba989f835a2fb94192.jpg",
+   "lien": "https://www.paris.fr/evenements/plongez-vous-dans-une-collection-majeure-d-iconographie-medievale-et-de-topographie-127483",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25"
+  },
+  {
    "id": "qfap-126426",
    "titre": "\"Totalement composite\", une exposition de Sara Domenach et l'Association Parcours",
    "resume": "Du 16 novembre au 15 décembre, la Ville de Paris, l'association Parcours et l'artiste Sara Domenach souhaitent inviter les Parisiennes et Parisiens à découvrir une société française contemporaine, diverse et plurielle, et à ouvrir un dialogue entre patrimoine, institutions et société multiculturelle.",
@@ -1949,6 +2092,33 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127950",
+   "titre": "Exposition « Remember me » à la Bourse de Commerce",
+   "resume": "Une grande exposition collective de photos à découvrir à l'occasion du bicentenaire de l'art de la photographie.",
+   "debut": "2026-12-16",
+   "fin": "2026-12-16",
+   "horaires": "Le mercredi 16 décembre 2026 de 14h15 à 16h15",
+   "lieu": "Bourse du commerce",
+   "adresse": "2 place de Viarmes, 75002 Paris",
+   "lat": 48.8629459863822,
+   "lon": 2.34240003970564,
+   "thematiques": [
+    "Photographie"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Tarif : 22€",
+    "prix_min": 22.0,
+    "reservation": true,
+    "billetterie": "https://agedordefrance.fr/event/exposition-remember-me-a-la-bourse-de-commerce/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/20/huge-40e704f174008f618b4fc7af9fb119f6.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-remember-me-a-la-bourse-de-commerce-127950",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25"
   },
   {
    "id": "qfap-126203",
@@ -3090,6 +3260,32 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-128086",
+   "titre": "Exposition «Voyage en pays inconnu» de Francis Lacombe au Centre Paris Anim' Maurice Ravel",
+   "resume": "Du 30 novembre au 31 décembre, la galerie du CPA Maurice Ravel accueille l'exposition Voyage en pays inconnu de Francis Lacombe. Une invitation à ralentir et à explorer le merveilleux.",
+   "debut": "2026-11-30",
+   "fin": "2026-12-31",
+   "horaires": "Du lundi 30 novembre 2026 au jeudi 31 décembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 09h00 à 21h00",
+   "lieu": "Centre Paris Anim' Maurice Ravel",
+   "adresse": "6 avenue Maurice Ravel, 75012 Paris",
+   "lat": 48.84156,
+   "lon": 2.411535,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts",
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/24/huge-14551f100d6bfe6bb1beafaa5e6228f6.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-voyage-en-pays-inconnu-de-francis-lacombe-au-centre-paris-anim-maurice-ravel-128086",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25"
+  },
+  {
    "id": "qfap-124394",
    "titre": "L'exposition Crottes de bêtes !",
    "resume": "Venez découvrir le travail d'Emilie Vanvolsem, illustratrice aux éditions du Ricochet",
@@ -3249,6 +3445,30 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-128098",
+   "titre": "Partout et nulle part : exposition photographique",
+   "resume": "Dans le cadre de la Journée internationale pour l’élimination des violences faites aux femmes et jusqu'à la fin de l'année, l'Agence MYOP et la Mairie du 18ème investissent le pont Marcadet et proposent une exposition de Zen Lefort sur les lieux de féminicides.",
+   "debut": "2026-11-25",
+   "fin": "2026-12-31",
+   "horaires": "Du mercredi 25 novembre 2026 au jeudi 31 décembre 2026 :",
+   "lieu": "Pont Marcadet",
+   "adresse": "22 Rue Ordener, 75018 Paris",
+   "lat": 48.8904470107008,
+   "lon": 2.35665497479803,
+   "thematiques": [
+    "Photographie"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/24/huge-22ff19bbb12b8b7f72252d0ee41393a6.png",
+   "lien": "https://www.paris.fr/evenements/partout-et-nulle-part-exposition-photographique-128098",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25"
+  },
+  {
    "id": "qfap-124565",
    "titre": "Planète Océan, Immersion vers les profondeurs à l’Atelier Des Lumières",
    "resume": "Plongez au cœur d’une aventure sous-marine grandiose et inédite à l’Atelier des Lumières ! À partir du 16 octobre, vivez une odyssée sensorielle et poétique de 50 minutes, des eaux de surface jusqu’aux profondeurs les plus mystérieuses. Une expérience immersive à 360° à vivre en famille ou entre amis dès les vacances de la Toussaint.",
@@ -3299,6 +3519,31 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-128005",
+   "titre": "Expo : Crèches du monde",
+   "resume": "Les Missions Etrangères de Paris exposent plus de 75 crèches.",
+   "debut": "2026-12-01",
+   "fin": "2027-01-02",
+   "horaires": "Du mardi 01 décembre 2026 au dimanche 03 janvier 2027 : mardi, mercredi, jeudi, vendredi, samedi de 10h00 à 18h00",
+   "lieu": "M128 - Missions Etrangères de Paris",
+   "adresse": "128 rue du Bac, 75007 Paris",
+   "lat": 48.8518200157451,
+   "lon": 2.32344595823596,
+   "thematiques": [
+    "Société & monde",
+    "Jeunesse"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://missionsetrangeres.com/evenement/creches-du-monde-6/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/23/huge-63b6bcff25f3f37d5bffef774c245f05.jpg",
+   "lien": "https://www.paris.fr/evenements/expo-creches-du-monde-128005",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25"
   },
   {
    "id": "qfap-126213",
@@ -3862,6 +4107,29 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-128191",
+   "titre": "Exposition \"Manger et être mangé\"",
+   "resume": "Exposition \"Manger et être mangé\". Accessible aux horaires d'ouverture de la bibliothèque.",
+   "debut": "2026-12-02",
+   "fin": "2027-01-07",
+   "horaires": "Du mercredi 02 décembre 2026 au jeudi 07 janvier 2027 :",
+   "lieu": "Bibliothèque Jacqueline Dreyfus-Weill",
+   "adresse": "6 rue Fessart, 75019 Paris",
+   "lat": 48.876269,
+   "lon": 2.388184,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/24/huge-f428eeef414e1eb471c1f6c815868233.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-manger-et-etre-mange-128191",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25"
   },
   {
    "id": "qfap-125975",
@@ -5247,6 +5515,32 @@
    }
   },
   {
+   "id": "qfap-127573",
+   "titre": "Exposition - Jordan Lyric",
+   "resume": "Exposition - Jordan Lyric au Collectif La Main.",
+   "debut": "2026-11-19",
+   "fin": "2027-01-31",
+   "horaires": "Du jeudi 19 novembre 2026 au dimanche 31 janvier 2027 :",
+   "lieu": "Collectif La Main",
+   "adresse": "42, rue de l'Amiral Roussin, 75015 Paris",
+   "lat": 48.8438179804216,
+   "lon": 2.29955401378663,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.instagram.com/jordanlyricart/"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/14/huge-aad0c3dd4c43da9f2183104275f32ec5.jpg",
+   "lien": "https://www.paris.fr/evenements/vernissage-et-expo-jordan-lyric-127573",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25"
+  },
+  {
    "id": "qfap-117972",
    "titre": "Histoires de paysages De Monet à Hockney (1890-2026)",
    "resume": "Le musée Marmottan Monet et le musée de Grenoble présentent conjointement une exposition exceptionnelle consacrée à l’art du paysage, de 1890 à nos jours. Intitulée « Histoires de paysages (1890-2026) », elle sera présentée à Paris du 24 septembre 2026 au 31 janvier 2027, puis à Grenoble du 5 mars au 4 juillet 2027.",
@@ -6106,6 +6400,108 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-127552",
+   "titre": "Dessinez, gravez, encrez, imprimez ! Atelier de linogravure",
+   "resume": "Initiez-vous étape par étape, à la technique de la linogravure et repartez avec votre impression originale !",
+   "debut": "2026-12-11",
+   "fin": "2027-02-20",
+   "horaires": "Le samedi 20 février 2027 de 10h30 à 12h30 Le vendredi 05 février 2027 de 14h30 à 16h30 Le vendredi 11 décembre 2026 de 14h30 à 16h30 Le vendredi 15 janvier 2027 de 14h30 à 16h30 Le dimanche 03 janvier 2027 de 10h30 à 12h30",
+   "lieu": "Musée Zadkine",
+   "adresse": "100 bis, rue d'Assas, 75006 Paris",
+   "lat": 48.843099,
+   "lon": 2.33398,
+   "thematiques": [
+    "Beaux-arts"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Tarif plein : 10€ Tarif réduit : 8€",
+    "prix_min": 8.0,
+    "reservation": true,
+    "billetterie": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10230107017802"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-0d6c3d71e81a81ebe866ed4d5223c010.jpg",
+   "lien": "https://www.paris.fr/evenements/dessinez-gravez-encrez-imprimez-atelier-de-linogravure-127552",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25",
+   "affluence": {
+    "visiteurs": 48607,
+    "annee": 0,
+    "lieu": "musée Zadkine",
+    "niveau": 0,
+    "score": 4.687,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
+  },
+  {
+   "id": "qfap-127551",
+   "titre": "Tournois d'échecs au musée Zadkine - Parties blitz/visite flash adultes",
+   "resume": "Grands débutants, initiés, tous niveaux… Participez à un tournoi d’échecs (cadence blitz, 6 rondes en 3+2min) unique, au cœur des collections.",
+   "debut": "2026-12-18",
+   "fin": "2027-02-20",
+   "horaires": "Le vendredi 18 décembre 2026 de 14h30 à 16h00 Le dimanche 03 janvier 2027 de 16h00 à 17h30 Le samedi 20 février 2027 de 16h00 à 17h30",
+   "lieu": "Musée Zadkine",
+   "adresse": "100 bis, rue d'Assas, 75006 Paris",
+   "lat": 48.843099,
+   "lon": 2.33398,
+   "thematiques": [
+    "Autres"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Tarif plein : 7€ Tarif réduit : 5€",
+    "prix_min": 5.0,
+    "reservation": true,
+    "billetterie": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10230096299742"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-cbd486a0265d50c7600737cca498b7c1.jpg",
+   "lien": "https://www.paris.fr/evenements/copie-de-tournois-d-echecs-au-musee-zadkine-parties-blitz-visite-flash-adultes-127551",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25",
+   "affluence": {
+    "visiteurs": 48607,
+    "annee": 0,
+    "lieu": "musée Zadkine",
+    "niveau": 0,
+    "score": 4.687,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
+  },
+  {
+   "id": "qfap-127550",
+   "titre": "Tournois d'échecs au musée Zadkine - Parties blitz/visite flash en famille",
+   "resume": "Grands débutants, initiés, tous niveaux… Participez à un tournoi d’échecs unique (cadence blitz, 6 rondes en 3+2min) au cœur des collections.",
+   "debut": "2026-12-16",
+   "fin": "2027-02-20",
+   "horaires": "Le samedi 20 février 2027 de 14h00 à 15h30 Le mardi 16 février 2027 de 14h30 à 16h00 Le dimanche 03 janvier 2027 de 14h00 à 15h30 Le mercredi 16 décembre 2026 de 14h30 à 16h00",
+   "lieu": "Musée Zadkine",
+   "adresse": "100 bis, rue d'Assas, 75006 Paris",
+   "lat": 48.843099,
+   "lon": 2.33398,
+   "thematiques": [
+    "Jeunesse"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Tarif plein : 7€ Tarif réduit : 5€",
+    "prix_min": 5.0,
+    "reservation": true,
+    "billetterie": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10230096299743"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-cbd486a0265d50c7600737cca498b7c1.jpg",
+   "lien": "https://www.paris.fr/evenements/tournois-d-echecs-au-musee-zadkine-parties-blitz-visite-flash-en-famille-127550",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25",
+   "affluence": {
+    "visiteurs": 48607,
+    "annee": 0,
+    "lieu": "musée Zadkine",
+    "niveau": 0,
+    "score": 4.687,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
+  },
+  {
    "id": "qfap-118193",
    "titre": "\"Joyeuse retraite papa\", une exposition entre documentaire et fiction",
    "resume": "Rayane Mcirdi construit ses films à partir d’histoires, de souvenirs et d’anecdotes recueillis auprès de sa famille, de ses proches et des habitants d’Asnières-sur-Seine et de Gennevilliers, où il a grandi. Nourri par les récits qui traversent sa famille entre l’Algérie et la France, il met en scène ces paroles avec une grande précision cinématographique, faisant de ces histoires ordinaires une ma",
@@ -6301,6 +6697,42 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-10"
+  },
+  {
+   "id": "qfap-116964",
+   "titre": "Zadkine et les héros de la mythologie - visite dessinée",
+   "resume": "Diane, Vénus, Hercule, Orphée, Pomone… Laissez-vous conter leurs histoires et dessinez votre figure héroïque en vous inspirant de Zadkine !",
+   "debut": "2026-12-02",
+   "fin": "2027-02-24",
+   "horaires": "Le mercredi 02 décembre 2026 de 11h00 à 12h30 Le mercredi 13 janvier 2027 de 10h30 à 12h00 Le mercredi 17 février 2027 de 14h30 à 16h00 Le jeudi 18 février 2027 de 10h30 à 12h00 Le mercredi 24 février 2027 de 14h30 à 16h00",
+   "lieu": "Musée Zadkine",
+   "adresse": "100 bis, rue d'Assas, 75006 Paris",
+   "lat": 48.843099,
+   "lon": 2.33398,
+   "thematiques": [
+    "Beaux-arts",
+    "Histoire & patrimoine",
+    "Jeunesse"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "Tarif plein : 7€ Tarif réduit : 5€",
+    "prix_min": 5.0,
+    "reservation": true,
+    "billetterie": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10230078677008"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-d2618a0f934c5df52ff1227758ab8b25.jpeg",
+   "lien": "https://www.paris.fr/evenements/zadkine-et-la-mythologie-116964",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25",
+   "affluence": {
+    "visiteurs": 48607,
+    "annee": 0,
+    "lieu": "musée Zadkine",
+    "niveau": 0,
+    "score": 4.687,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
   },
   {
    "id": "qfap-123864",
