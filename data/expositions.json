@@ -1,59 +1,24 @@
 {
- "genere": "2026-11-25T06:31:48+00:00",
- "jour": "2026-11-25",
+ "genere": "2026-11-26T06:32:54+00:00",
+ "jour": "2026-11-26",
  "api_ok": true,
- "total": 334,
+ "total": 337,
  "par_tarif": {
-  "gratuit": 181,
+  "gratuit": 185,
   "gratuit_sous_condition": 10,
-  "payant": 143,
+  "payant": 142,
   "inconnu": 0
  },
  "nouvelles": [
-  "qfap-127483",
-  "qfap-127972",
-  "qfap-128098",
-  "qfap-128022",
-  "qfap-127550",
-  "qfap-127945",
-  "qfap-128005",
-  "qfap-127988",
-  "qfap-116964",
-  "qfap-127259",
-  "qfap-127552",
-  "qfap-127573",
-  "qfap-128191",
-  "qfap-127551",
-  "qfap-128086",
-  "qfap-128190",
-  "qfap-127950"
+  "qfap-128250",
+  "qfap-128210",
+  "qfap-128237",
+  "qfap-127961",
+  "qfap-128255",
+  "qfap-128246"
  ],
- "avec_affluence": 64,
+ "avec_affluence": 63,
  "expositions": [
-  {
-   "id": "qfap-127825",
-   "titre": "Journée contre les violences faites aux femmes dans le 12e",
-   "resume": "Une journée consacrée à l'information contre les violences faites aux femmes par le biais d'une exposition à destination des enfants, de lectures de livres adaptés aux différents publics et d'un jeu de cartes pour les adolescents et les adultes.",
-   "debut": "2026-11-25",
-   "fin": "2026-11-25",
-   "horaires": "Le mercredi 25 novembre 2026 de 10h00 à 20h00",
-   "lieu": "CPA Musidora",
-   "adresse": "51, rue François Truffaut, 75012 Paris",
-   "lat": 48.8343610143449,
-   "lon": 2.38721899799407,
-   "thematiques": [
-    "Jeunesse"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/19/huge-98c90a97adf5794ac7039df638c0bea0.jpg",
-   "lien": "https://www.paris.fr/evenements/journee-contre-les-violences-faites-aux-femmes-127825",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-20"
-  },
   {
    "id": "qfap-126017",
    "titre": "Exposition Portraits de Résistantes : Mémoire et Liberté au Centre Paris Anim' Maurice Ravel",
@@ -221,31 +186,6 @@
    }
   },
   {
-   "id": "qfap-127972",
-   "titre": "Quand l'art réécrit votre vie",
-   "resume": "Vernissage d'exposition collective. Découvrez un espace dédié à des tableaux symboliques incarnant des personnages du cinéma et l'Oracle d'art.",
-   "debut": "2026-11-27",
-   "fin": "2026-11-27",
-   "horaires": "Le vendredi 27 novembre 2026 de à",
-   "lieu": "Tatiana ANIKINA",
-   "adresse": "25 rue Lantiez, 75017 Paris",
-   "lat": 48.8950309897284,
-   "lon": 2.32375097569252,
-   "thematiques": [
-    "Art contemporain",
-    "Beaux-arts",
-    "Sciences & nature"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/01/huge-8405e3e1a4f05cb0ba0e6394121b64d3.jpg",
-   "lien": "https://www.paris.fr/evenements/quand-l-art-reecrit-votre-vie-127972",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-25"
-  },
-  {
    "id": "qfap-126493",
    "titre": "Quand l'art réécrit votre vie",
    "resume": "L'art est un outil pour dépasser ses limites et transformer sa vie. Découvrez un espace dédié à des tableaux symboliques incarnant des archétypes féminins. Au programme le 13 et 27 novembre : la présentation d'un jeu de cartes artistique interactif et une pratique de dessin spontané inspirée par Carl Jung pour déposer vos émotions, dépasser vos limites et devenir l'héroïne de votre propre vie.",
@@ -269,6 +209,31 @@
    "lien": "https://www.paris.fr/evenements/quand-l-art-reecrit-votre-vie-126493",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-127972",
+   "titre": "Quand l'art réécrit votre vie",
+   "resume": "Vernissage d'exposition collective. Découvrez un espace dédié à des tableaux symboliques incarnant des personnages du cinéma et l'Oracle d'art.",
+   "debut": "2026-11-27",
+   "fin": "2026-11-27",
+   "horaires": "Le vendredi 27 novembre 2026 de à",
+   "lieu": "Tatiana ANIKINA",
+   "adresse": "25 rue Lantiez, 75017 Paris",
+   "lat": 48.8950309897284,
+   "lon": 2.32375097569252,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts",
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/01/huge-8405e3e1a4f05cb0ba0e6394121b64d3.jpg",
+   "lien": "https://www.paris.fr/evenements/quand-l-art-reecrit-votre-vie-127972",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-25"
   },
   {
    "id": "qfap-126025",
@@ -1040,6 +1005,31 @@
    "vu_le": "2026-11-19"
   },
   {
+   "id": "qfap-128250",
+   "titre": "Exposition - Echo",
+   "resume": "Exposition photographique de Firas Abdullah. Vernissage : mardi 8 décembre à 19h.",
+   "debut": "2026-12-03",
+   "fin": "2026-12-03",
+   "horaires": "Le jeudi 03 décembre 2026 de à Fermé du jeudi 03 décembre 2026 au jeudi 24 décembre 2026",
+   "lieu": "Centre Paris Anim Victoire Tinayre - Ligue de l'enseignement",
+   "adresse": "24 Rue Daviel, 75013 Paris",
+   "lat": 48.856578,
+   "lon": 2.351828,
+   "thematiques": [
+    "Photographie",
+    "Histoire & patrimoine"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2025/10/16/huge-401ad951d9caeb0526565c6dfaf20bcd.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-echo-128250",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-26"
+  },
+  {
    "id": "qfap-126561",
    "titre": "Reminiscence – exposition de KR",
    "resume": "Première exposition personnelle de KR : une histoire d’amour entre Dieu et une âme, racontée en neuf tableaux écrits à la main à l’encre dorée. Entrée libre.",
@@ -1538,6 +1528,32 @@
    }
   },
   {
+   "id": "qfap-128210",
+   "titre": "Exposition photo : Remote + Very Remote Australia",
+   "resume": "Du 3 au 8 décembre 2026, la photographe émergente Narriman dévoile une série documentaire et personnelle née de son expérience en Australie.",
+   "debut": "2026-12-03",
+   "fin": "2026-12-08",
+   "horaires": "Du jeudi 03 décembre 2026 au mardi 08 décembre 2026 : lundi, mardi, jeudi, vendredi, samedi, dimanche de 11h00 à 19h00",
+   "lieu": "Galerie du PopUp",
+   "adresse": "14 rue Abel, 75012 Paris",
+   "lat": 48.8476480072586,
+   "lon": 2.37571198603871,
+   "thematiques": [
+    "Photographie",
+    "Art contemporain"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://www.instagram.com/callmenarri"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/25/huge-0e75249d96fe189b7c4e3257f5581a36.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-photo-remote-very-remote-australia-128210",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-26"
+  },
+  {
    "id": "qfap-127415",
    "titre": "Exposition - L’art urbain déclare sa flamme avec l’artiste IN LOVE à la Galerie Woodgreen",
    "resume": "La Galerie Woodgreen a le plaisir de présenter la nouvelle exposition solo de l’artiste IN LOVE, figure poétique incontournable du street art contemporain. Du 26 novembre au 10 décembre prochain, le public est invité à plonger dans un univers unique où la rue devient le théâtre d'un message universel d'amour et de poésie brute.",
@@ -1586,30 +1602,6 @@
    "lien": "https://www.paris.fr/evenements/nos-forets-nos-memoires-au-profit-de-l-association-kalaweit-127355",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-11"
-  },
-  {
-   "id": "qfap-127962",
-   "titre": "Chansons de prisons : Avec les chœurs du conservatoire Hector Berlioz",
-   "resume": "Des chansons du conservatoire Hector Berlioz pour clore l'exposition \" Prisonnières \"",
-   "debut": "2026-12-11",
-   "fin": "2026-12-11",
-   "horaires": "Le vendredi 11 décembre 2026 de 19h00 à 21h00",
-   "lieu": "Médiathèque Françoise Sagan",
-   "adresse": "8 rue Léon Schwartzenberg, 75010 Paris",
-   "lat": 48.8754299929717,
-   "lon": 2.35366699395405,
-   "thematiques": [
-    "Autres"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/21/huge-52073dafc759d0c5d4fd8ce76501528c.png",
-   "lien": "https://www.paris.fr/evenements/chansons-de-prisons-avec-les-choeurs-du-conservatoire-hector-berlioz-127962",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-22"
   },
   {
    "id": "qfap-128022",
@@ -1690,7 +1682,7 @@
    "resume": "Un atelier en famille, à la découverte de la nouvelle exposition temporaire du musée Bourdelle",
    "debut": "2026-10-24",
    "fin": "2026-12-12",
-   "horaires": "Le samedi 12 décembre 2026 de 16h30 à 18h00 Le mercredi 25 novembre 2026 de 16h30 à 18h00",
+   "horaires": "Le samedi 12 décembre 2026 de 16h30 à 18h00",
    "lieu": "Musée Bourdelle",
    "adresse": "18, rue Antoine Bourdelle, 75015 Paris",
    "lat": 48.842975,
@@ -2299,6 +2291,29 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-128237",
+   "titre": "ALAN - « Espaces imaginaires »",
+   "resume": "Le STUDIO 53 présente « Espaces imaginaires », une exposition d’ALAN.",
+   "debut": "2026-12-04",
+   "fin": "2026-12-19",
+   "horaires": "Du vendredi 04 décembre 2026 au samedi 19 décembre 2026 :",
+   "lieu": "STUDIO 53",
+   "adresse": "53 rue Sadi Carnot, 92170 Vanves",
+   "lat": 48.8233279990141,
+   "lon": 2.29162003951689,
+   "thematiques": [
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/25/huge-04a440c2e581859fa576fdda4392e91e.png",
+   "lien": "https://www.paris.fr/evenements/alan-espaces-imaginaires-128237",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-26"
+  },
+  {
    "id": "qfap-127333",
    "titre": "EXPOSITION : Grand Shanghai / Grand Paris : deux métropoles fluviales",
    "resume": "À l’ENSA Paris-Belleville, une exposition gratuite met en miroir Paris et Shanghai pour explorer les liens entre fleuves, nature et ville dense, du 3 au 19 décembre 2026.",
@@ -2408,7 +2423,7 @@
    "resume": "Un atelier de modelage en famille autour de la nouvelle exposition temporaire du musée Bourdelle",
    "debut": "2026-10-24",
    "fin": "2026-12-19",
-   "horaires": "Le samedi 19 décembre 2026 de 14h00 à 16h00 Le samedi 12 décembre 2026 de 14h30 à 16h30 Le mercredi 25 novembre 2026 de 14h30 à 16h30",
+   "horaires": "Le samedi 19 décembre 2026 de 14h00 à 16h00 Le samedi 12 décembre 2026 de 14h30 à 16h30",
    "lieu": "Musée Bourdelle",
    "adresse": "18, rue Antoine Bourdelle, 75015 Paris",
    "lat": 48.842975,
@@ -2823,7 +2838,7 @@
    "resume": "Une visite guidée en famille, à la découverte de la nouvelle exposition temporaire du musée Bourdelle",
    "debut": "2026-10-14",
    "fin": "2026-12-24",
-   "horaires": "Le jeudi 24 décembre 2026 de 15h00 à 16h30 Le mercredi 23 décembre 2026 de 16h00 à 17h30 Le mercredi 16 décembre 2026 de 16h00 à 17h30 Le mercredi 02 décembre 2026 de 16h00 à 17h30 Le samedi 28 novembre 2026 de 16h00 à 17h30 Le mercredi 25 novembre 2026 de 16h00 à 17h30",
+   "horaires": "Le jeudi 24 décembre 2026 de 15h00 à 16h30 Le mercredi 23 décembre 2026 de 16h00 à 17h30 Le mercredi 16 décembre 2026 de 16h00 à 17h30 Le mercredi 02 décembre 2026 de 16h00 à 17h30 Le samedi 28 novembre 2026 de 16h00 à 17h30",
    "lieu": "Musée Bourdelle",
    "adresse": "18, rue Antoine Bourdelle, 75015 Paris",
    "lat": 48.842975,
@@ -3544,6 +3559,33 @@
    "lien": "https://www.paris.fr/evenements/expo-creches-du-monde-128005",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-25"
+  },
+  {
+   "id": "qfap-127961",
+   "titre": "Manger, être mangé – Exposition jeunesse à la bibliothèque Hergé",
+   "resume": "À travers une sélection d'affiches, de dessins, d'illustrations et de livres issus des collections patrimoniales de l'Heure Joyeuse, l'exposition propose un parcours surprenant au cœur des histoires qui nourrissent l'imaginaire des petits et des grands.",
+   "debut": "2026-11-28",
+   "fin": "2027-01-02",
+   "horaires": "Du samedi 28 novembre 2026 au samedi 02 janvier 2027 :",
+   "lieu": "Bibliothèque Hergé",
+   "adresse": "2 rue du Département, 75019 Paris",
+   "lat": 48.885014,
+   "lon": 2.367235,
+   "thematiques": [
+    "Beaux-arts",
+    "Histoire & patrimoine",
+    "Street art & BD",
+    "Jeunesse"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/25/huge-389b9e3830e02d433e926676e386506e.png",
+   "lien": "https://www.paris.fr/evenements/manger-etre-mange-exposition-jeunesse-a-la-bibliotheque-herge-127961",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-26"
   },
   {
    "id": "qfap-126213",
@@ -5541,6 +5583,30 @@
    "vu_le": "2026-11-25"
   },
   {
+   "id": "qfap-128246",
+   "titre": "Exposition photo « Métamorphoses silencieuses - Infiniment petit »",
+   "resume": "La photographe Charlotte Schousboe, travaille autour du vivant, des fruits et des légumes, et de leurs transformations lentes – parfois sur plusieurs mois. À travers ces matières du quotidien, elle explore les cycles de la vie, les instants où la forme se défait pour mieux se réinventer.",
+   "debut": "2026-12-16",
+   "fin": "2027-01-31",
+   "horaires": "Du mercredi 16 décembre 2026 au dimanche 31 janvier 2027 : mercredi, jeudi, vendredi, samedi, dimanche de 13h30 à 17h00",
+   "lieu": "Maison Paris Nature",
+   "adresse": "Pavillons 1 et 2 du Parc Floral de Paris, route de la Pyramide, 75012 Paris",
+   "lat": 48.834921,
+   "lon": 2.443769,
+   "thematiques": [
+    "Photographie"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/25/huge-8abab0b178f2d274d5e3ecfe7ddc6f7a.jpeg",
+   "lien": "https://www.paris.fr/evenements/exposition-photo-metamorphoses-silencieuses-infiniment-petit-128246",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-26"
+  },
+  {
    "id": "qfap-117972",
    "titre": "Histoires de paysages De Monet à Hockney (1890-2026)",
    "resume": "Le musée Marmottan Monet et le musée de Grenoble présentent conjointement une exposition exceptionnelle consacrée à l’art du paysage, de 1890 à nos jours. Intitulée « Histoires de paysages (1890-2026) », elle sera présentée à Paris du 24 septembre 2026 au 31 janvier 2027, puis à Grenoble du 5 mars au 4 juillet 2027.",
@@ -6761,6 +6827,32 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-128255",
+   "titre": "Exposition DC Comics",
+   "resume": "Tout au long du mois de février, la bibliothèque Maurice Genevoix accueille 21 œuvres en édition limitée réalisées par des artistes du monde entier. En partenariat avec Warner et DC Comics",
+   "debut": "2027-02-02",
+   "fin": "2027-02-27",
+   "horaires": "Du mardi 02 février 2027 au samedi 27 février 2027 :",
+   "lieu": "Bibliothèque Maurice Genevoix",
+   "adresse": "19 rue Tristan Tzara, 75018 Paris",
+   "lat": 48.894965,
+   "lon": 2.363901,
+   "thematiques": [
+    "Art contemporain",
+    "Street art & BD",
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/25/huge-ac6e9d5450c2234741cdf456fe3b9a2e.png",
+   "lien": "https://www.paris.fr/evenements/exposition-dc-comics-128255",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-26"
+  },
+  {
    "id": "qfap-125931",
    "titre": "Exposition « Envergure(s) – Wingspan(s) » de Maya Hayuk",
    "resume": "Pour cette première exposition personnelle en France, le Carré de Baudouin et Art Azoï proposent de donner la possibilité à l’artiste Maya Hayuk de créer la majorité de ses oeuvres in situ.",
@@ -7519,41 +7611,6 @@
    "lien": "https://www.paris.fr/evenements/look-40-ans-de-mode-au-musee-116704",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-118174",
-   "titre": "De la vigne au verre. Le vin chez Balzac.",
-   "resume": "Omniprésent dans la société du XIXème siècle, le vin s’impose comme un motif récurrent dans l’œuvre de Balzac : il raconte une époque, révèle les ambitions sociales et accompagne les plaisirs comme les excès. L’exposition « De la vigne au verre. « Le vin chez Balzac », présentée par la Maison de Balzac, met en lumière cette présence foisonnante du vin dans l’univers balzacien.",
-   "debut": "2026-11-26",
-   "fin": "2027-04-06",
-   "horaires": "Du jeudi 26 novembre 2026 au mardi 06 avril 2027 :",
-   "lieu": "Maison de Balzac musée et bibliothèque",
-   "adresse": "47, rue Raynouard, 75016 Paris",
-   "lat": 48.855356,
-   "lon": 2.280847,
-   "thematiques": [
-    "Histoire & patrimoine",
-    "Société & monde"
-   ],
-   "tarif": {
-    "type": "payant",
-    "detail": "&nbsp;Tarif plein : 11 € / réduit : 9 €",
-    "prix_min": 9.0,
-    "billetterie": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229772707614"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-4a20c3011c3eb64ef08bbed78b8a32a5.png",
-   "lien": "https://www.paris.fr/evenements/de-la-vigne-au-verre-le-vin-chez-balzac-118174",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03",
-   "affluence": {
-    "visiteurs": 40036,
-    "annee": 0,
-    "lieu": "maison de Balzac",
-    "niveau": 0,
-    "score": 4.602,
-    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
-   }
   },
   {
    "id": "qfap-126343",

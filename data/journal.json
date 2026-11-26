@@ -318,5 +318,20 @@
    "Parcours des ateliers de céramique du 20e",
    "Exposition « Remember me » à la Bourse de Commerce"
   ]
+ },
+ {
+  "jour": "2026-11-26",
+  "total": 337,
+  "ajoutees": 6,
+  "retirees": 3,
+  "api_ok": true,
+  "titres_ajoutes": [
+   "Exposition - Echo",
+   "Exposition photo : Remote + Very Remote Australia",
+   "ALAN - « Espaces imaginaires »",
+   "Manger, être mangé – Exposition jeunesse à la bibliothèque Hergé",
+   "Exposition DC Comics",
+   "Exposition photo « Métamorphoses silencieuses - Infiniment petit »"
+  ]
  }
 ]
