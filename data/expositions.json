@@ -1,102 +1,24 @@
 {
- "genere": "2026-11-26T06:32:54+00:00",
- "jour": "2026-11-26",
+ "genere": "2026-11-27T06:34:49+00:00",
+ "jour": "2026-11-27",
  "api_ok": true,
- "total": 337,
+ "total": 340,
  "par_tarif": {
-  "gratuit": 185,
+  "gratuit": 187,
   "gratuit_sous_condition": 10,
-  "payant": 142,
+  "payant": 143,
   "inconnu": 0
  },
  "nouvelles": [
-  "qfap-128250",
-  "qfap-128210",
-  "qfap-128237",
-  "qfap-127961",
-  "qfap-128255",
-  "qfap-128246"
+  "qfap-128314",
+  "qfap-128298",
+  "qfap-128293",
+  "qfap-128386",
+  "qfap-118174",
+  "qfap-128304"
  ],
- "avec_affluence": 63,
+ "avec_affluence": 64,
  "expositions": [
-  {
-   "id": "qfap-126017",
-   "titre": "Exposition Portraits de Résistantes : Mémoire et Liberté au Centre Paris Anim' Maurice Ravel",
-   "resume": "Du 3 au 26 novembre, la galerie du CPA Maurice Ravel accueille une nouvelle exposition : Portraits de Résistantes, Mémoire et Liberté de Katia Odartchenko et Maria Reyes, avec les participations de Maria Luisa Muller et de Federica Matta.",
-   "debut": "2026-11-03",
-   "fin": "2026-11-26",
-   "horaires": "Du mardi 03 novembre 2026 au jeudi 26 novembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 09h00 à 21h00",
-   "lieu": "Centre Paris Anim' Maurice Ravel",
-   "adresse": "6 avenue Maurice Ravel, 75012 Paris",
-   "lat": 48.84156,
-   "lon": 2.411535,
-   "thematiques": [
-    "Beaux-arts",
-    "Histoire & patrimoine"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-6f1e144805dc19d7b714a4c5a5acc53e.jpg",
-   "lien": "https://www.paris.fr/evenements/exposition-portraits-de-resistantes-memoire-et-liberte-au-centre-paris-anim-maurice-ravel-126017",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-117382",
-   "titre": "Les humanités en formes : sciences humaines et sociales [Programme modifié]",
-   "resume": "[En raison de blocages répétés de notre bâtiment, seule la soirée de lancement de la collection « 54 poche » peut être maintenue à 19h. Les sessions prévues en journée (Créer, Publier, Diffuser, Dialoguer) seront reportées à une date ultérieure.] Nouveaux formats éditoriaux, révolution de l'intelligence artificielle, transformations du dialogue science-société : le Grand Format 2026 de la FMSH pro",
-   "debut": "2026-11-26",
-   "fin": "2026-11-26",
-   "horaires": "Le jeudi 26 novembre 2026 de 09h00 à 21h00",
-   "lieu": "Fondation Maison des Sciences de l'Homme",
-   "adresse": "54 boulevard Raspail, 75006 Paris",
-   "lat": 48.8502890192206,
-   "lon": 2.32696501646515,
-   "thematiques": [
-    "Sciences & nature",
-    "Société & monde"
-   ],
-   "tarif": {
-    "type": "gratuit_sous_condition",
-    "detail": "Entrée libre sur inscription",
-    "prix_min": 0,
-    "reservation": true,
-    "billetterie": "https://www.fmsh.fr/agenda/les-humanites-en-formes"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/05/huge-b043b4674d60c641acd0fbfbab79f29f.jpg",
-   "lien": "https://www.paris.fr/evenements/les-humanites-en-formes-117382",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-124106",
-   "titre": "L’expérience Hello Kitty: Beyond Cute arrive à Paris",
-   "resume": "Du 31 octobre au 26 novembre 2026, l’expérience immersive Hello Kitty: Beyond Cute prendra ses quartiers à la Galerie Joseph, dans le 4ᵉ arrondissement de Paris.",
-   "debut": "2026-10-31",
-   "fin": "2026-11-26",
-   "horaires": "Du samedi 31 octobre 2026 au jeudi 26 novembre 2026 :",
-   "lieu": "Galerie Joseph",
-   "adresse": "5 rue Saint-Merri, 75014 Paris",
-   "lat": 48.856578,
-   "lon": 2.351828,
-   "thematiques": [
-    "Autres"
-   ],
-   "tarif": {
-    "type": "payant",
-    "detail": "Vous pouvez vous inscrire dès maintenant sur la liste d’attente sur Fever. Les billets seront prochainement mis en vente&nbsp;",
-    "reservation": true,
-    "billetterie": "https://feverup.com/m/751754?srsltid=AU7gw4VUTaadWamRpiAy_1NjpMZCJs1vl5z21jze-fJKlEaV14t20vE0"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/16/huge-02570dbee46929902d04ba8273b92cd7.png",
-   "lien": "https://www.paris.fr/evenements/l-experience-hello-kitty-beyond-cute-arrive-a-paris-124106",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
   {
    "id": "qfap-126425",
    "titre": "\"Le changement climatique est sexiste ! Les femmes ripostent et agissent\", une exposition de CARE France et de l'Agence MYOP",
@@ -186,31 +108,6 @@
    }
   },
   {
-   "id": "qfap-126493",
-   "titre": "Quand l'art réécrit votre vie",
-   "resume": "L'art est un outil pour dépasser ses limites et transformer sa vie. Découvrez un espace dédié à des tableaux symboliques incarnant des archétypes féminins. Au programme le 13 et 27 novembre : la présentation d'un jeu de cartes artistique interactif et une pratique de dessin spontané inspirée par Carl Jung pour déposer vos émotions, dépasser vos limites et devenir l'héroïne de votre propre vie.",
-   "debut": "2026-11-13",
-   "fin": "2026-11-27",
-   "horaires": "Du vendredi 13 novembre 2026 au vendredi 27 novembre 2026 :",
-   "lieu": "Tatiana ANIKINA",
-   "adresse": "25 rue Lantiez, 75017 Paris",
-   "lat": 48.8950309897284,
-   "lon": 2.32375097569252,
-   "thematiques": [
-    "Art contemporain",
-    "Beaux-arts",
-    "Sciences & nature"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/01/huge-8405e3e1a4f05cb0ba0e6394121b64d3.jpg",
-   "lien": "https://www.paris.fr/evenements/quand-l-art-reecrit-votre-vie-126493",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
    "id": "qfap-127972",
    "titre": "Quand l'art réécrit votre vie",
    "resume": "Vernissage d'exposition collective. Découvrez un espace dédié à des tableaux symboliques incarnant des personnages du cinéma et l'Oracle d'art.",
@@ -234,6 +131,31 @@
    "lien": "https://www.paris.fr/evenements/quand-l-art-reecrit-votre-vie-127972",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-25"
+  },
+  {
+   "id": "qfap-126493",
+   "titre": "Quand l'art réécrit votre vie",
+   "resume": "L'art est un outil pour dépasser ses limites et transformer sa vie. Découvrez un espace dédié à des tableaux symboliques incarnant des archétypes féminins. Au programme le 13 et 27 novembre : la présentation d'un jeu de cartes artistique interactif et une pratique de dessin spontané inspirée par Carl Jung pour déposer vos émotions, dépasser vos limites et devenir l'héroïne de votre propre vie.",
+   "debut": "2026-11-13",
+   "fin": "2026-11-27",
+   "horaires": "Du vendredi 13 novembre 2026 au vendredi 27 novembre 2026 :",
+   "lieu": "Tatiana ANIKINA",
+   "adresse": "25 rue Lantiez, 75017 Paris",
+   "lat": 48.8950309897284,
+   "lon": 2.32375097569252,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts",
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/01/huge-8405e3e1a4f05cb0ba0e6394121b64d3.jpg",
+   "lien": "https://www.paris.fr/evenements/quand-l-art-reecrit-votre-vie-126493",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-03"
   },
   {
    "id": "qfap-126025",
@@ -2479,6 +2401,32 @@
    "vu_le": "2026-11-07"
   },
   {
+   "id": "qfap-128386",
+   "titre": "La naissance des vagues",
+   "resume": "L’installation des artistes Emilie Faïf et Nicolas André, fragment de poésie suspendu aux voûtes médiévales de la Conciergerie, invite à la contemplation.",
+   "debut": "2026-11-04",
+   "fin": "2026-12-20",
+   "horaires": "Du mercredi 04 novembre 2026 au dimanche 20 décembre 2026 : mardi de 09h30 à 20h00 lundi, mercredi, jeudi, vendredi, samedi, dimanche de 09h30 à 18h00",
+   "lieu": "La Conciergerie",
+   "adresse": "2 boulevard du Palais, 75001 Paris",
+   "lat": 48.8556810137144,
+   "lon": 2.34592001994417,
+   "thematiques": [
+    "Art contemporain"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "De 0 à 13 euros.",
+    "prix_min": 13.0,
+    "reservation": true,
+    "billetterie": "https://www.paris-conciergerie.fr/agenda/la-naissance-des-vagues"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/26/huge-1f48e40207bc237efd4e84514181cae6.jpg",
+   "lien": "https://www.paris.fr/evenements/la-naissance-des-vagues-128386",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-27"
+  },
+  {
    "id": "qfap-127147",
    "titre": "Lubaina Himid et Magda Stawarska, Attendre ensemble",
    "resume": "Exposition monumentale de Lubaina Himid avec Magda Stawarska à la Chapelle Saint-Louis de la Salpêtrière.",
@@ -3275,6 +3223,58 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-128314",
+   "titre": "Exposition Vanecha Roudbaraki",
+   "resume": "En quête de lumière - un voyage intérieur.",
+   "debut": "2026-11-27",
+   "fin": "2026-12-31",
+   "horaires": "Du vendredi 27 novembre 2026 au jeudi 31 décembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 09h30 à 19h30",
+   "lieu": "Librairie Perse en Poche (Naakojaa Utopiran)",
+   "adresse": "11 Rue Edmond Roger, 75015 Paris, 75015 Paris",
+   "lat": 48.8452519983264,
+   "lon": 2.28980896169776,
+   "thematiques": [
+    "Art contemporain",
+    "Beaux-arts",
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://vanecha.fr/fr/?page=2"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/25/huge-f6db5efc4d7a006cc01d196d29e8d02d.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-vanecha-roudbaraki-128314",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-27"
+  },
+  {
+   "id": "qfap-128304",
+   "titre": "Exposition des illustrations du conte «six et léo, une amitié incorrigible»",
+   "resume": "Venez découvrir un conte créé et illustré par les résidents de l'EHPAD Grenelle !",
+   "debut": "2026-11-03",
+   "fin": "2026-12-31",
+   "horaires": "Du mardi 03 novembre 2026 au jeudi 31 décembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche de 11h00 à 18h00",
+   "lieu": "Ehpad Grenelle",
+   "adresse": "57 Rue Violet, 75015 Paris",
+   "lat": 48.8524758377758,
+   "lon": 2.29215672394133,
+   "thematiques": [
+    "Street art & BD",
+    "Jeunesse"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/25/huge-c97fd76c11168db40faa66962d2d329c.png",
+   "lien": "https://www.paris.fr/evenements/exposition-des-illustrations-du-conte-six-et-leo-une-amitie-incorrigible-128304",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-27"
+  },
+  {
    "id": "qfap-128086",
    "titre": "Exposition «Voyage en pays inconnu» de Francis Lacombe au Centre Paris Anim' Maurice Ravel",
    "resume": "Du 30 novembre au 31 décembre, la galerie du CPA Maurice Ravel accueille l'exposition Voyage en pays inconnu de Francis Lacombe. Une invitation à ralentir et à explorer le merveilleux.",
@@ -3641,6 +3641,31 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-128298",
+   "titre": "Exposition «Lumières d'Hiver»",
+   "resume": "Découvrez la variété des lumières d'hiver, immortalisées par les photographes National Geographic.",
+   "debut": "2026-12-08",
+   "fin": "2027-01-03",
+   "horaires": "Du mardi 08 décembre 2026 au dimanche 03 janvier 2027 :",
+   "lieu": "Parvis de l'Hôtel de Ville",
+   "adresse": "Place de l'Hôtel de Ville - Esplanade de la Libération, 75004 Paris",
+   "lat": 48.85716766104,
+   "lon": 2.35128749596646,
+   "thematiques": [
+    "Photographie",
+    "Sciences & nature"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/25/huge-38587fd0b6e8db676e48ae8706b9c5ab.jpg",
+   "lien": "https://www.paris.fr/evenements/exposition-lumieres-d-hiver-128298",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-27"
   },
   {
    "id": "qfap-115754",
@@ -7613,6 +7638,41 @@
    "vu_le": "2026-11-03"
   },
   {
+   "id": "qfap-118174",
+   "titre": "De la vigne au verre. Le vin chez Balzac.",
+   "resume": "Omniprésent dans la société du XIXème siècle, le vin s’impose comme un motif récurrent dans l’œuvre de Balzac : il raconte une époque, révèle les ambitions sociales et accompagne les plaisirs comme les excès. L’exposition « De la vigne au verre. « Le vin chez Balzac », présentée par la Maison de Balzac, met en lumière cette présence foisonnante du vin dans l’univers balzacien.",
+   "debut": "2026-11-26",
+   "fin": "2027-04-06",
+   "horaires": "Du jeudi 26 novembre 2026 au mardi 06 avril 2027 :",
+   "lieu": "Maison de Balzac musée et bibliothèque",
+   "adresse": "47, rue Raynouard, 75016 Paris",
+   "lat": 48.855356,
+   "lon": 2.280847,
+   "thematiques": [
+    "Histoire & patrimoine",
+    "Société & monde"
+   ],
+   "tarif": {
+    "type": "payant",
+    "detail": "&nbsp;Tarif plein : 11 € / réduit : 9 €",
+    "prix_min": 9.0,
+    "billetterie": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229772707614"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/26/huge-b458f8215f087e8aa29906109a801ff7.png",
+   "lien": "https://www.paris.fr/evenements/de-la-vigne-au-verre-le-vin-chez-balzac-118174",
+   "accessible": true,
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-27",
+   "affluence": {
+    "visiteurs": 40036,
+    "annee": 0,
+    "lieu": "maison de Balzac",
+    "niveau": 0,
+    "score": 4.602,
+    "source": "Fréquentation des Musées de France (ministère de la Culture, data.gouv.fr)"
+   }
+  },
+  {
    "id": "qfap-126343",
    "titre": "KiLLT – Mauvaise Pichenette !",
    "resume": "Une expérience collective mêlant déambulation, théâtre et création plastique pour (re)découvrir le plaisir des mots, le désir de lire, l’audace de dire mais aussi l’importance de s’engager.",
@@ -8309,6 +8369,32 @@
    "lien": "https://www.paris.fr/evenements/billie-holiday-legende-noire-117989",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-128293",
+   "titre": "Une histoire d'argent - De l'or aux cryptos",
+   "resume": "Des pièces gauloises au bitcoin, descendez dans la salle des coffres de la Cité de l’Économie et remontez 2 000 ans d’histoire de l’argent dans une exposition ludique et immersive.",
+   "debut": "2026-11-20",
+   "fin": "2027-07-11",
+   "horaires": "Du vendredi 20 novembre 2026 au dimanche 11 juillet 2027 :",
+   "lieu": "Cité de l'Économie",
+   "adresse": "1 Place du Général Catroux, 75017 Paris",
+   "lat": 48.856578,
+   "lon": 2.351828,
+   "thematiques": [
+    "Histoire & patrimoine"
+   ],
+   "tarif": {
+    "type": "gratuit_sous_condition",
+    "detail": "Billet couplé : Exposition permanente et exposition temporaire gratuite incluse&nbsp;",
+    "prix_min": 0,
+    "reservation": true,
+    "billetterie": "https://tickets.citeco.fr/fr-FR/mes-billets-2?famille=2618937818560400017"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/11/26/huge-bb89877a842b8439baefa0a5a8ab3714.jpg",
+   "lien": "https://www.paris.fr/evenements/une-histoire-d-argent-de-l-or-aux-cryptos-128293",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-27"
   },
   {
    "id": "qfap-124377",

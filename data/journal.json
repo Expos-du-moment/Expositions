@@ -333,5 +333,20 @@
    "Exposition DC Comics",
    "Exposition photo « Métamorphoses silencieuses - Infiniment petit »"
   ]
+ },
+ {
+  "jour": "2026-11-27",
+  "total": 340,
+  "ajoutees": 6,
+  "retirees": 3,
+  "api_ok": true,
+  "titres_ajoutes": [
+   "Exposition Vanecha Roudbaraki",
+   "Exposition «Lumières d'Hiver»",
+   "Une histoire d'argent - De l'or aux cryptos",
+   "La naissance des vagues",
+   "De la vigne au verre. Le vin chez Balzac.",
+   "Exposition des illustrations du conte «six et léo, une amitié incorrigible»"
+  ]
  }
 ]
