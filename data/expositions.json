@@ -1,215 +1,21 @@
 {
- "genere": "2026-11-27T06:34:49+00:00",
- "jour": "2026-11-27",
+ "genere": "2026-11-28T06:34:20+00:00",
+ "jour": "2026-11-28",
  "api_ok": true,
- "total": 340,
+ "total": 336,
  "par_tarif": {
-  "gratuit": 187,
+  "gratuit": 184,
   "gratuit_sous_condition": 10,
-  "payant": 143,
+  "payant": 142,
   "inconnu": 0
  },
  "nouvelles": [
-  "qfap-128314",
-  "qfap-128298",
-  "qfap-128293",
-  "qfap-128386",
-  "qfap-118174",
-  "qfap-128304"
+  "qfap-123185",
+  "qfap-123186",
+  "qfap-123182"
  ],
- "avec_affluence": 64,
+ "avec_affluence": 63,
  "expositions": [
-  {
-   "id": "qfap-126425",
-   "titre": "\"Le changement climatique est sexiste ! Les femmes ripostent et agissent\", une exposition de CARE France et de l'Agence MYOP",
-   "resume": "Du 2 au 27 novembre, la Ville de Paris, CARE France et l'Agence MYOP souhaitent sensibiliser les Parisiennes et Parisiens aux impacts du changement climatique sur les femmes et filles du monde.",
-   "debut": "2026-11-02",
-   "fin": "2026-11-27",
-   "horaires": "Du lundi 02 novembre 2026 au vendredi 27 novembre 2026 :",
-   "lieu": "Sur les berges de Seine (rive droite), en contrebas de la rampe Châtelet, entre le Pont-Neuf et Pont au Change.",
-   "adresse": "Voie Georges Pompidou, 75004 Paris",
-   "lat": 48.8524737465196,
-   "lon": 2.35938717565175,
-   "thematiques": [
-    "Photographie",
-    "Sciences & nature",
-    "Architecture & ville",
-    "Société & monde"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/22/huge-3b7a4b7fccf513a7d6558759b38fae85.jpg",
-   "lien": "https://www.paris.fr/evenements/le-changement-climatique-est-sexiste-les-femmes-ripostent-et-agissent-une-exposition-de-care-france-et-de-l-agence-myop-126425",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-127449",
-   "titre": "Exposition \"Femmes sujets, non objets\" organisée par la Maison des Femmes de l'APHP-Hôpital-Bichat-Claude-Bernard en collaboration avec la Mairie du 18e arrondissement",
-   "resume": "À l’occasion de la journée internationale de lutte contre les violences faites aux femmes, la Maison des Femmes de l'APHP-Hôpital-Bichat-Claude-Bernard organise, en collaboration avec la Mairie du 18e arrondissement, une exposition d'oeuvres de femmes artistes suivies à la Maison des femmes.",
-   "debut": "2026-11-27",
-   "fin": "2026-11-27",
-   "horaires": "Le vendredi 27 novembre 2026 de 15h30 à 18h30",
-   "lieu": "Mairie du 18e arrondissement",
-   "adresse": "1 place Jules Joffrin, 75018 Paris",
-   "lat": 48.892304,
-   "lon": 2.344687,
-   "thematiques": [
-    "Art contemporain"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "Un vernissage aura lieu le vendredi 27/11/2026 entre 15h30 et 18h30 dans la mairie, avec des interventions de l'équipe de la Maison des Femmes, de la mairie, et des artistes. Nous vous prions de bien vouloir confirmer votre venue au vernissage du 27/11/2026 de préférence avant le 17/11/2026 à maison",
-    "prix_min": 0,
-    "reservation": true
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2024/11/13/huge-0e06c335398f0d1c8537e0b5d2f5e7c4.jpeg",
-   "lien": "https://www.paris.fr/evenements/exposition-femmes-sujets-non-objets-organisee-par-la-maison-des-femmes-de-l-aphp-hopital-bichat-claude-bernard-en-collaboration-avec-la-mairie-du-18e-arrondissement-127449",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-13"
-  },
-  {
-   "id": "qfap-127945",
-   "titre": "Monet, peindre le temps",
-   "resume": "Cent ans après la disparition de Claude Monet, une exposition à ce qui constitue peut-être le cœur de sa peinture : sa quête de l’instant. Avec la conférencière Sophie Bommart.",
-   "debut": "2026-11-27",
-   "fin": "2026-11-27",
-   "horaires": "Le vendredi 27 novembre 2026 de 12h30 à 14h30",
-   "lieu": "Musée de l'Orangerie",
-   "adresse": "Jardin des Tuileries, Place de la Concorde, 75001 Paris",
-   "lat": 48.8637249,
-   "lon": 2.3267029,
-   "thematiques": [
-    "Beaux-arts"
-   ],
-   "tarif": {
-    "type": "payant",
-    "detail": "Tarif : 32€",
-    "prix_min": 32.0,
-    "reservation": true,
-    "billetterie": "https://agedordefrance.fr/event/monet-peindre-le-temps/"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/20/huge-4490d72d85b09af604d867b1fe48bd42.jpg",
-   "lien": "https://www.paris.fr/evenements/monet-peindre-le-temps-127945",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-25",
-   "affluence": {
-    "visiteurs": 1198694,
-    "annee": 2024,
-    "lieu": "Musée de l'Orangerie",
-    "niveau": 2,
-    "score": 6.079,
-    "source": "Liste Wikipédia ; Orsay + Orangerie = 4 949 835 (communiqué officiel)"
-   }
-  },
-  {
-   "id": "qfap-127972",
-   "titre": "Quand l'art réécrit votre vie",
-   "resume": "Vernissage d'exposition collective. Découvrez un espace dédié à des tableaux symboliques incarnant des personnages du cinéma et l'Oracle d'art.",
-   "debut": "2026-11-27",
-   "fin": "2026-11-27",
-   "horaires": "Le vendredi 27 novembre 2026 de à",
-   "lieu": "Tatiana ANIKINA",
-   "adresse": "25 rue Lantiez, 75017 Paris",
-   "lat": 48.8950309897284,
-   "lon": 2.32375097569252,
-   "thematiques": [
-    "Art contemporain",
-    "Beaux-arts",
-    "Sciences & nature"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/01/huge-8405e3e1a4f05cb0ba0e6394121b64d3.jpg",
-   "lien": "https://www.paris.fr/evenements/quand-l-art-reecrit-votre-vie-127972",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-25"
-  },
-  {
-   "id": "qfap-126493",
-   "titre": "Quand l'art réécrit votre vie",
-   "resume": "L'art est un outil pour dépasser ses limites et transformer sa vie. Découvrez un espace dédié à des tableaux symboliques incarnant des archétypes féminins. Au programme le 13 et 27 novembre : la présentation d'un jeu de cartes artistique interactif et une pratique de dessin spontané inspirée par Carl Jung pour déposer vos émotions, dépasser vos limites et devenir l'héroïne de votre propre vie.",
-   "debut": "2026-11-13",
-   "fin": "2026-11-27",
-   "horaires": "Du vendredi 13 novembre 2026 au vendredi 27 novembre 2026 :",
-   "lieu": "Tatiana ANIKINA",
-   "adresse": "25 rue Lantiez, 75017 Paris",
-   "lat": 48.8950309897284,
-   "lon": 2.32375097569252,
-   "thematiques": [
-    "Art contemporain",
-    "Beaux-arts",
-    "Sciences & nature"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/11/01/huge-8405e3e1a4f05cb0ba0e6394121b64d3.jpg",
-   "lien": "https://www.paris.fr/evenements/quand-l-art-reecrit-votre-vie-126493",
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-126025",
-   "titre": "expo \"pluriel·le·s\"",
-   "resume": "Une expo collective réunissant différent.e.s artistes et associations autour des multiples façons de vivre, de penser et d’exprimer les identités LGBTQI+",
-   "debut": "2026-11-06",
-   "fin": "2026-11-27",
-   "horaires": "Du vendredi 06 novembre 2026 au vendredi 27 novembre 2026 : mercredi de 10h00 à 21h30 mardi de 10h00 à 22h00 lundi de 12h00 à 22h00 jeudi de 10h00 à 22h00 vendredi de 12h00 à 22h00 samedi de 09h30 à 17h30",
-   "lieu": "Centre Paris Anim' Annie Fratellini (ex Villiot Rapée)",
-   "adresse": "36 quai de la Rapée, 75012 Paris",
-   "lat": 48.841469,
-   "lon": 2.373244,
-   "thematiques": [
-    "Art contemporain"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "detail": "villiot@claje.asso.fr",
-    "prix_min": 0,
-    "billetterie": "https://www.claje.asso.fr"
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/14/huge-e1e94713f909de79fe897b1f97ba135b.jpg",
-   "lien": "https://www.paris.fr/evenements/expo-pluriel-le-s-126025",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
-  {
-   "id": "qfap-126407",
-   "titre": "«Le changement climatique est sexiste ! Les femmes ripostent et agissent», une exposition de CARE France et l'Agence MYOP",
-   "resume": "Du 2 au 27 novembre 2026, la Ville de Paris, CARE France et l'Agence MYOP souhaitent sensibiliser les Parisiennes et Parisiens, et usagers, aux impacts du changement climatique sur les femmes et filles du monde.",
-   "debut": "2026-11-02",
-   "fin": "2026-11-27",
-   "horaires": "Du lundi 02 novembre 2026 au vendredi 27 novembre 2026 :",
-   "lieu": "Sur les berges de Seine (rive droite), en contrebas de la rampe Châtelet, entre le Pont-Neuf et Pont au Change.",
-   "adresse": "Voie Georges Pompidou, 75004 Paris",
-   "lat": 48.8524737465196,
-   "lon": 2.35938717565175,
-   "thematiques": [
-    "Photographie",
-    "Sciences & nature",
-    "Architecture & ville",
-    "Société & monde"
-   ],
-   "tarif": {
-    "type": "gratuit",
-    "prix_min": 0
-   },
-   "image": "https://cdn.paris.fr/qfapv4/2026/10/22/huge-73578b7eea84ad63314789e4df816b8d.jpg",
-   "lien": "https://www.paris.fr/evenements/le-changement-climatique-est-sexiste-les-femmes-ripostent-et-agissent-une-exposition-de-care-france-et-l-agence-myop-126407",
-   "accessible": true,
-   "source": "Que faire à Paris (Open Data Ville de Paris)",
-   "vu_le": "2026-11-03"
-  },
   {
    "id": "qfap-115627",
    "titre": "Exposition \"Chaussez vos bottes\" avec Chloé du Colombier",
@@ -2568,6 +2374,30 @@
    "lien": "https://www.paris.fr/evenements/teenage-dream-126878",
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-123185",
+   "titre": "Des photographies aux Archives : pour quoi faire ?",
+   "resume": "Exposition gratuite présentée aux Archives de Paris dans le cadre du bicentenaire de la photographie",
+   "debut": "2026-09-17",
+   "fin": "2026-12-23",
+   "horaires": "Le samedi 12 décembre 2026 de 09h30 à 17h00 Le samedi 05 décembre 2026 de 09h30 à 17h00 Du jeudi 17 septembre 2026 au mercredi 23 décembre 2026 : mardi, mercredi, jeudi, vendredi de 13h30 à 17h30 lundi de 13h30 à 17h30",
+   "lieu": "Hall des Archives de Paris",
+   "adresse": "18 boulevard Sérurier, 75019 Paris",
+   "lat": 48.856578,
+   "lon": 2.351828,
+   "thematiques": [
+    "Photographie"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://archives.paris.fr/offres-culturelles/bicentenaire-de-la-photographie-2026-2027-aux-archvies-de-paris/des-photographies-aux-archives--pour-quoi-faire-"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/09/04/huge-1ee51e45dedf509c40002aa20de36484.jpg",
+   "lien": "https://www.paris.fr/evenements/des-photographies-aux-archives-pour-quoi-faire-123185",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-28"
   },
   {
    "id": "qfap-127234",
@@ -5307,7 +5137,7 @@
   },
   {
    "id": "qfap-117749",
-   "titre": "Remportez des entrées pour l'expo « Simone Fattal. Des villes au fond d’un lac »",
+   "titre": "Simone Fattal. Des villes au fond d’un lac",
    "resume": "À l’automne 2026, le Musée d’Art Moderne de Paris dédie une importante exposition à Simone Fattal, artiste libano-étatsunienne née en 1942 à Damas et installée à Paris depuis de nombreuses années.",
    "debut": "2026-09-18",
    "fin": "2027-01-24",
@@ -8903,6 +8733,31 @@
    "vu_le": "2026-11-10"
   },
   {
+   "id": "qfap-123182",
+   "titre": "Bicentenaire de la photographie 2026-2027 aux Archives de Paris",
+   "resume": "Découvrez deux nouvelles expositions proposées par les Archives de Paris",
+   "debut": "2026-09-17",
+   "fin": "2027-09-30",
+   "horaires": "Du jeudi 17 septembre 2026 au jeudi 30 septembre 2027 :",
+   "lieu": "Archives de Paris",
+   "adresse": "18 boulevard Sérurier, 75019 Paris",
+   "lat": 48.856578,
+   "lon": 2.351828,
+   "thematiques": [
+    "Photographie",
+    "Histoire & patrimoine"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0,
+    "billetterie": "https://archives.paris.fr/offres-culturelles/bicentenaire-de-la-photographie-2026-2027-aux-archvies-de-paris"
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/09/04/huge-aaf642a8af14e096db997e8031a56f86.jpg",
+   "lien": "https://www.paris.fr/evenements/bicentenaire-de-la-photographie-2026-2027-aux-archives-de-paris-123182",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-28"
+  },
+  {
    "id": "qfap-113034",
    "titre": "Exposition \"Écorces\" à l'Arboretum de Paris",
    "resume": "L’exposition \"Écorces\" de Frédéric Combeau célèbre les arbres de l’Arboretum de Paris, en révélant la diversité et la beauté de ces « peaux » végétales.",
@@ -8926,6 +8781,26 @@
    "accessible": true,
    "source": "Que faire à Paris (Open Data Ville de Paris)",
    "vu_le": "2026-11-03"
+  },
+  {
+   "id": "qfap-123186",
+   "titre": "Petite histoire sommaire de la photographie à travers les fonds des Archives de Paris",
+   "resume": "Exposition virtuelle sur le site des Archives",
+   "debut": "2026-09-17",
+   "fin": "2027-09-30",
+   "horaires": "Du jeudi 17 septembre 2026 au jeudi 30 septembre 2027 :",
+   "thematiques": [
+    "Photographie",
+    "Histoire & patrimoine"
+   ],
+   "tarif": {
+    "type": "gratuit",
+    "prix_min": 0
+   },
+   "image": "https://cdn.paris.fr/qfapv4/2026/09/04/huge-618e8b565c348498c1a71f65d522f9ef.jpg",
+   "lien": "https://www.paris.fr/evenements/petite-histoire-sommaire-de-la-photographie-a-travers-les-fonds-des-archives-de-paris-123186",
+   "source": "Que faire à Paris (Open Data Ville de Paris)",
+   "vu_le": "2026-11-28"
   },
   {
    "id": "qfap-48697",
